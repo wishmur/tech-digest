@@ -1,11 +1,13 @@
 name: Daily Tech Digest
 
 on:
+  push:
+    branches: [main]     # runs automatically on every commit to main, using THAT commit's code
   schedule:
     # 14:00 UTC = 10:00 AM ET during EDT (mid-Mar to early Nov).
     # In EST (winter) this runs at 9 AM ET; change to "0 15 * * *" if you want 10 AM year-round in winter.
     - cron: "0 14 * * *"
-  workflow_dispatch:   # adds a "Run workflow" button in the Actions tab for manual test runs
+  workflow_dispatch:   # also lets you trigger it manually from the Actions tab
 
 jobs:
   digest:
