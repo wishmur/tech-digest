@@ -159,9 +159,10 @@ async function pushToFramer(picks) {
       set(fd, "Source", p.source);
       set(fd, "Link", p.link);
       const slug = `${slugify(p.title)}-${shortHash(p.link || p.title)}`.slice(0, 80);
+      console.log("Pushing: ", slug, fieldData: fd);
       return { slug, fieldData: fd };
     });
-
+    console.log("Finished pushing the baby out!");
     // Dedupe across days: skip anything whose slug is already in the collection.
     const existing = await collection.getItems();
     const existingSlugs = new Set(existing.map(i => i.slug));
