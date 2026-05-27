@@ -143,8 +143,8 @@ async function pushToFramer(picks) {
     const collections = await framer.getCollections();
     console.log("collections: ", collections);
     const collection = collections.find(c => c.name === COLLECTION_NAME);
-    console.log("collections: ", collections);
-    if (!collection) throw new Error(`Collection "${COLLECTION_NAME}" not found. Found: ${collections.map(c => c.name).join(", ")}`);
+  console.log("collections:", collections.map(c => c.name))
+  if (!collection) throw new Error(`Collection "${COLLECTION_NAME}" not found. Found: ${collections.map(c => c.name).join(", ")}`);
 
     const fields = await collection.getFields();
     const byName = {};
@@ -164,8 +164,8 @@ async function pushToFramer(picks) {
       set(fd, "Source", p.source);
       set(fd, "Link", p.link);
       const slug = `${slugify(p.title)}-${shortHash(p.link || p.title)}`.slice(0, 80);
-      console.log("Pushing: ", slug, fieldData: fd);
-      return { slug, fieldData: fd };
+      console.log("collections:", collections.map(c => c.name))
+  return { slug, fieldData: fd };
     });
     console.log("Finished pushing the baby out!");
     // Dedupe across days: skip anything whose slug is already in the collection.
