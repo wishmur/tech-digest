@@ -134,11 +134,16 @@ function valueFor(field, raw) {
 }
 
 async function pushToFramer(picks) {
+  console.log("Inside pushToFramer with...", picks);
   const dateStr = new Date().toISOString().slice(0, 10); // run date so the day's items group together
+  console.log("datStr: ", dateStr);
   const framer = await connect(FRAMER_PROJECT_URL, FRAMER_API_KEY);
+  console.log("framer: ", framer);
   try {
     const collections = await framer.getCollections();
+    console.log("collections: ", collections);
     const collection = collections.find(c => c.name === COLLECTION_NAME);
+    console.log("collections: ", collections);
     if (!collection) throw new Error(`Collection "${COLLECTION_NAME}" not found. Found: ${collections.map(c => c.name).join(", ")}`);
 
     const fields = await collection.getFields();
