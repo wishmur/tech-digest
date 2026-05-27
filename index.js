@@ -146,7 +146,10 @@ async function pushToFramer(picks) {
     for (const f of fields) byName[f.name.toLowerCase()] = f;
     const set = (fd, name, raw) => { const f = byName[name.toLowerCase()]; if (f) fd[f.id] = valueFor(f, raw); };
 
-    const items = picks.map(p => {
+    // Build items. New items on an unmanaged collection must OMIT id (id is only
+    // for updating existing items). Slug is stable per-article (no date) so the
+    // same story maps to the same slug and won't be re-added on later days.
+    const built = picks.map(p => {
       const fd = {};
       set(fd, "Title", p.title);
       set(fd, "Date", dateStr);
@@ -155,12 +158,22 @@ async function pushToFramer(picks) {
       set(fd, "Company", p.company);
       set(fd, "Source", p.source);
       set(fd, "Link", p.link);
-      const h = shortHash(p.link || (dateStr + p.title));
-      return { id: h, slug: `${dateStr}-${slugify(p.title)}-${h}`.slice(0, 80), fieldData: fd };
+      const slug = `${slugify(p.title)}-${shortHash(p.link || p.title)}`.slice(0, 80);
+      return { slug, fieldData: fd };
     });
 
+    // Dedupe across days: skip anything whose slug is already in the collection.
+    const existing = await collection.getItems();
+    const existingSlugs = new Set(existing.map(i => i.slug));
+    const items = built.filter(it => !existingSlugs.has(it.slug));
+
+    if (items.length === 0) {
+      console.log("No new stories today; everything is already in the collection.");
+      return;
+    }
+
     await collection.addItems(items);
-    console.log(`Added ${items.length} items to "${COLLECTION_NAME}".`);
+    console.log(`Added ${items.length} new item(s) to "${COLLECTION_NAME}".`);
     await framer.publish();
     console.log("Published to live site.");
   } finally {
