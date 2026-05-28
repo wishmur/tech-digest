@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-05-28T01:52:40.561Z",
+  "lastUpdated": "2026-05-28T17:31:31.059Z",
   "days": [
     {
       "date": "2026-05-28",
-      "summary": "Cognition raised $1B at a $25B valuation on $492M ARR, signaling continued massive capital flows into AI coding tools. Snowflake signed a $6B five-year deal with AWS for AI compute, a direct signal of AWS gaining ground on chip supply against NVIDIA. OpenAI and Anthropic are confirmed to have found product-market fit per a widely-discussed analysis, while Google faces user backlash from its AI Search overhaul, with DuckDuckGo installs spiking 30%.",
+      "summary": "Anthropic released Claude Opus 4.8 with Dynamic Workflows for multi-agent coordination in Claude Code, making it the day's biggest AI product launch. YouTube announced it will automatically label AI-generated videos, a significant content policy move with high engagement. Apple's iOS 27 Siri overhaul and NVIDIA's push on AI factory infrastructure round out the major platform-level developments worth tracking.",
       "items": [
         {
           "id": "0506309603",
@@ -189,6 +189,187 @@
             "competitive"
           ],
           "publishedAt": "2026-05-27T18:39:17.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "9f1ac71754",
+          "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+          "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic released Opus 4.8 with Dynamic Workflows, a tool that coordinates swarms of subagents inside Claude Code, expanding its agentic coding capabilities.",
+          "topic": "AI Model Launch",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-05-28T17:00:09.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "85e95cb533",
+          "title": "Claude’s new model is more ‘honest’ when it messes up",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+          "source": "The Verge",
+          "summary": "Claude Opus 4.8 is also being touted for improved honesty, meaning it better acknowledges when it makes errors, which is a meaningful differentiator in enterprise trust.",
+          "topic": "AI Model Quality",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-05-28T17:00:00.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "16b0cdbcc3",
+          "title": "YouTube to automatically label AI-generated videos",
+          "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "source": "Hacker News",
+          "summary": "YouTube will automatically label AI-generated videos, a platform-level content policy with major implications for creators and AI-generated media distribution.",
+          "topic": "AI Content Policy",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-05-27T20:00:51.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "5ae8ee806a",
+          "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+          "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+          "source": "TechCrunch AI",
+          "summary": "Leaked renders of iOS 27 show Apple planning a standalone Siri app and a redesigned AI-powered experience intended to compete directly with ChatGPT.",
+          "topic": "AI Assistant Platform",
+          "company": "Apple",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-05-28T14:45:13.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "0ddc0ce05d",
+          "title": "AI Factories: The New Infrastructure of Intelligence",
+          "link": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA articulates the AI factory concept as the core infrastructure layer for agentic, always-on enterprise AI, framing performance per watt as the critical metric at scale.",
+          "topic": "AI Infrastructure",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-05-27T16:00:36.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "2f29b63934",
+          "title": "NVIDIA Research Advances Robotics From Simulation to the Real World",
+          "link": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA Research presented advances in sim-to-real robotics at ICRA, signaling progress toward generalizable autonomous robots that work outside controlled environments.",
+          "topic": "Robotics Research",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "launch"
+          ],
+          "publishedAt": "2026-05-28T13:00:51.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "ebb7ad590d",
+          "title": "Visa invests in Replit to power agentic payments for developers",
+          "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+          "source": "TechCrunch AI",
+          "summary": "Visa invested in Replit and is integrating it to enable agentic payment flows for developers, signaling that financial incumbents are actively embedding AI coding tools into their stacks.",
+          "topic": "AI Tooling Investment",
+          "company": "Visa",
+          "secondaryCompanies": [
+            "Replit"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-05-28T14:00:00.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "7dac4f0cab",
+          "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+          "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+          "source": "TechCrunch AI",
+          "summary": "Databricks' co-founder at TechCrunch Disrupt said enterprises have moved past AI curiosity and are now focused on whether AI is safe enough for broad deployment, marking a maturation in the buying cycle.",
+          "topic": "Enterprise AI Adoption",
+          "company": "Databricks",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive",
+            "research"
+          ],
+          "publishedAt": "2026-05-28T14:30:00.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "025daae84f",
+          "title": "Disagreement among frontier LLMs on real-world fact-checks",
+          "link": "https://lenz.io/research/llm-disagreement",
+          "source": "Hacker News",
+          "summary": "Research showing frontier LLMs frequently disagree with each other on real-world fact-checks is a high-signal finding for any PM building AI products that depend on factual accuracy.",
+          "topic": "LLM Reliability Research",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-05-28T12:20:19.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "b20d73959a",
+          "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+          "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+          "source": "TechCrunch AI",
+          "summary": "Payroll startup Remote hit $300M ARR and became cash-flow positive by growing revenue 50% per employee without adding headcount, offering a concrete case study of AI-driven operational leverage.",
+          "topic": "AI Business Impact",
+          "company": "Remote",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-05-27T19:39:45.000Z",
           "addedOn": "2026-05-28"
         }
       ]
