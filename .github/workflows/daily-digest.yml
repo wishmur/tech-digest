@@ -2,12 +2,13 @@ name: Daily Tech Digest
 
 on:
   push:
-    branches: [main]     # runs automatically on every commit to main, using THAT commit's code
+    branches: [main]
   schedule:
-    # 14:00 UTC = 10:00 AM ET during EDT (mid-Mar to early Nov).
-    # In EST (winter) this runs at 9 AM ET; change to "0 15 * * *" if you want 10 AM year-round in winter.
-    - cron: "0 14 * * *"
-  workflow_dispatch:   # also lets you trigger it manually from the Actions tab
+    - cron: "0 14 * * *"   # 14:00 UTC = 10 AM ET during EDT. Switch to "0 15 * * *" for 10 AM EST in winter.
+  workflow_dispatch:
+
+permissions:
+  contents: write   # required so the job can commit the updated data file
 
 jobs:
   digest:
@@ -21,5 +22,8 @@ jobs:
       - run: node index.js
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          FRAMER_API_KEY: ${{ secrets.FRAMER_API_KEY }}
-          FRAMER_PROJECT_URL: ${{ secrets.FRAMER_PROJECT_URL }}
+      - name: Commit updated digest data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update digest data"
+          file_pattern: data/digest.json
