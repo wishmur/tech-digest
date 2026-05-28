@@ -1,0 +1,197 @@
+{
+  "lastUpdated": "2026-05-28T01:52:40.561Z",
+  "days": [
+    {
+      "date": "2026-05-28",
+      "summary": "Cognition raised $1B at a $25B valuation on $492M ARR, signaling continued massive capital flows into AI coding tools. Snowflake signed a $6B five-year deal with AWS for AI compute, a direct signal of AWS gaining ground on chip supply against NVIDIA. OpenAI and Anthropic are confirmed to have found product-market fit per a widely-discussed analysis, while Google faces user backlash from its AI Search overhaul, with DuckDuckGo installs spiking 30%.",
+      "items": [
+        {
+          "id": "0506309603",
+          "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+          "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "Cognition's $1B raise at a $25B valuation with $492M ARR shows the AI coding agent market is attracting serious capital and generating real revenue at scale.",
+          "topic": "AI Coding Agent Funding",
+          "company": "Cognition",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-05-27T16:00:00.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "d73c2adfc4",
+          "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+          "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+          "source": "TechCrunch AI",
+          "summary": "Snowflake's $6B five-year deal with AWS for AI CPU chips is a major win for Amazon's cloud infrastructure business and a signal that hyperscaler-supplied compute is increasingly competing with NVIDIA.",
+          "topic": "Cloud Infrastructure Deal",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "Snowflake",
+            "NVIDIA"
+          ],
+          "importance": 5,
+          "tags": [
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-05-27T20:10:00.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "8c94a29a6f",
+          "title": "I think Anthropic and OpenAI have found product-market fit",
+          "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "source": "Hacker News",
+          "summary": "A widely-read analysis argues OpenAI and Anthropic have achieved genuine product-market fit, with strong HN engagement suggesting broad industry agreement that AI assistant adoption is now structural.",
+          "topic": "AI Product-Market Fit",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive",
+            "research"
+          ],
+          "publishedAt": "2026-05-27T16:39:13.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "1e2ebecf46",
+          "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+          "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+          "source": "TechCrunch AI",
+          "summary": "DuckDuckGo app installs spiked 30% following Google's AI-first Search overhaul at I/O 2026, showing measurable user resistance to AI-generated search results that PMs building search-dependent products should monitor.",
+          "topic": "Search Market Shift",
+          "company": "Google",
+          "secondaryCompanies": [
+            "DuckDuckGo"
+          ],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-05-26T22:32:56.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "1ab37a271e",
+          "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+          "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+          "source": "TechCrunch AI",
+          "summary": "OpenRouter raised $113M at a $1.3B valuation with 5x usage growth in six months, confirming that multi-model routing infrastructure is becoming a critical and monetizable layer in the AI stack.",
+          "topic": "AI Model Infrastructure Funding",
+          "company": "OpenRouter",
+          "secondaryCompanies": [
+            "CapitalG"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "infra",
+            "tooling"
+          ],
+          "publishedAt": "2026-05-26T18:33:01.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "82b52c01ab",
+          "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
+          "link": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA's Vera CPU is posting strong early benchmarks for agentic AI workloads, positioning NVIDIA to compete for CPU-level infrastructure spend as AI factories scale.",
+          "topic": "NVIDIA CPU Competitive Launch",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-05-26T21:15:15.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "02233afb32",
+          "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+          "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+          "source": "TechCrunch AI",
+          "summary": "Meta is rolling out paid subscriptions globally for Instagram, Facebook, and WhatsApp under a unified 'Meta One' umbrella, representing a significant business model shift that includes AI-tier offerings.",
+          "topic": "Platform Monetization Launch",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-05-27T18:00:00.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "1b2eb7271a",
+          "title": "YouTube will now automatically label AI videos",
+          "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+          "source": "TechCrunch AI",
+          "summary": "YouTube is moving from creator self-disclosure to automatic AI-content labeling for photorealistic AI videos, setting a new platform standard that will affect AI video product launches.",
+          "topic": "AI Content Policy",
+          "company": "YouTube",
+          "secondaryCompanies": [
+            "Google"
+          ],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-05-27T13:00:00.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "ca622eab01",
+          "title": "The Codex feature that works while you sleep",
+          "link": "https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while",
+          "source": "Lenny's Newsletter",
+          "summary": "OpenAI's Codex '/goal' feature enables autonomous background coding tasks, a concrete product capability that PMs evaluating AI development tooling should understand.",
+          "topic": "AI Coding Tooling",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-05-27T12:03:47.000Z",
+          "addedOn": "2026-05-28"
+        },
+        {
+          "id": "1eb01a9513",
+          "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+          "link": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+          "source": "TechCrunch AI",
+          "summary": "Google's AI-first Search overhaul has effectively invalidated traditional SEO strategies, requiring product and marketing teams to rethink how their products appear in AI-generated search answers.",
+          "topic": "AI Search Impact on Product Discovery",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-05-27T18:39:17.000Z",
+          "addedOn": "2026-05-28"
+        }
+      ]
+    }
+  ]
+}
