@@ -1,12 +1,11 @@
 {
   "name": "tech-digest",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
   "engines": { "node": ">=22" },
   "scripts": { "start": "node index.js" },
   "dependencies": {
-    "framer-api": "^0.1.10",
     "rss-parser": "^3.13.0"
   }
 }
