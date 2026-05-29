@@ -1,6 +1,189 @@
 {
-  "lastUpdated": "2026-05-28T17:31:31.059Z",
+  "lastUpdated": "2026-05-29T17:26:27.451Z",
   "days": [
+    {
+      "date": "2026-05-29",
+      "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion valuation, likely its last private raise before an IPO, making it the dominant funding story of the day. AWS launched next-generation versions of Resilience Hub and OpenSearch Serverless, both explicitly targeting agentic AI workloads. Glean crossed $300M ARR while tripling revenue, and a new Claude Opus 4.8 model appears to be in circulation based on early reviews.",
+      "items": [
+        {
+          "id": "fa304b3484",
+          "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+          "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic closed a $65B Series H at a $965B post-money valuation, signaling this is likely its final private fundraise before IPO and reshaping competitive dynamics with OpenAI and Google.",
+          "topic": "AI Funding & Valuation",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "competitive"
+          ],
+          "publishedAt": "2026-05-28T18:52:51.000Z",
+          "addedOn": "2026-05-29"
+        },
+        {
+          "id": "361836a50c",
+          "title": "Claude Opus 4.8 is here. Is it as good as they say?",
+          "link": "https://www.lennysnewsletter.com/p/claude-opus-48-is-here-is-it-as-good",
+          "source": "Lenny's Newsletter",
+          "summary": "Claude Opus 4.8 appears to have shipped and is receiving first-impression reviews, making it immediately relevant for any PM evaluating Anthropic's model tier for product integration.",
+          "topic": "AI Model Launch",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-05-28T21:35:07.000Z",
+          "addedOn": "2026-05-29"
+        },
+        {
+          "id": "7b1aab1a5e",
+          "title": "The internet is being rebuilt for machines",
+          "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+          "source": "TechCrunch AI",
+          "summary": "AWS, Cloudflare, and others are actively redesigning cloud infrastructure to handle machine-generated traffic at scale, which will affect how PMs architect agentic products.",
+          "topic": "AI Infrastructure",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "Cloudflare"
+          ],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-05-28T21:24:01.000Z",
+          "addedOn": "2026-05-29"
+        },
+        {
+          "id": "b5827f79a0",
+          "title": "Introducing the next generation of Amazon OpenSearch Serverless for building your agentic AI applications",
+          "link": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/",
+          "source": "AWS News",
+          "summary": "AWS rebuilt Amazon OpenSearch Serverless from scratch for agentic AI workloads, offering instant autoscaling and up to 60% cost savings, directly relevant to teams building RAG or agent-memory layers.",
+          "topic": "AWS Product Launch",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra"
+          ],
+          "publishedAt": "2026-05-28T18:26:16.000Z",
+          "addedOn": "2026-05-29"
+        },
+        {
+          "id": "95e241268c",
+          "title": "Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey",
+          "link": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/",
+          "source": "AWS News",
+          "summary": "AWS updated Resilience Hub with generative AI-powered failure analysis and dependency discovery, giving SRE and platform teams new tooling to manage reliability for AI-based systems.",
+          "topic": "AWS Product Launch",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "tooling"
+          ],
+          "publishedAt": "2026-05-28T19:29:55.000Z",
+          "addedOn": "2026-05-29"
+        },
+        {
+          "id": "c87f159dd8",
+          "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
+          "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+          "source": "TechCrunch AI",
+          "summary": "Glean tripled ARR to over $300M by positioning enterprise AI search as a budget-cutting tool, demonstrating that cost-reduction framing is currently the most effective GTM strategy for enterprise AI.",
+          "topic": "Enterprise AI Growth",
+          "company": "Glean",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-05-29T00:44:37.000Z",
+          "addedOn": "2026-05-29"
+        },
+        {
+          "id": "0d22b3289c",
+          "title": "Asana acquires no-code agent-builder StackAI",
+          "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Asana acquired no-code agent builder StackAI to expand its AI workflow suite, showing how established SaaS players are buying rather than building agentic tooling capabilities.",
+          "topic": "M&A / AI Tooling",
+          "company": "Asana",
+          "secondaryCompanies": [
+            "StackAI"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "tooling"
+          ],
+          "publishedAt": "2026-05-28T20:06:07.000Z",
+          "addedOn": "2026-05-29"
+        },
+        {
+          "id": "95bb06f512",
+          "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+          "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+          "source": "TechCrunch AI",
+          "summary": "South Korean chip startup XCENA raised $135M on the thesis that memory bandwidth, not compute, is the primary bottleneck for AI inference, which could affect hardware strategy decisions for AI infrastructure teams.",
+          "topic": "AI Hardware Funding",
+          "company": "XCENA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "infra"
+          ],
+          "publishedAt": "2026-05-29T12:00:00.000Z",
+          "addedOn": "2026-05-29"
+        },
+        {
+          "id": "aa6edfc162",
+          "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
+          "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+          "source": "TechCrunch AI",
+          "summary": "There is a public dispute between Elon Musk and SpaceX's own S-1 filing over the duration of xAI's compute deal with Anthropic, creating uncertainty for teams relying on that supply chain.",
+          "topic": "AI Compute Partnerships",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "SpaceX",
+            "xAI"
+          ],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-05-28T15:36:00.000Z",
+          "addedOn": "2026-05-29"
+        },
+        {
+          "id": "92d8aa4713",
+          "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+          "link": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+          "source": "Hacker News",
+          "summary": "A new inference approach claims 3,000 tokens per second per request on standard GPUs, which if validated would significantly reduce cost and latency for LLM-powered product features.",
+          "topic": "LLM Inference Performance",
+          "company": "KOG AI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "infra"
+          ],
+          "publishedAt": "2026-05-29T09:47:23.000Z",
+          "addedOn": "2026-05-29"
+        }
+      ]
+    },
     {
       "date": "2026-05-28",
       "summary": "Anthropic released Claude Opus 4.8 with Dynamic Workflows for multi-agent coordination in Claude Code, making it the day's biggest AI product launch. YouTube announced it will automatically label AI-generated videos, a significant content policy move with high engagement. Apple's iOS 27 Siri overhaul and NVIDIA's push on AI factory infrastructure round out the major platform-level developments worth tracking.",
