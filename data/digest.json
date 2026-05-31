@@ -1,6 +1,186 @@
 {
-  "lastUpdated": "2026-05-30T14:58:08.184Z",
+  "lastUpdated": "2026-05-31T15:09:45.047Z",
   "days": [
+    {
+      "date": "2026-05-31",
+      "summary": "SoftBank is committing up to €75 billion to build French data centers, signaling continued massive capital flows into AI infrastructure in Europe. GitHub Copilot's shift to token-based billing is drawing developer backlash, a meaningful signal for AI tooling monetization strategies. Meta is reportedly developing an AI pendant, adding to a growing wave of AI-native hardware bets.",
+      "items": [
+        {
+          "id": "4f54dd187f",
+          "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+          "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+          "source": "TechCrunch AI",
+          "summary": "SoftBank plans to invest up to €75 billion in French data centers targeting 5 gigawatts of capacity, representing one of the largest single AI infrastructure commitments in Europe to date.",
+          "topic": "AI Infrastructure Investment",
+          "company": "SoftBank",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "infra"
+          ],
+          "publishedAt": "2026-05-30T21:45:00.000Z",
+          "addedOn": "2026-05-31"
+        },
+        {
+          "id": "54225d4160",
+          "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+          "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+          "source": "TechCrunch AI",
+          "summary": "GitHub Copilot's move to token-based billing is angering developers who previously enjoyed flat-rate pricing, raising real questions about how AI tooling companies will monetize without alienating their core users.",
+          "topic": "AI Tooling Monetization",
+          "company": "GitHub",
+          "secondaryCompanies": [
+            "Microsoft"
+          ],
+          "importance": 4,
+          "tags": [
+            "product",
+            "tooling",
+            "competitive"
+          ],
+          "publishedAt": "2026-05-30T16:30:00.000Z",
+          "addedOn": "2026-05-31"
+        },
+        {
+          "id": "361533e646",
+          "title": "Meta is reportedly developing an AI pendant",
+          "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+          "source": "TechCrunch AI",
+          "summary": "Meta is reportedly building an AI pendant device, expanding its hardware strategy beyond Ray-Ban glasses and signaling the company sees wearable AI as a key product category.",
+          "topic": "AI Hardware",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-05-30T15:59:58.000Z",
+          "addedOn": "2026-05-31"
+        },
+        {
+          "id": "efe0c0c4c8",
+          "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+          "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+          "source": "TechCrunch AI",
+          "summary": "Google's Gemini Spark offers a persistent AI assistant for automating everyday tasks like email and scheduling, but its positioning as a standalone product separate from Gemini raises product strategy questions worth watching.",
+          "topic": "AI Assistant Product",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-05-30T15:30:00.000Z",
+          "addedOn": "2026-05-31"
+        },
+        {
+          "id": "8de4b1ec8a",
+          "title": "A rational conversation on where AI is actually going | Benedict Evans",
+          "link": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where",
+          "source": "Lenny's Newsletter",
+          "summary": "Benedict Evans argues AI is at a 1997 internet inflection point and that conventional wisdom on job displacement and value accrual is largely wrong, a useful framing for PMs thinking about long-term product strategy.",
+          "topic": "AI Strategy & Market Perspective",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-05-31T12:31:43.000Z",
+          "addedOn": "2026-05-31"
+        },
+        {
+          "id": "977baad8bb",
+          "title": "🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny's community surfaces practical PM questions including detecting AI use in interviews and org design for knowledge concentration, both directly relevant to how teams are adapting to AI workflows today.",
+          "topic": "Product Management Practice",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product"
+          ],
+          "publishedAt": "2026-05-30T16:43:36.000Z",
+          "addedOn": "2026-05-31"
+        },
+        {
+          "id": "8cb32b2a45",
+          "title": "I Put a Datacenter GPU in My Gaming PC for £200",
+          "link": "https://blog.tymscar.com/posts/v100localllm/",
+          "source": "Hacker News",
+          "summary": "A hobbyist ran a datacenter-class V100 GPU in a consumer PC for £200, demonstrating that capable local LLM inference hardware is becoming accessible far below enterprise price points.",
+          "topic": "Local AI Inference",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "infra",
+            "tooling"
+          ],
+          "publishedAt": "2026-05-31T13:53:16.000Z",
+          "addedOn": "2026-05-31"
+        },
+        {
+          "id": "e53b23ba2c",
+          "title": "Domain expertise has always been the real moat",
+          "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+          "source": "Hacker News",
+          "summary": "A widely-discussed piece argues domain expertise remains the durable competitive moat even as AI commoditizes general skills, directly relevant to PMs thinking about product differentiation and team hiring.",
+          "topic": "Competitive Strategy",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "competitive",
+            "research"
+          ],
+          "publishedAt": "2026-05-30T20:40:57.000Z",
+          "addedOn": "2026-05-31"
+        },
+        {
+          "id": "a9ce1d6235",
+          "title": "Microsoft is threatening legal action for disclosing exploits",
+          "link": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+          "source": "The Verge",
+          "summary": "Microsoft is threatening legal action against security researchers who publicly disclosed zero-day exploits, creating reputational and trust risk for one of the largest enterprise software and AI platform vendors.",
+          "topic": "Security & Trust",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-05-30T15:19:50.000Z",
+          "addedOn": "2026-05-31"
+        },
+        {
+          "id": "4762e8b3d8",
+          "title": "Accenture to acquire Ookla",
+          "link": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+          "source": "Hacker News",
+          "summary": "Accenture is acquiring Ookla, owner of Speedtest and Downdetector, indicating major consultancies are expanding their data and network intelligence assets likely to support AI infrastructure advisory services.",
+          "topic": "Acquisition",
+          "company": "Accenture",
+          "secondaryCompanies": [
+            "Ookla"
+          ],
+          "importance": 2,
+          "tags": [
+            "funding",
+            "infra"
+          ],
+          "publishedAt": "2026-05-30T16:28:58.000Z",
+          "addedOn": "2026-05-31"
+        }
+      ]
+    },
     {
       "date": "2026-05-30",
       "summary": "Anthropic has surpassed OpenAI to become the most valuable AI startup, marking a significant shift in the competitive landscape. Groq is raising $650M as it pivots from hardware to AI inference, following Nvidia's $20B deal. Corporate America is beginning to ration AI spending as costs skyrocket, a key signal for PMs building or buying AI products.",
