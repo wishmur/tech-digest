@@ -1,6 +1,191 @@
 {
-  "lastUpdated": "2026-05-31T15:09:45.047Z",
+  "lastUpdated": "2026-06-01T19:16:01.141Z",
   "days": [
+    {
+      "date": "2026-06-01",
+      "summary": "Anthropic filed confidentially for an IPO with the SEC, marking a major milestone in the AI industry and signaling competitive pressure on OpenAI to do the same. Microsoft is set to unveil new AI models and Windows improvements at Build this week, targeting developer mindshare. NVIDIA continued its Computex momentum, announcing expanded cloud ecosystem partnerships, factory AI blueprints, and local AI agent capabilities across RTX PCs and DGX Spark.",
+      "items": [
+        {
+          "id": "388c0763bb",
+          "title": "Anthropic files to go public",
+          "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic filing confidentially for an IPO is a landmark signal of AI industry maturation and will intensify competitive dynamics with OpenAI around fundraising, talent, and enterprise credibility.",
+          "topic": "Anthropic IPO Filing",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "competitive",
+            "launch"
+          ],
+          "publishedAt": "2026-06-01T16:36:55.000Z",
+          "addedOn": "2026-06-01"
+        },
+        {
+          "id": "a2c34073ba",
+          "title": "Microsoft to unveil new AI models and Windows improvements at Build",
+          "link": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+          "source": "The Verge",
+          "summary": "Microsoft Build this week will showcase new AI models and Windows improvements, making it a critical event for PMs tracking the developer platform and AI tooling landscape.",
+          "topic": "Microsoft Build AI Announcements",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-01T14:39:03.000Z",
+          "addedOn": "2026-06-01"
+        },
+        {
+          "id": "b6ba45fe01",
+          "title": "AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)",
+          "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/",
+          "source": "AWS News",
+          "summary": "AWS's weekly roundup highlights Claude Opus 4.8 availability on AWS and new Aurora MySQL integrations with Kiro, reflecting continued deepening of the Anthropic-AWS partnership for enterprise AI.",
+          "topic": "AWS AI Model Updates",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 4,
+          "tags": [
+            "product",
+            "infra",
+            "launch"
+          ],
+          "publishedAt": "2026-06-01T14:25:33.000Z",
+          "addedOn": "2026-06-01"
+        },
+        {
+          "id": "62ec228a88",
+          "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
+          "link": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA is expanding its AI cloud partner ecosystem globally to meet enterprise and government AI compute demand, reinforcing its position as the dominant infrastructure layer for AI deployment.",
+          "topic": "NVIDIA AI Cloud Expansion",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-01T05:00:56.000Z",
+          "addedOn": "2026-06-01"
+        },
+        {
+          "id": "3041ae5e99",
+          "title": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
+          "link": "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/",
+          "source": "NVIDIA Blog",
+          "summary": "Taiwan's manufacturing ecosystem is producing over 1 million NVIDIA MGX rack components for Vera Rubin infrastructure, showing the scale and supply chain depth behind NVIDIA's next-gen AI hardware.",
+          "topic": "NVIDIA Vera Rubin Supply Chain",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "launch"
+          ],
+          "publishedAt": "2026-06-01T05:00:41.000Z",
+          "addedOn": "2026-06-01"
+        },
+        {
+          "id": "70abe1bbdd",
+          "title": "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark",
+          "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA is pushing local AI agents onto RTX PCs and DGX Spark with support for open-source projects, expanding the on-device AI ecosystem and creating a new product surface for developers.",
+          "topic": "NVIDIA Local AI Agents",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "launch",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-01T04:30:11.000Z",
+          "addedOn": "2026-06-01"
+        },
+        {
+          "id": "92cc0c1be4",
+          "title": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
+          "link": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA's Factory Operations Blueprint aims to connect live machine signals, quality systems, and operational alerts into a unified AI brain for manufacturers, targeting a major enterprise vertical.",
+          "topic": "NVIDIA Industrial AI",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-06-01T05:00:47.000Z",
+          "addedOn": "2026-06-01"
+        },
+        {
+          "id": "5942280791",
+          "title": "How Cosmos 3 Helps Physical AI Think Before It Acts",
+          "link": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA's Cosmos 3 model advances physical AI reasoning for robotics and autonomous systems, relevant for PMs tracking the physical AI and embodied AI product space.",
+          "topic": "NVIDIA Cosmos 3 Physical AI",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-06-01T04:45:07.000Z",
+          "addedOn": "2026-06-01"
+        },
+        {
+          "id": "03e6e22cff",
+          "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+          "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+          "source": "TechCrunch AI",
+          "summary": "DuckDuckGo launching browser extensions that block AI-generated search results reflects growing user demand for AI-free search and is a signal for PMs building search or discovery products.",
+          "topic": "DuckDuckGo No-AI Search Extension",
+          "company": "DuckDuckGo",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-01T14:49:10.000Z",
+          "addedOn": "2026-06-01"
+        },
+        {
+          "id": "4ea20aefd1",
+          "title": "Building an iPhone app with zero technical skills | Bryce Rattner Keithley",
+          "link": "https://www.lennysnewsletter.com/p/building-an-iphone-app-with-zero",
+          "source": "Lenny's Newsletter",
+          "summary": "A non-technical talent leader built and shipped an iOS fitness app using AI tools alone, a practical case study relevant to PMs evaluating how much AI is reducing barriers to software product creation.",
+          "topic": "No-Code AI App Development",
+          "company": "Lenny's Newsletter",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-01T12:04:51.000Z",
+          "addedOn": "2026-06-01"
+        }
+      ]
+    },
     {
       "date": "2026-05-31",
       "summary": "SoftBank is committing up to €75 billion to build French data centers, signaling continued massive capital flows into AI infrastructure in Europe. GitHub Copilot's shift to token-based billing is drawing developer backlash, a meaningful signal for AI tooling monetization strategies. Meta is reportedly developing an AI pendant, adding to a growing wave of AI-native hardware bets.",
