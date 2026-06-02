@@ -1,6 +1,196 @@
 {
-  "lastUpdated": "2026-06-01T19:16:01.141Z",
+  "lastUpdated": "2026-06-02T17:59:27.670Z",
   "days": [
+    {
+      "date": "2026-06-02",
+      "summary": "Microsoft Build 2026 dominated today with announcements including Project Solara (an OS for AI agent gadgets), the RTX Spark-powered Surface dev box, and broader Windows developer improvements, all signaling a platform-level bet on agentic AI. OpenAI launched six Codex plug-ins for white-collar roles and its models are now available on Amazon Bedrock, while Anthropic expanded its critical infrastructure security program to 150 organizations in 15 countries. Alphabet announced plans to raise $80B for AI infrastructure buildout, underscoring the capital arms race now defining the industry.",
+      "items": [
+        {
+          "id": "770b391e6f",
+          "title": "OpenAI launches new Codex tools for white-collar work",
+          "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI released six Codex plug-ins targeting specific professional roles including data analytics, sales, product design, and investment banking, extending Codex beyond coding into general knowledge work.",
+          "topic": "AI Product Launch",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-02T16:00:00.000Z",
+          "addedOn": "2026-06-02"
+        },
+        {
+          "id": "e9f016ff69",
+          "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
+          "link": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
+          "source": "AWS News",
+          "summary": "OpenAI's GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock, giving enterprise developers access to frontier models through AWS infrastructure.",
+          "topic": "AI Model Availability",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-06-01T21:33:28.000Z",
+          "addedOn": "2026-06-02"
+        },
+        {
+          "id": "7838244d4b",
+          "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
+          "link": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+          "source": "The Verge",
+          "summary": "Microsoft announced Project Solara at Build 2026, a new OS built from the ground up for AI agent-driven devices, representing a platform-level commitment to agentic computing.",
+          "topic": "AI Platform / OS",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-06-02T17:31:02.000Z",
+          "addedOn": "2026-06-02"
+        },
+        {
+          "id": "7a8f5bd4e5",
+          "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+          "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+          "source": "TechCrunch AI",
+          "summary": "NVIDIA is targeting the $200B CPU market by partnering with Microsoft, Dell, and HP to bring AI agent capabilities to PCs, positioning itself as the default AI silicon for consumer and enterprise devices.",
+          "topic": "AI Hardware / Platform",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Microsoft",
+            "Dell",
+            "HP"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-06-01T21:35:00.000Z",
+          "addedOn": "2026-06-02"
+        },
+        {
+          "id": "bcc7d6d68c",
+          "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+          "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is expanding Project Glasswing to 150 organizations across 15 countries, deploying Claude Mythos in critical infrastructure sectors including power, water, and healthcare.",
+          "topic": "AI Safety / Enterprise Expansion",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-06-02T14:44:21.000Z",
+          "addedOn": "2026-06-02"
+        },
+        {
+          "id": "97fd2150ce",
+          "title": "Alphabet plans to raise $80B to pay for AI buildout",
+          "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+          "source": "TechCrunch AI",
+          "summary": "Alphabet plans to raise $80B to fund AI infrastructure, citing enterprise and consumer demand that is already exceeding available supply, signaling continued large-scale capital commitments to AI.",
+          "topic": "AI Infrastructure Funding",
+          "company": "Alphabet",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "infra"
+          ],
+          "publishedAt": "2026-06-01T22:55:09.000Z",
+          "addedOn": "2026-06-02"
+        },
+        {
+          "id": "02620d5cd5",
+          "title": "Trump signs narrower executive order on AI oversight after industry objections",
+          "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+          "source": "TechCrunch AI",
+          "summary": "Trump signed a revised AI executive order that makes government prerelease reviews of advanced models voluntary rather than mandatory, reducing near-term regulatory burden on AI developers.",
+          "topic": "AI Regulation",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Anthropic",
+            "Google"
+          ],
+          "importance": 4,
+          "tags": [
+            "regulation"
+          ],
+          "publishedAt": "2026-06-02T16:23:08.000Z",
+          "addedOn": "2026-06-02"
+        },
+        {
+          "id": "d2d3f1a5f8",
+          "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
+          "link": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA announced JetPack 7.2 and NemoClaw support on Jetson at COMPUTEX, extending agentic AI capabilities to physical edge devices and robotics applications.",
+          "topic": "Edge AI / Robotics",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-06-02T02:00:40.000Z",
+          "addedOn": "2026-06-02"
+        },
+        {
+          "id": "2f1eb86800",
+          "title": "ZeroDrift raises $10M to protect AI models from themselves",
+          "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+          "source": "TechCrunch AI",
+          "summary": "ZeroDrift raised $10M to build a compliance middleware layer that sits between AI models and end users to catch and replace non-compliant outputs in real time.",
+          "topic": "AI Compliance Tooling",
+          "company": "ZeroDrift",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-06-02T12:32:59.000Z",
+          "addedOn": "2026-06-02"
+        },
+        {
+          "id": "7d21ec3ff9",
+          "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+          "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+          "source": "TechCrunch AI",
+          "summary": "Florida filed a first-of-its-kind lawsuit against OpenAI and Sam Altman alleging ChatGPT played a role in a violent incident, which could set legal precedent for AI liability in consumer applications.",
+          "topic": "AI Legal Liability",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-01T20:03:40.000Z",
+          "addedOn": "2026-06-02"
+        }
+      ]
+    },
     {
       "date": "2026-06-01",
       "summary": "Anthropic filed confidentially for an IPO with the SEC, marking a major milestone in the AI industry and signaling competitive pressure on OpenAI to do the same. Microsoft is set to unveil new AI models and Windows improvements at Build this week, targeting developer mindshare. NVIDIA continued its Computex momentum, announcing expanded cloud ecosystem partnerships, factory AI blueprints, and local AI agent capabilities across RTX PCs and DGX Spark.",
