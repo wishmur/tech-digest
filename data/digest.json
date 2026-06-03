@@ -1,6 +1,192 @@
 {
-  "lastUpdated": "2026-06-02T17:59:27.670Z",
+  "lastUpdated": "2026-06-03T18:15:43.125Z",
   "days": [
+    {
+      "date": "2026-06-03",
+      "summary": "Microsoft Build dominated the day with a wave of announcements including a new personal assistant Scout, agent policy controls, and a partnership with NVIDIA on a unified agentic AI stack, while also signaling a more competitive posture toward OpenAI. Google released Gemma 4 12B as a capable open-source multimodal model, and Meta launched its WhatsApp Business AI agent globally with a token-based pricing model. Uber's decision to cap employee AI spending at $1,500/month after blowing through budgets in four months offers a concrete signal about enterprise AI cost management challenges.",
+      "items": [
+        {
+          "id": "00653aa16e",
+          "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+          "source": "The Verge",
+          "summary": "Microsoft Build surfaced a super app, in-house reasoning models, a cybersecurity tool, and expanded AI initiatives that position Microsoft more directly against OpenAI as their relationship evolves.",
+          "topic": "Microsoft Build AI Announcements",
+          "company": "Microsoft",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-06-03T14:04:00.000Z",
+          "addedOn": "2026-06-03"
+        },
+        {
+          "id": "6bd17cb4d5",
+          "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+          "link": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA and Microsoft are co-developing a unified stack for agentic AI deployment spanning Windows devices, local compute, and cloud, which will shape how enterprise AI agents are built and shipped.",
+          "topic": "NVIDIA-Microsoft Agentic AI Partnership",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Microsoft"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-02T19:00:08.000Z",
+          "addedOn": "2026-06-03"
+        },
+        {
+          "id": "16b2e2d45d",
+          "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+          "source": "Hacker News",
+          "summary": "Google released Gemma 4 12B, a unified encoder-free multimodal open model that raises the bar for what developers can run locally or cheaply in production.",
+          "topic": "Google Gemma 4 12B Open Model Launch",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "open-source",
+            "research"
+          ],
+          "publishedAt": "2026-06-03T16:04:42.000Z",
+          "addedOn": "2026-06-03"
+        },
+        {
+          "id": "218e40b902",
+          "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+          "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+          "source": "TechCrunch AI",
+          "summary": "Meta's AI agent for WhatsApp Business is now globally available with token-based pricing, giving businesses a scalable conversational AI channel with clear cost structure.",
+          "topic": "Meta WhatsApp Business AI Agent Launch",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-03T13:40:00.000Z",
+          "addedOn": "2026-06-03"
+        },
+        {
+          "id": "ed584258d5",
+          "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+          "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+          "source": "TechCrunch AI",
+          "summary": "Uber capped employee AI tool spending after exhausting budget in four months, providing a real benchmark for how fast AI tooling costs can scale and why governance policies matter.",
+          "topic": "Enterprise AI Spend Management",
+          "company": "Uber",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-02T19:11:48.000Z",
+          "addedOn": "2026-06-03"
+        },
+        {
+          "id": "ad14f408df",
+          "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+          "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Coralogix raised $200M to build AI agent monitoring and observability infrastructure, reflecting growing enterprise demand for tools that keep AI systems in production behaving safely.",
+          "topic": "AI Observability Funding",
+          "company": "Coralogix",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "infra",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-03T13:02:51.000Z",
+          "addedOn": "2026-06-03"
+        },
+        {
+          "id": "924210a95c",
+          "title": "Microsoft offers devs a better way to control AI agent behavior",
+          "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft introduced a portable policy-file spec at Build that lets developer, compliance, and security teams define behavioral rules for AI agents, addressing a key enterprise governance gap.",
+          "topic": "AI Agent Policy Controls",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-06-02T18:00:00.000Z",
+          "addedOn": "2026-06-03"
+        },
+        {
+          "id": "f82a30b068",
+          "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+          "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+          "source": "TechCrunch AI",
+          "summary": "UK regulators are requiring Google to offer publishers an opt-out from generative AI search features, with a global rollout planned, setting a precedent for AI search regulation worldwide.",
+          "topic": "AI Search Regulation",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-06-03T14:58:33.000Z",
+          "addedOn": "2026-06-03"
+        },
+        {
+          "id": "f9405aa053",
+          "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+          "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft open-sourced Adaptive Spec-driven Scoring, a framework that lets developers define AI evaluation and regression tests in plain text, lowering the barrier to systematic AI quality assurance.",
+          "topic": "AI Evaluation Tooling",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "open-source",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-02T19:02:21.000Z",
+          "addedOn": "2026-06-03"
+        },
+        {
+          "id": "4e0fd56f72",
+          "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
+          "link": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA Research published advances in robotic grasping, autonomous driving, and agent training at scale at CVPR, advancing the physical AI capabilities that underpin its next hardware and software roadmap.",
+          "topic": "NVIDIA Physical AI Research",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "launch"
+          ],
+          "publishedAt": "2026-06-03T15:00:57.000Z",
+          "addedOn": "2026-06-03"
+        }
+      ]
+    },
     {
       "date": "2026-06-02",
       "summary": "Microsoft Build 2026 dominated today with announcements including Project Solara (an OS for AI agent gadgets), the RTX Spark-powered Surface dev box, and broader Windows developer improvements, all signaling a platform-level bet on agentic AI. OpenAI launched six Codex plug-ins for white-collar roles and its models are now available on Amazon Bedrock, while Anthropic expanded its critical infrastructure security program to 150 organizations in 15 countries. Alphabet announced plans to raise $80B for AI infrastructure buildout, underscoring the capital arms race now defining the industry.",
