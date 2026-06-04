@@ -1,6 +1,197 @@
 {
-  "lastUpdated": "2026-06-03T18:15:43.125Z",
+  "lastUpdated": "2026-06-04T16:42:27.928Z",
   "days": [
+    {
+      "date": "2026-06-04",
+      "summary": "Alphabet completed a record $85B stock sale signaling strong investor conviction in Google's AI strategy, while Lovable signed a multiyear Google Cloud deal with 5x capacity expansion and expanded Claude access. NVIDIA revealed roadmap plans for N2X and N3X chips targeting a Star Trek-style ambient computer, and AI leaders across competing firms jointly called for stronger bioweapons safeguards tied to AI systems.",
+      "items": [
+        {
+          "id": "ea4455262c",
+          "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+          "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+          "source": "TechCrunch AI",
+          "summary": "Alphabet's $85B stock sale is the largest in US history and reflects institutional confidence in Google's AI monetization, which matters for competitive positioning across the entire AI industry.",
+          "topic": "AI Investment Signal",
+          "company": "Alphabet",
+          "secondaryCompanies": [
+            "Google"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-03T19:38:32.000Z",
+          "addedOn": "2026-06-04"
+        },
+        {
+          "id": "43753bda8b",
+          "title": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
+          "link": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
+          "source": "The Verge",
+          "summary": "NVIDIA is actively developing N2X and N3X chip generations beyond RTX Spark, with Jensen Huang framing the long-term goal as an always-available ambient AI computer, signaling a sustained hardware roadmap for edge AI.",
+          "topic": "NVIDIA Chip Roadmap",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "product",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-03T20:03:50.000Z",
+          "addedOn": "2026-06-04"
+        },
+        {
+          "id": "1fe21f8da0",
+          "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+          "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+          "source": "TechCrunch AI",
+          "summary": "Lovable's multiyear deal with Google Cloud includes a 5x infrastructure expansion and deeper Anthropic Claude access, showing how AI-native startups are locking in cloud and model partnerships at scale.",
+          "topic": "AI Startup Cloud Partnership",
+          "company": "Google Cloud",
+          "secondaryCompanies": [
+            "Lovable",
+            "Anthropic"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-03T22:56:51.000Z",
+          "addedOn": "2026-06-04"
+        },
+        {
+          "id": "40bdf610f0",
+          "title": "An Interview with Microsoft CEO Satya Nadella About Finding Core Competencies",
+          "link": "https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies/",
+          "source": "Stratechery",
+          "summary": "Satya Nadella discusses Microsoft's evolving role in AI, its OpenAI relationship, capex strategy, and a potential agentic platform, offering rare strategic clarity on how Microsoft is positioning itself.",
+          "topic": "Microsoft AI Strategy",
+          "company": "Microsoft",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive",
+            "leadership"
+          ],
+          "publishedAt": "2026-06-04T10:00:00.000Z",
+          "addedOn": "2026-06-04"
+        },
+        {
+          "id": "bdaf3c1d9a",
+          "title": "AI leaders call for tougher protections against AI-aided bioweapons",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+          "source": "The Verge",
+          "summary": "Major competing AI labs signed a joint open letter calling for tougher restrictions on AI-assisted bioweapon development, a rare cross-industry alignment that could shape regulatory frameworks.",
+          "topic": "AI Safety and Bioweapons Policy",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "OpenAI",
+            "Google DeepMind"
+          ],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "research"
+          ],
+          "publishedAt": "2026-06-04T12:12:12.000Z",
+          "addedOn": "2026-06-04"
+        },
+        {
+          "id": "c7348f9642",
+          "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+          "link": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA unveiled new physical AI agent skills at CVPR covering autonomous vehicles, robotics, and vision AI, expanding its developer platform for physical world AI applications.",
+          "topic": "Physical AI Platform",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-06-03T15:00:35.000Z",
+          "addedOn": "2026-06-04"
+        },
+        {
+          "id": "e5ea6e2bc0",
+          "title": "The ways we contain Claude across products",
+          "link": "https://www.anthropic.com/engineering/how-we-contain-claude",
+          "source": "Hacker News",
+          "summary": "Anthropic published an engineering deep-dive on how Claude is sandboxed and constrained across different product deployments, useful for PMs evaluating safety architecture in Claude-based builds.",
+          "topic": "AI Safety Engineering",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "research",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-04T00:27:52.000Z",
+          "addedOn": "2026-06-04"
+        },
+        {
+          "id": "36b17b2ca4",
+          "title": "Meta rolls out a new AI creator assistant on Facebook",
+          "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+          "source": "TechCrunch AI",
+          "summary": "Meta is rolling out an AI assistant for Facebook creators that answers performance questions conversationally, reducing reliance on dashboards and lowering the bar for creator data literacy.",
+          "topic": "AI Creator Tools",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-04T16:32:48.000Z",
+          "addedOn": "2026-06-04"
+        },
+        {
+          "id": "dda31ab471",
+          "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+          "link": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+          "source": "Hacker News",
+          "summary": "A developer spent $1,500 testing whether LLMs could autonomously identify and exploit vulnerabilities in a real app, with findings relevant to PMs building or securing AI-assisted developer tools.",
+          "topic": "LLM Security Benchmarking",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-04T00:56:32.000Z",
+          "addedOn": "2026-06-04"
+        },
+        {
+          "id": "d0737aada8",
+          "title": "Amazon will show AI product images when you search for some reason",
+          "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon is using AI to generate and surface product images in search results, a product change that affects how sellers present inventory and how shoppers discover products on the platform.",
+          "topic": "AI in E-commerce Search",
+          "company": "Amazon",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-03T15:50:26.000Z",
+          "addedOn": "2026-06-04"
+        }
+      ]
+    },
     {
       "date": "2026-06-03",
       "summary": "Microsoft Build dominated the day with a wave of announcements including a new personal assistant Scout, agent policy controls, and a partnership with NVIDIA on a unified agentic AI stack, while also signaling a more competitive posture toward OpenAI. Google released Gemma 4 12B as a capable open-source multimodal model, and Meta launched its WhatsApp Business AI agent globally with a token-based pricing model. Uber's decision to cap employee AI spending at $1,500/month after blowing through budgets in four months offers a concrete signal about enterprise AI cost management challenges.",
