@@ -1,6 +1,187 @@
 {
-  "lastUpdated": "2026-06-04T16:42:27.928Z",
+  "lastUpdated": "2026-06-05T16:24:39.963Z",
   "days": [
+    {
+      "date": "2026-06-05",
+      "summary": "Anthropic disclosed annualized revenue hit $47 billion in May, a dramatic jump from $9 billion at end of 2025, signaling the company is on a credible path to IPO. AI infrastructure spending continues to scale with AirTrunk committing $30 billion for 5GW of data centers in India, while New York state legislators passed a one-year moratorium on new large data centers, a potential regulatory signal for the industry. Cost control is emerging as a central product challenge, with teams shifting from rapid token consumption to governance and guardrails.",
+      "items": [
+        {
+          "id": "9c7d6c037d",
+          "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+          "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's annualized revenue reaching $47 billion is a major market signal about enterprise AI adoption and validates the company's IPO trajectory.",
+          "topic": "Anthropic Revenue and IPO",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-04T22:43:26.000Z",
+          "addedOn": "2026-06-05"
+        },
+        {
+          "id": "177fcfdc05",
+          "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+          "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+          "source": "TechCrunch AI",
+          "summary": "Enterprise teams are actively building cost controls and token governance frameworks as AI inference costs become a material business problem for product teams.",
+          "topic": "AI Cost Management",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "product",
+            "infra",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-05T14:49:12.000Z",
+          "addedOn": "2026-06-05"
+        },
+        {
+          "id": "e1aa286110",
+          "title": "New York lawmakers pass one-year ban on new data centers",
+          "link": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+          "source": "The Verge",
+          "summary": "New York's legislature passing a one-year moratorium on new large data centers is the first statewide action of its kind and could influence AI infrastructure planning nationally.",
+          "topic": "Data Center Regulation",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "infra"
+          ],
+          "publishedAt": "2026-06-05T15:25:10.000Z",
+          "addedOn": "2026-06-05"
+        },
+        {
+          "id": "df474478ba",
+          "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+          "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+          "source": "TechCrunch AI",
+          "summary": "AirTrunk's $30 billion commitment to build 5GW of AI data center capacity in India signals major sovereign AI infrastructure investment in a fast-growing market.",
+          "topic": "AI Infrastructure Investment",
+          "company": "AirTrunk",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "infra"
+          ],
+          "publishedAt": "2026-06-05T13:03:10.000Z",
+          "addedOn": "2026-06-05"
+        },
+        {
+          "id": "4932cf32b0",
+          "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
+          "link": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA's deepening partnership with South Korea on sovereign AI infrastructure and robotics reflects the company's strategy to anchor national AI buildouts around its hardware.",
+          "topic": "NVIDIA Sovereign AI Expansion",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-05T05:38:37.000Z",
+          "addedOn": "2026-06-05"
+        },
+        {
+          "id": "8b644a7e5e",
+          "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+          "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+          "source": "TechCrunch AI",
+          "summary": "Apple approving the first AI agent on Messages for Business is a distribution milestone that opens a new channel for agentic products within Apple's ecosystem.",
+          "topic": "AI Agent Distribution",
+          "company": "Apple",
+          "secondaryCompanies": [
+            "Poke"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-04T19:20:58.000Z",
+          "addedOn": "2026-06-05"
+        },
+        {
+          "id": "64d9b11014",
+          "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+          "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+          "source": "TechCrunch AI",
+          "summary": "Airbnb's CEO planning an in-house AI lab rather than relying on external LLM partnerships suggests large consumer platforms are moving toward proprietary AI capabilities.",
+          "topic": "Corporate AI Lab Launch",
+          "company": "Airbnb",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-04T22:29:50.000Z",
+          "addedOn": "2026-06-05"
+        },
+        {
+          "id": "54bfebc8b5",
+          "title": "Mira Murati steps back into the spotlight, carefully",
+          "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+          "source": "TechCrunch AI",
+          "summary": "Mira Murati is re-emerging publicly after leaving OpenAI, and her next move is likely to draw significant attention and talent in the AI space.",
+          "topic": "AI Leadership",
+          "company": "",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 3,
+          "tags": [
+            "leadership"
+          ],
+          "publishedAt": "2026-06-05T05:06:37.000Z",
+          "addedOn": "2026-06-05"
+        },
+        {
+          "id": "292be7eaab",
+          "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+          "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+          "source": "TechCrunch AI",
+          "summary": "Meta deploying modular tent-based data centers is a notable cost-reduction approach to rapidly scaling AI compute capacity outside traditional construction timelines.",
+          "topic": "Data Center Innovation",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-06-04T19:33:09.000Z",
+          "addedOn": "2026-06-05"
+        },
+        {
+          "id": "61b07d25fa",
+          "title": "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
+          "link": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
+          "source": "Hacker News",
+          "summary": "A leaked Microsoft document describing intent to make its AI products addictive raises product ethics and regulatory risk questions relevant to any PM building AI features.",
+          "topic": "AI Product Ethics",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-06-05T15:32:58.000Z",
+          "addedOn": "2026-06-05"
+        }
+      ]
+    },
     {
       "date": "2026-06-04",
       "summary": "Alphabet completed a record $85B stock sale signaling strong investor conviction in Google's AI strategy, while Lovable signed a multiyear Google Cloud deal with 5x capacity expansion and expanded Claude access. NVIDIA revealed roadmap plans for N2X and N3X chips targeting a Star Trek-style ambient computer, and AI leaders across competing firms jointly called for stronger bioweapons safeguards tied to AI systems.",
