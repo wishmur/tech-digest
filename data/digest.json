@@ -1,6 +1,191 @@
 {
-  "lastUpdated": "2026-06-05T16:24:39.963Z",
+  "lastUpdated": "2026-06-06T15:04:37.064Z",
   "days": [
+    {
+      "date": "2026-06-06",
+      "summary": "Google signed a $920M/month compute deal with SpaceX, signaling the scale of infrastructure investment required to meet AI product demand. Amazon Bedrock launched a new console experience optimized for Anthropic and OpenAI-compatible APIs, making multi-model management easier for builders. A US House draft bill to preempt state-level AI regulation is advancing, which would significantly reshape the compliance landscape for AI products.",
+      "items": [
+        {
+          "id": "0a80813a45",
+          "title": "Google will pay SpaceX $920M per month for compute",
+          "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+          "source": "TechCrunch AI",
+          "summary": "Google is paying SpaceX $920M per month for compute capacity, driven by unexpected demand for its AI products, illustrating the extreme infrastructure costs now required to scale AI services.",
+          "topic": "AI Infrastructure Spend",
+          "company": "Google",
+          "secondaryCompanies": [
+            "SpaceX"
+          ],
+          "importance": 5,
+          "tags": [
+            "infra",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-05T18:57:20.000Z",
+          "addedOn": "2026-06-06"
+        },
+        {
+          "id": "ba39e9ca82",
+          "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
+          "link": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/",
+          "source": "AWS News",
+          "summary": "Amazon Bedrock's new console lets users browse, compare, and evaluate AI models side by side with support for Anthropic and OpenAI-compatible APIs, lowering friction for teams building multi-model products.",
+          "topic": "AWS Bedrock Product Update",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "Anthropic",
+            "OpenAI"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-05T19:15:11.000Z",
+          "addedOn": "2026-06-06"
+        },
+        {
+          "id": "37d0ecd860",
+          "title": "US House lawmakers release draft bill to prohibit state AI rules",
+          "link": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+          "source": "Hacker News",
+          "summary": "US House lawmakers released a draft bill that would prohibit states from enforcing their own AI regulations, which if passed would override a patchwork of state laws and create a single federal framework PMs must plan around.",
+          "topic": "AI Regulation",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "regulation"
+          ],
+          "publishedAt": "2026-06-06T13:40:22.000Z",
+          "addedOn": "2026-06-06"
+        },
+        {
+          "id": "7fb5ded51f",
+          "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+          "source": "Hacker News",
+          "summary": "Google released Gemma 4 QAT models optimized via quantization-aware training for mobile and laptop efficiency, expanding where developers can deploy capable open models without cloud dependency.",
+          "topic": "Open Model Release",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "open-source",
+            "research"
+          ],
+          "publishedAt": "2026-06-05T16:18:48.000Z",
+          "addedOn": "2026-06-06"
+        },
+        {
+          "id": "5a55e254e9",
+          "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
+          "link": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+          "source": "Hacker News",
+          "summary": "Meta continues to delay releasing its next major AI model to developers, creating uncertainty for teams building on Meta's model ecosystem and handing a window to competitors like Anthropic and OpenAI.",
+          "topic": "AI Model Release Delay",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-06T12:15:59.000Z",
+          "addedOn": "2026-06-06"
+        },
+        {
+          "id": "5a057c9943",
+          "title": "Lockdown Mode",
+          "link": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+          "source": "Hacker News",
+          "summary": "OpenAI introduced Lockdown Mode, a new security feature for ChatGPT accounts that restricts certain access vectors, relevant for enterprise PMs managing sensitive deployments.",
+          "topic": "AI Product Security",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-06-06T03:36:15.000Z",
+          "addedOn": "2026-06-06"
+        },
+        {
+          "id": "d20c26243d",
+          "title": "Meta made its own AI-generated clickbait news feed",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+          "source": "The Verge",
+          "summary": "Meta is now surfacing AI-generated clickbait articles in Facebook's news feed, raising product trust and content quality concerns that could affect user engagement metrics and advertiser sentiment.",
+          "topic": "AI-Generated Content in Feeds",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-06T14:00:00.000Z",
+          "addedOn": "2026-06-06"
+        },
+        {
+          "id": "ce98e9fb33",
+          "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+          "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+          "source": "Hacker News",
+          "summary": "The S&P 500 rejected fast-track entry for SpaceX and will not waive profitability rules for OpenAI or Anthropic, signaling that financial markets are applying traditional scrutiny to even the most prominent AI firms.",
+          "topic": "AI Company Financials",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Anthropic",
+            "SpaceX"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding"
+          ],
+          "publishedAt": "2026-06-06T04:38:36.000Z",
+          "addedOn": "2026-06-06"
+        },
+        {
+          "id": "102c3d4535",
+          "title": "Here comes new Siri again",
+          "link": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+          "source": "The Verge",
+          "summary": "Apple is preparing a renewed push on AI-powered Siri following years of competitive disadvantage, and how it executes will matter for product teams building on or competing with the Apple ecosystem.",
+          "topic": "Apple AI Strategy",
+          "company": "Apple",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-06T12:00:00.000Z",
+          "addedOn": "2026-06-06"
+        },
+        {
+          "id": "3a051d6973",
+          "title": "pg_durable: Microsoft open sources in-database durable execution",
+          "link": "https://github.com/microsoft/pg_durable",
+          "source": "Hacker News",
+          "summary": "Microsoft open-sourced pg_durable, an in-database durable execution extension for PostgreSQL, which is useful tooling for PMs overseeing backend reliability requirements in AI or workflow-heavy products.",
+          "topic": "Open Source Developer Tooling",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "open-source",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-05T15:59:57.000Z",
+          "addedOn": "2026-06-06"
+        }
+      ]
+    },
     {
       "date": "2026-06-05",
       "summary": "Anthropic disclosed annualized revenue hit $47 billion in May, a dramatic jump from $9 billion at end of 2025, signaling the company is on a credible path to IPO. AI infrastructure spending continues to scale with AirTrunk committing $30 billion for 5GW of data centers in India, while New York state legislators passed a one-year moratorium on new large data centers, a potential regulatory signal for the industry. Cost control is emerging as a central product challenge, with teams shifting from rapid token consumption to governance and guardrails.",
