@@ -1,6 +1,188 @@
 {
-  "lastUpdated": "2026-06-06T15:04:37.064Z",
+  "lastUpdated": "2026-06-07T15:17:15.411Z",
   "days": [
+    {
+      "date": "2026-06-07",
+      "summary": "OpenAI launched Lockdown Mode to reduce prompt injection risks for sensitive data, and separately, the Trump administration is reportedly exploring taking an equity stake in OpenAI, which would be an unprecedented government-AI company entanglement. Anthropic faces user pressure to ship a Claude Desktop client for Linux, signaling a gap in their developer tooling coverage. A viral Hacker News post about LLMs eroding software engineering careers reflects a growing signal PMs should track as AI reshapes team composition and hiring.",
+      "items": [
+        {
+          "id": "c3048522c6",
+          "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+          "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI added Lockdown Mode to ChatGPT to reduce the risk of sensitive data leaking via prompt injection attacks, a meaningful step for enterprise security-conscious buyers.",
+          "topic": "AI Security Feature",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-06-06T20:32:24.000Z",
+          "addedOn": "2026-06-07"
+        },
+        {
+          "id": "ccfe51be44",
+          "title": "The Trump administration might take an equity stake in OpenAI",
+          "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+          "source": "TechCrunch AI",
+          "summary": "Trump indicated the US government may take an equity stake in OpenAI, which would create regulatory and competitive implications for the entire AI industry.",
+          "topic": "Government-AI Relations",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-06T16:17:21.000Z",
+          "addedOn": "2026-06-07"
+        },
+        {
+          "id": "fc0aef7cf7",
+          "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+          "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+          "source": "TechCrunch AI",
+          "summary": "Sriram Krishnan is departing his White House AI advisor role to launch a new institution aimed at influencing US AI policy, creating a shift in the government's AI advisory landscape.",
+          "topic": "AI Policy Leadership",
+          "company": "White House",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 3,
+          "tags": [
+            "leadership",
+            "regulation"
+          ],
+          "publishedAt": "2026-06-06T17:42:15.000Z",
+          "addedOn": "2026-06-07"
+        },
+        {
+          "id": "6df329e62a",
+          "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
+          "link": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
+          "source": "Lenny's Newsletter",
+          "summary": "Tony Fadell, creator of iPod, iPhone, and Nest, discusses how product taste and judgment remain irreplaceable in the AI era, directly relevant to how PMs should think about their own role.",
+          "topic": "Product Management Philosophy",
+          "company": "Future Shape",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product"
+          ],
+          "publishedAt": "2026-06-07T12:31:29.000Z",
+          "addedOn": "2026-06-07"
+        },
+        {
+          "id": "ffcb4fd4da",
+          "title": "Anthropic, please ship an official Claude Desktop for Linux",
+          "link": "https://github.com/anthropics/claude-code/issues/65697",
+          "source": "Hacker News",
+          "summary": "A GitHub issue requesting an official Claude Desktop app for Linux has gained significant traction, highlighting a gap in Anthropic's developer tooling that competitors could exploit.",
+          "topic": "AI Tooling Gap",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "tooling",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-07T13:06:52.000Z",
+          "addedOn": "2026-06-07"
+        },
+        {
+          "id": "84f72f9832",
+          "title": "LLMs are eroding my software engineering career and I don't know what to do",
+          "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "source": "Hacker News",
+          "summary": "A widely-shared post from a software engineer describing LLMs eroding their career is a strong market signal that AI is materially changing hiring and team structure decisions PMs will face.",
+          "topic": "AI Impact on Engineering Workforce",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-06-07T12:49:29.000Z",
+          "addedOn": "2026-06-07"
+        },
+        {
+          "id": "39eea90dbd",
+          "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+          "link": "https://arxiv.org/abs/2601.14470",
+          "source": "Hacker News",
+          "summary": "New research quantifies exactly where tokens are consumed in agentic software engineering workflows, providing concrete data to help PMs and engineers optimize cost and latency in AI-powered dev tools.",
+          "topic": "Agentic AI Cost Research",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "tooling",
+            "infra"
+          ],
+          "publishedAt": "2026-06-07T01:37:11.000Z",
+          "addedOn": "2026-06-07"
+        },
+        {
+          "id": "7e181edffb",
+          "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+          "link": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA's RTX Spark superchip is being promoted via high-profile gaming partnerships in Korea, signaling NVIDIA's push to make personal AI agents a consumer PC feature.",
+          "topic": "NVIDIA Consumer AI Hardware",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "KRAFTON"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-07T07:00:15.000Z",
+          "addedOn": "2026-06-07"
+        },
+        {
+          "id": "1bfacf947c",
+          "title": "Netlify CTO Dana Lawson: Writing code is no longer the job",
+          "link": "https://thenewstack.io/netlify-agent-experience-engineers/",
+          "source": "Hacker News",
+          "summary": "Netlify's CTO argues that writing code is no longer the core job for engineers, which has direct implications for how PMs staff teams and define engineering roles in an AI-first environment.",
+          "topic": "AI-Driven Engineering Role Shift",
+          "company": "Netlify",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-07T14:15:41.000Z",
+          "addedOn": "2026-06-07"
+        },
+        {
+          "id": "b298cc5246",
+          "title": "🧠 Community Wisdom: Bootstrapping vs. raising funding, building the roadmap of your vibe-coded app, AI agents and data integrity, your first project as an APM, and more",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-bootstrapping-vs",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny's community surfaces practical PM questions around bootstrapping vs. funding, roadmapping vibe-coded apps, and AI agents and data integrity, reflecting real-world challenges PMs are navigating now.",
+          "topic": "Product Management Practices",
+          "company": "Lenny's Newsletter",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-06T17:14:54.000Z",
+          "addedOn": "2026-06-07"
+        }
+      ]
+    },
     {
       "date": "2026-06-06",
       "summary": "Google signed a $920M/month compute deal with SpaceX, signaling the scale of infrastructure investment required to meet AI product demand. Amazon Bedrock launched a new console experience optimized for Anthropic and OpenAI-compatible APIs, making multi-model management easier for builders. A US House draft bill to preempt state-level AI regulation is advancing, which would significantly reshape the compliance landscape for AI products.",
