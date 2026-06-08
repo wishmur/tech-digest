@@ -1,6 +1,199 @@
 {
-  "lastUpdated": "2026-06-07T15:17:15.411Z",
+  "lastUpdated": "2026-06-08T17:00:41.662Z",
   "days": [
+    {
+      "date": "2026-06-08",
+      "summary": "OpenAI is building a 'super app' as a senior employee declares chat interfaces dead, signaling a major product direction shift worth watching for PMs. Google upgraded NotebookLM with Gemini 3.5 and added a cloud compute layer, making it a more serious productivity tool. NVIDIA announced AI factory partnerships with LG Group and Doosan Group, and is central to UK sovereign AI infrastructure, reinforcing its position as the backbone of enterprise AI buildout.",
+      "items": [
+        {
+          "id": "893947abd0",
+          "title": "OpenAI is still working on that ‘super app’",
+          "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is actively developing a super app to move beyond chat interfaces, which signals a fundamental shift in how AI will be delivered as a product and who OpenAI will compete with.",
+          "topic": "OpenAI Super App",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "product",
+            "competitive",
+            "launch"
+          ],
+          "publishedAt": "2026-06-07T16:23:22.000Z",
+          "addedOn": "2026-06-08"
+        },
+        {
+          "id": "a80ae63f73",
+          "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+          "link": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+          "source": "The Verge",
+          "summary": "NotebookLM now runs on Gemini 3.5 with added cloud compute and source discovery, upgrading it from a note tool to a more capable research and knowledge management product.",
+          "topic": "NotebookLM Gemini 3.5 Upgrade",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-06-08T16:00:00.000Z",
+          "addedOn": "2026-06-08"
+        },
+        {
+          "id": "0f45a45a7a",
+          "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+          "link": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA and LG Group are co-building an AI factory spanning robotics, autonomous driving, and GPU cloud, deepening NVIDIA's role as the core infrastructure partner for large industrial conglomerates.",
+          "topic": "NVIDIA-LG AI Factory Partnership",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "LG Group"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-08T03:00:50.000Z",
+          "addedOn": "2026-06-08"
+        },
+        {
+          "id": "983ca5f5ea",
+          "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+          "link": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA and Doosan Group are expanding into physical AI, robotics, and AI factory infrastructure, continuing NVIDIA's pattern of anchoring enterprise AI transformation across heavy industry.",
+          "topic": "NVIDIA-Doosan Physical AI Collaboration",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Doosan Group"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-06-07T23:00:36.000Z",
+          "addedOn": "2026-06-08"
+        },
+        {
+          "id": "11892f53bf",
+          "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+          "link": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA is central to the UK's sovereign AI strategy, with Jensen Huang and PM Starmer reaffirming commitments at London Tech Week, illustrating how NVIDIA is shaping national AI infrastructure decisions.",
+          "topic": "NVIDIA UK Sovereign AI",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "competitive",
+            "launch"
+          ],
+          "publishedAt": "2026-06-08T06:00:57.000Z",
+          "addedOn": "2026-06-08"
+        },
+        {
+          "id": "8230213787",
+          "title": "Is this the dawn of the Tokenpocalypse?",
+          "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+          "source": "TechCrunch AI",
+          "summary": "Token pricing increases are likely as major AI companies prepare for IPOs, which will directly affect budgets and build-vs-buy decisions for product teams relying on AI APIs.",
+          "topic": "AI Pricing and Tokenpocalypse",
+          "company": "",
+          "secondaryCompanies": [
+            "OpenAI",
+            "Anthropic",
+            "Google"
+          ],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "funding",
+            "product"
+          ],
+          "publishedAt": "2026-06-07T20:26:13.000Z",
+          "addedOn": "2026-06-08"
+        },
+        {
+          "id": "813bc80dae",
+          "title": "Amazon now lets you design custom merch using AI",
+          "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon is letting users generate custom merch designs via Alexa in its shopping app, a concrete example of AI being embedded into a commerce product to drive conversion and differentiation.",
+          "topic": "Amazon AI Custom Merch",
+          "company": "Amazon",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-08T15:49:12.000Z",
+          "addedOn": "2026-06-08"
+        },
+        {
+          "id": "b2d8045adc",
+          "title": "Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot",
+          "link": "https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts",
+          "source": "The Verge",
+          "summary": "Hackers used Meta's AI support chatbot to hijack over 20,000 Instagram accounts, a significant security incident that raises concerns about AI chatbot attack surfaces in consumer products.",
+          "topic": "Meta AI Chatbot Security Breach",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "launch",
+            "regulation"
+          ],
+          "publishedAt": "2026-06-08T14:31:06.000Z",
+          "addedOn": "2026-06-08"
+        },
+        {
+          "id": "8aa3d71261",
+          "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+          "link": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+          "source": "Hacker News",
+          "summary": "Xiaomi's MiMo-v2.5-Pro-UltraSpeed claims 1000 tokens per second on a 1T parameter model, a performance benchmark that raises the bar for inference speed and competitive pressure on established model providers.",
+          "topic": "Xiaomi MiMo Ultra-Speed Inference",
+          "company": "Xiaomi",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "competitive",
+            "research"
+          ],
+          "publishedAt": "2026-06-08T15:27:33.000Z",
+          "addedOn": "2026-06-08"
+        },
+        {
+          "id": "5c0133b1bc",
+          "title": "Amazon Cognito now supports multi-Region replication",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/",
+          "source": "Hacker News",
+          "summary": "AWS Cognito now supports multi-Region replication, improving resilience and compliance options for PMs building global auth-dependent products on AWS.",
+          "topic": "AWS Cognito Multi-Region Replication",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-06-08T15:19:42.000Z",
+          "addedOn": "2026-06-08"
+        }
+      ]
+    },
     {
       "date": "2026-06-07",
       "summary": "OpenAI launched Lockdown Mode to reduce prompt injection risks for sensitive data, and separately, the Trump administration is reportedly exploring taking an equity stake in OpenAI, which would be an unprecedented government-AI company entanglement. Anthropic faces user pressure to ship a Claude Desktop client for Linux, signaling a gap in their developer tooling coverage. A viral Hacker News post about LLMs eroding software engineering careers reflects a growing signal PMs should track as AI reshapes team composition and hiring.",
