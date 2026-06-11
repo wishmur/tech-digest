@@ -1,6 +1,196 @@
 {
-  "lastUpdated": "2026-06-09T16:24:32.077Z",
+  "lastUpdated": "2026-06-11T17:31:29.933Z",
   "days": [
+    {
+      "date": "2026-06-11",
+      "summary": "Amazon borrowed $17.5B from banks to fund AI infrastructure spending, underscoring the scale of capital commitments across the industry. Anthropic's new Fable model is drawing criticism from cybersecurity researchers for overly strict guardrails, and the company has apologized for making those restrictions invisible to users. AWS launched new Graviton5-powered EC2 instances, and Google DeepMind released DiffusionGemma with NVIDIA optimization, marking continued infrastructure and model-level competition.",
+      "items": [
+        {
+          "id": "6bbed14085",
+          "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+          "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon borrowing $17.5B on top of a recent bond sale signals the extraordinary and accelerating capital requirements for AI infrastructure buildout.",
+          "topic": "AI Infrastructure Spending",
+          "company": "Amazon",
+          "secondaryCompanies": [
+            "AWS"
+          ],
+          "importance": 5,
+          "tags": [
+            "infra",
+            "funding"
+          ],
+          "publishedAt": "2026-06-10T20:19:31.000Z",
+          "addedOn": "2026-06-11"
+        },
+        {
+          "id": "99b599e6f9",
+          "title": "Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors",
+          "link": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+          "source": "AWS News",
+          "summary": "AWS Graviton5-powered EC2 instances offer up to 25% better compute performance and improved energy efficiency, making them a relevant option for cost-sensitive AI workloads.",
+          "topic": "AWS Graviton5 EC2 Launch",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra"
+          ],
+          "publishedAt": "2026-06-10T15:04:30.000Z",
+          "addedOn": "2026-06-11"
+        },
+        {
+          "id": "510ca48bfe",
+          "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
+          "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA has optimized Google DeepMind's DiffusionGemma for local inference on GeForce RTX hardware, extending a capable open model to consumer and edge deployments.",
+          "topic": "DiffusionGemma NVIDIA Optimization",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Google DeepMind"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "open-source",
+            "product"
+          ],
+          "publishedAt": "2026-06-10T16:15:20.000Z",
+          "addedOn": "2026-06-11"
+        },
+        {
+          "id": "778e7a00c5",
+          "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+          "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's Fable model is blocking legitimate cybersecurity research tasks due to overly broad guardrails, a product design problem that limits professional utility and is generating backlash.",
+          "topic": "Anthropic Fable Guardrails",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "regulation",
+            "launch"
+          ],
+          "publishedAt": "2026-06-10T15:41:22.000Z",
+          "addedOn": "2026-06-11"
+        },
+        {
+          "id": "866072bf29",
+          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+          "source": "Hacker News",
+          "summary": "Anthropic apologizing for invisible guardrails in Fable raises a product transparency issue: users could not tell why certain requests were being refused, which erodes trust.",
+          "topic": "Anthropic Fable Guardrail Transparency",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-06-11T12:05:02.000Z",
+          "addedOn": "2026-06-11"
+        },
+        {
+          "id": "9562e83254",
+          "title": "How memory tools can make AI models worse",
+          "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+          "source": "TechCrunch AI",
+          "summary": "New research finds AI memory systems can degrade model performance and increase sycophancy, which is a direct product risk for teams building memory-augmented AI features.",
+          "topic": "AI Memory System Research",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-06-10T16:11:08.000Z",
+          "addedOn": "2026-06-11"
+        },
+        {
+          "id": "6de145b731",
+          "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+          "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+          "source": "TechCrunch AI",
+          "summary": "A former xAI engineer is suing over alleged retaliation for raising Grok safety concerns, adding legal and reputational risk to xAI ahead of SpaceX's IPO.",
+          "topic": "xAI Safety Whistleblower Lawsuit",
+          "company": "xAI",
+          "secondaryCompanies": [
+            "SpaceX"
+          ],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "leadership"
+          ],
+          "publishedAt": "2026-06-10T22:31:19.000Z",
+          "addedOn": "2026-06-11"
+        },
+        {
+          "id": "db7dea1c0c",
+          "title": "Meta signs first AI data center deal in India with Reliance",
+          "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+          "source": "TechCrunch AI",
+          "summary": "Meta's first AI data center deal in India with Reliance, a 168-megawatt facility, marks a significant geographic expansion of AI infrastructure investment into a key growth market.",
+          "topic": "Meta AI Data Center India",
+          "company": "Meta",
+          "secondaryCompanies": [
+            "Reliance"
+          ],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "launch"
+          ],
+          "publishedAt": "2026-06-10T07:05:26.000Z",
+          "addedOn": "2026-06-11"
+        },
+        {
+          "id": "761f893055",
+          "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+          "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+          "source": "TechCrunch AI",
+          "summary": "Jedify raised $24M to provide AI agents with business context, reflecting growing investor interest in the enterprise agent grounding and data layer.",
+          "topic": "AI Agent Context Funding",
+          "company": "Jedify",
+          "secondaryCompanies": [
+            "Snowflake"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-10T13:33:09.000Z",
+          "addedOn": "2026-06-11"
+        },
+        {
+          "id": "464bb12da8",
+          "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+          "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+          "source": "TechCrunch AI",
+          "summary": "Niteshift raised $7M to build an AI coding agent that avoids lock-in to major model providers, targeting enterprises that want flexibility and control over their AI stack.",
+          "topic": "AI Coding Agent Funding",
+          "company": "Niteshift",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "tooling",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-10T15:00:00.000Z",
+          "addedOn": "2026-06-11"
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "summary": "OpenAI filed confidentially for an IPO, following Anthropic's filing last week, marking a major shift toward public markets for the two leading AI companies. Apple's WWDC revealed a significant AI overhaul of Siri built on Google Gemini models, with new features across iOS 27 and a developer incentive to waive cloud API costs for smaller apps. Microsoft's open-source tools were compromised in a supply chain attack targeting AI developers' credentials, a serious security incident for the tooling ecosystem.",
