@@ -1,6 +1,196 @@
 {
-  "lastUpdated": "2026-06-11T17:31:29.933Z",
+  "lastUpdated": "2026-06-12T16:37:21.749Z",
   "days": [
+    {
+      "date": "2026-06-12",
+      "summary": "Jeff Bezos's physical AI startup Prometheus raised $12B at a $41B valuation, targeting 'artificial general engineer' capabilities for heavy engineering and drug design. SpaceX completed a major IPO making it a combined rocket, AI, and social media public company. An open-source coding model from Moonshot AI (Kimi K2.7-Code) is gaining traction on Hacker News, signaling continued competitive pressure in the code model space.",
+      "items": [
+        {
+          "id": "3355a47c4d",
+          "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+          "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+          "source": "TechCrunch AI",
+          "summary": "Bezos's Prometheus raised $12B at a $41B valuation to automate heavy engineering and drug design, representing one of the largest physical AI bets to date and a direct signal of where frontier capital is flowing.",
+          "topic": "Physical AI Funding",
+          "company": "Prometheus",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "launch",
+            "research"
+          ],
+          "publishedAt": "2026-06-12T01:04:38.000Z",
+          "addedOn": "2026-06-12"
+        },
+        {
+          "id": "60d55ee812",
+          "title": "SpaceX’s massive IPO: all the latest news",
+          "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+          "source": "The Verge",
+          "summary": "SpaceX's IPO went public, combining rockets, AI, and social media into a single publicly traded entity, marking a major liquidity event and reshaping the public market AI narrative.",
+          "topic": "IPO",
+          "company": "SpaceX",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "launch"
+          ],
+          "publishedAt": "2026-06-12T14:35:48.000Z",
+          "addedOn": "2026-06-12"
+        },
+        {
+          "id": "244c1c844e",
+          "title": "It’s hot IPO summer, and the MANGOS are ripe",
+          "link": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+          "source": "TechCrunch AI",
+          "summary": "The MANGOS framing (Meta/Microsoft, Anthropic, Nvidia, Google, OpenAI, SpaceX) reflects how AI companies are now dominating the IPO pipeline, which is directly relevant to competitive landscape tracking for PMs.",
+          "topic": "AI Industry Landscape",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "OpenAI",
+            "NVIDIA",
+            "Google",
+            "Meta",
+            "Microsoft",
+            "SpaceX"
+          ],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "funding"
+          ],
+          "publishedAt": "2026-06-12T15:50:52.000Z",
+          "addedOn": "2026-06-12"
+        },
+        {
+          "id": "1880831d5b",
+          "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "source": "Hacker News",
+          "summary": "Moonshot AI released Kimi K2.7-Code, an open-source coding model claiming better token efficiency, adding another competitive open-source option in a space already crowded by Qwen and DeepSeek.",
+          "topic": "Open-Source Coding Model",
+          "company": "Moonshot AI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "open-source",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-12T10:42:50.000Z",
+          "addedOn": "2026-06-12"
+        },
+        {
+          "id": "c265bd405c",
+          "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+          "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+          "source": "TechCrunch AI",
+          "summary": "DoorDash launched Ask DoorDash, an AI chatbot that accepts natural language and photo-based queries to build orders, demonstrating how consumer platforms are embedding conversational AI into core product flows.",
+          "topic": "AI Product Integration",
+          "company": "DoorDash",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-11T14:23:43.000Z",
+          "addedOn": "2026-06-12"
+        },
+        {
+          "id": "8768c1c08f",
+          "title": "An Interview with Ben Bajarin About Apple, AI, and Compute",
+          "link": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
+          "source": "Stratechery",
+          "summary": "Ben Bajarin's interview on Apple, AI, and compute covers WWDC implications and the state of the AI compute industry, providing strategic context on Apple's positioning that PMs building on Apple platforms should track.",
+          "topic": "AI Compute Strategy",
+          "company": "Apple",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-11T10:00:00.000Z",
+          "addedOn": "2026-06-12"
+        },
+        {
+          "id": "302fed5dd2",
+          "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+          "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+          "source": "TechCrunch AI",
+          "summary": "Avataar AI launched a distilled video model priced at $0.005 per second targeting India's market, illustrating how cost-optimized, regionally aware AI models are becoming a viable product strategy.",
+          "topic": "Video AI Tooling",
+          "company": "Avataar AI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-12T04:30:00.000Z",
+          "addedOn": "2026-06-12"
+        },
+        {
+          "id": "d008a461e5",
+          "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+          "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+          "source": "TechCrunch AI",
+          "summary": "Deezer released a tool to detect AI-generated music across Spotify, Apple Music, and other platforms, a signal that AI content detection is becoming a real product category with platform-level implications.",
+          "topic": "AI Content Detection",
+          "company": "Deezer",
+          "secondaryCompanies": [
+            "Spotify",
+            "Apple"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-06-11T16:36:20.000Z",
+          "addedOn": "2026-06-12"
+        },
+        {
+          "id": "857b01ba57",
+          "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+          "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+          "source": "TechCrunch AI",
+          "summary": "Theker raised $85M for reconfigurable factory robots, reflecting continued investor conviction in flexible physical AI over single-purpose industrial automation.",
+          "topic": "Robotics Funding",
+          "company": "Theker",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "launch"
+          ],
+          "publishedAt": "2026-06-12T01:48:07.000Z",
+          "addedOn": "2026-06-12"
+        },
+        {
+          "id": "615dda6721",
+          "title": "Ryanair dark UX patterns summer 2026 refresher",
+          "link": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+          "source": "Hacker News",
+          "summary": "A detailed breakdown of Ryanair's dark UX patterns in 2026 is trending with 190 points, offering PMs a concrete, current case study on deceptive design to avoid and regulatory risk to monitor.",
+          "topic": "Product Design / Dark Patterns",
+          "company": "Ryanair",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-06-12T11:11:42.000Z",
+          "addedOn": "2026-06-12"
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "summary": "Amazon borrowed $17.5B from banks to fund AI infrastructure spending, underscoring the scale of capital commitments across the industry. Anthropic's new Fable model is drawing criticism from cybersecurity researchers for overly strict guardrails, and the company has apologized for making those restrictions invisible to users. AWS launched new Graviton5-powered EC2 instances, and Google DeepMind released DiffusionGemma with NVIDIA optimization, marking continued infrastructure and model-level competition.",
