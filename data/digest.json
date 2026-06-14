@@ -1,6 +1,192 @@
 {
-  "lastUpdated": "2026-06-13T15:24:21.598Z",
+  "lastUpdated": "2026-06-14T15:41:41.270Z",
   "days": [
+    {
+      "date": "2026-06-14",
+      "summary": "The dominant story today is Anthropic cutting off global access to its Fable 5 and Mythos 5 models following a US government export control directive, reportedly triggered by Amazon security research and conversations involving Amazon CEO Andy Jassy. The fallout is widening, with the EU Commission examining practical consequences and India debating what it means for AI sovereignty. Separately, OpenAI is facing a multi-state attorney general investigation covering ad policies and health data handling, and Meta is reportedly unwinding its $2B Manus acquisition after Beijing ordered the deal reversed.",
+      "items": [
+        {
+          "id": "258e5ef307",
+          "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+          "source": "The Verge",
+          "summary": "Amazon's cybersecurity research reportedly triggered the US government directive that caused Anthropic to cut off global access to Fable 5 and Mythos 5, making this a significant AI export control event with major supply chain implications for developers worldwide.",
+          "topic": "AI Export Controls / Anthropic Model Access",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Amazon",
+            "AWS"
+          ],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-06-13T21:39:26.000Z",
+          "addedOn": "2026-06-14"
+        },
+        {
+          "id": "0308281aa0",
+          "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+          "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon CEO Andy Jassy may have been the source of the security concerns that led Anthropic to cut off access to two new models, raising questions about how AWS's investment relationship with Anthropic intersects with US national security policy.",
+          "topic": "AI Export Controls / Amazon-Anthropic Dynamics",
+          "company": "Amazon",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "competitive",
+            "leadership"
+          ],
+          "publishedAt": "2026-06-13T19:11:41.000Z",
+          "addedOn": "2026-06-14"
+        },
+        {
+          "id": "e9c580dd50",
+          "title": "EU Commission looking at practical consequences of Anthropic decision",
+          "link": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14/",
+          "source": "Hacker News",
+          "summary": "The EU Commission is now examining the practical consequences of Anthropic's model access cutoff, signaling this could escalate into a transatlantic regulatory issue affecting AI product availability in Europe.",
+          "topic": "AI Regulation / Geopolitics",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-14T14:33:11.000Z",
+          "addedOn": "2026-06-14"
+        },
+        {
+          "id": "748265de56",
+          "title": "OpenAI faces investigation from state attorneys general",
+          "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+          "source": "TechCrunch AI",
+          "summary": "Multiple state attorneys general are investigating OpenAI, covering areas from advertising practices to health data handling, which could lead to compliance requirements that affect how OpenAI products are built and monetized.",
+          "topic": "OpenAI Regulatory Investigation",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-06-13T16:47:18.000Z",
+          "addedOn": "2026-06-14"
+        },
+        {
+          "id": "38c70bbff9",
+          "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+          "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+          "source": "TechCrunch AI",
+          "summary": "Meta is unwinding its $2 billion Manus acquisition after Beijing demanded the deal be reversed, illustrating the geopolitical risk of cross-border AI acquisitions and the limits of US-China tech deals.",
+          "topic": "AI M&A / Geopolitics",
+          "company": "Meta",
+          "secondaryCompanies": [
+            "Manus"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-14T00:03:49.000Z",
+          "addedOn": "2026-06-14"
+        },
+        {
+          "id": "fc12c862ce",
+          "title": "As Anthropic suspends access to new models, India debates its AI future",
+          "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+          "source": "TechCrunch AI",
+          "summary": "The Anthropic model suspension is prompting India's tech leaders to reassess the country's dependence on foreign AI models and debate building domestic AI infrastructure, which could reshape the market for global AI providers in the region.",
+          "topic": "AI Geopolitics / India",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-14T03:00:00.000Z",
+          "addedOn": "2026-06-14"
+        },
+        {
+          "id": "2149290c64",
+          "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+          "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+          "source": "TechCrunch AI",
+          "summary": "KPMG pulled a published report after it was found to contain AI-generated hallucinations, a concrete enterprise risk example that product teams building AI-powered research or reporting tools need to account for.",
+          "topic": "AI Reliability / Enterprise Risk",
+          "company": "KPMG",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-06-13T20:42:31.000Z",
+          "addedOn": "2026-06-14"
+        },
+        {
+          "id": "32a09a489e",
+          "title": "My first 24 hours with Siri AI on the Mac",
+          "link": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+          "source": "The Verge",
+          "summary": "Apple's new Siri AI on macOS 27 Golden Gate is receiving early positive impressions, suggesting Apple Intelligence may be meaningfully improving after a slow start, which matters for competitive positioning against Google and Microsoft AI assistants.",
+          "topic": "AI Assistant / Apple Siri",
+          "company": "Apple",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-13T15:00:00.000Z",
+          "addedOn": "2026-06-14"
+        },
+        {
+          "id": "e303bd3dd3",
+          "title": "The hidden pattern behind successful products | Mark Pincus (Founder of Zynga)",
+          "link": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
+          "source": "Lenny's Newsletter",
+          "summary": "Zynga founder Mark Pincus shares a product framework called Proven, Better, New for evaluating ideas, offering practical mental models for PMs on when to follow instincts versus when idea validation is needed.",
+          "topic": "Product Management Frameworks",
+          "company": "Zynga",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product"
+          ],
+          "publishedAt": "2026-06-14T12:31:44.000Z",
+          "addedOn": "2026-06-14"
+        },
+        {
+          "id": "87f89d8453",
+          "title": "🧠 Community Wisdom: How AI is changing product operating models, tracking work stress with Whoop, whether you need a portfolio of AI side projects, marketing for tiny teams, and more",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-how-ai-is-changing",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny's community surfaces practitioner perspectives on how AI is changing product operating models, a useful signal for PMs assessing how AI tooling is reshaping team structures and workflows in real organizations.",
+          "topic": "AI in Product Operations",
+          "company": "Lenny's Newsletter",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-13T20:54:15.000Z",
+          "addedOn": "2026-06-14"
+        }
+      ]
+    },
     {
       "date": "2026-06-13",
       "summary": "The biggest story today is the US government ordering Anthropic to block access to its Fable 5 and Mythos 5 models for all foreign users on national security grounds, with Anthropic publicly pushing back on the decision. Mistral is rumored to be raising €3B at a €20B valuation, nearly doubling its last valuation and signaling continued investor appetite for European AI challengers. On the benchmarking front, NVIDIA's Blackwell architecture topped the first agentic AI infrastructure benchmark from Artificial Analysis, reinforcing its hardware lead as agentic workloads become a key enterprise use case.",
