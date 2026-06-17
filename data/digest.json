@@ -1,6 +1,199 @@
 {
-  "lastUpdated": "2026-06-14T15:41:41.270Z",
+  "lastUpdated": "2026-06-17T16:50:14.959Z",
   "days": [
+    {
+      "date": "2026-06-17",
+      "summary": "SpaceX acquired Cursor for $60B in stock, the largest AI tooling deal on record, signaling how seriously non-tech companies are treating AI capability. ChatGPT's global market share fell below 50% for the first time, with Gemini and Claude gaining ground as meaningful competitors. AWS dropped a batch of significant product launches at its New York Summit, including managed RAG pipelines, agentic web search, and autonomous DevOps and security agents on Bedrock.",
+      "items": [
+        {
+          "id": "6f60b1912e",
+          "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+          "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "SpaceX acquiring Cursor for $60B in stock is the largest AI coding tool acquisition to date and signals that major non-software companies now see AI development tooling as core infrastructure.",
+          "topic": "AI Tooling Acquisition",
+          "company": "SpaceX",
+          "secondaryCompanies": [
+            "Cursor"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "competitive",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-16T11:21:41.000Z",
+          "addedOn": "2026-06-17"
+        },
+        {
+          "id": "752ebc9394",
+          "title": "ChatGPT’s market share slips below 50% for first time",
+          "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+          "source": "TechCrunch AI",
+          "summary": "ChatGPT's global market share dropping below 50% for the first time is a concrete signal that the AI assistant market is fragmenting, with Gemini and Claude becoming viable alternatives that PMs must account for in AI strategy.",
+          "topic": "AI Market Share",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Google",
+            "Anthropic"
+          ],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-06-16T10:30:00.000Z",
+          "addedOn": "2026-06-17"
+        },
+        {
+          "id": "724a5007be",
+          "title": "Top announcements of the AWS Summit in New York, 2026",
+          "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/",
+          "source": "AWS News",
+          "summary": "AWS's New York Summit produced a cluster of enterprise AI product launches across Bedrock, DevOps, and security agents that PMs building on AWS need to evaluate immediately.",
+          "topic": "AWS Summit Launches",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-06-17T16:36:08.000Z",
+          "addedOn": "2026-06-17"
+        },
+        {
+          "id": "300acd843b",
+          "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
+          "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
+          "source": "AWS News",
+          "summary": "Amazon Bedrock's new fully managed Knowledge Bases lowers the barrier to building production RAG pipelines, which is directly relevant to any PM building enterprise AI applications on AWS.",
+          "topic": "Enterprise RAG Tooling",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-06-17T15:09:20.000Z",
+          "addedOn": "2026-06-17"
+        },
+        {
+          "id": "609e768217",
+          "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
+          "link": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/",
+          "source": "AWS News",
+          "summary": "Web Search on Amazon Bedrock AgentCore gives AWS customers a managed way to ground agents in real-time web data without data leaving AWS, addressing a key gap in enterprise agentic deployments.",
+          "topic": "Agentic AI Infra",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-06-17T15:00:11.000Z",
+          "addedOn": "2026-06-17"
+        },
+        {
+          "id": "39294416a1",
+          "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
+          "link": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA Blackwell swept MLPerf Training 6.0 benchmarks, reinforcing its dominance in AI training infrastructure and giving PMs and buyers continued confidence in Blackwell as the default training platform.",
+          "topic": "AI Hardware Benchmarks",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "infra",
+            "research"
+          ],
+          "publishedAt": "2026-06-16T15:00:36.000Z",
+          "addedOn": "2026-06-17"
+        },
+        {
+          "id": "e9ed648d3b",
+          "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+          "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+          "source": "TechCrunch AI",
+          "summary": "Business adoption data from Ramp shows Anthropic's enterprise usage is growing despite its public dispute with the Trump administration, suggesting Claude is becoming a durable enterprise alternative to OpenAI.",
+          "topic": "Anthropic Enterprise Growth",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-06-16T22:34:17.000Z",
+          "addedOn": "2026-06-17"
+        },
+        {
+          "id": "eb0664d828",
+          "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+          "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Pramaana Labs raising a $27M seed from Khosla to bring formal verification to AI outputs in law, drug discovery, and tax is an early signal of a new product category focused on AI reliability in high-stakes verticals.",
+          "topic": "AI Reliability Tooling",
+          "company": "Pramaana Labs",
+          "secondaryCompanies": [
+            "Khosla Ventures"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-06-17T14:15:22.000Z",
+          "addedOn": "2026-06-17"
+        },
+        {
+          "id": "4a500f4a83",
+          "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+          "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+          "source": "TechCrunch AI",
+          "summary": "Android 17 ships with expanded Gemini features and new multitasking tools, extending Google's strategy of embedding Gemini into core OS surfaces that reach billions of users.",
+          "topic": "AI in Mobile OS",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-16T18:00:00.000Z",
+          "addedOn": "2026-06-17"
+        },
+        {
+          "id": "78fc4b6ad1",
+          "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+          "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+          "source": "TechCrunch AI",
+          "summary": "A survey finding that 60% of US consumers are turned off by AI branding in messaging is directly actionable for PMs deciding how to position AI features in their products.",
+          "topic": "AI Consumer Perception",
+          "company": "",
+          "secondaryCompanies": [
+            "WordPress VIP"
+          ],
+          "importance": 3,
+          "tags": [
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-06-16T16:49:44.000Z",
+          "addedOn": "2026-06-17"
+        }
+      ]
+    },
     {
       "date": "2026-06-14",
       "summary": "The dominant story today is Anthropic cutting off global access to its Fable 5 and Mythos 5 models following a US government export control directive, reportedly triggered by Amazon security research and conversations involving Amazon CEO Andy Jassy. The fallout is widening, with the EU Commission examining practical consequences and India debating what it means for AI sovereignty. Separately, OpenAI is facing a multi-state attorney general investigation covering ad policies and health data handling, and Meta is reportedly unwinding its $2B Manus acquisition after Beijing ordered the deal reversed.",
