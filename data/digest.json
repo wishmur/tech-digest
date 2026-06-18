@@ -1,6 +1,192 @@
 {
-  "lastUpdated": "2026-06-17T16:50:14.959Z",
+  "lastUpdated": "2026-06-18T16:50:10.600Z",
   "days": [
+    {
+      "date": "2026-06-18",
+      "summary": "Amazon-backed Odyssey raised at a $1.45B valuation for world models, signaling the next wave of AI investment beyond LLMs. AWS launched several agentic developer tools in preview including Transform for tech debt, a DevOps Agent for release management, and an expanded Security Agent. Geopolitical pressure on AI supply chain access is growing after world leaders at the G7 flagged the risk of the US cutting off access to American AI, a concern made concrete by the Anthropic blackout incident.",
+      "items": [
+        {
+          "id": "d84f6e5d3d",
+          "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+          "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+          "source": "TechCrunch AI",
+          "summary": "Odyssey raised at a $1.45B valuation with Amazon backing to build world models, positioning itself as a key player in the post-LLM AI infrastructure wave that PMs building physical or simulation-driven products should watch.",
+          "topic": "AI Funding / World Models",
+          "company": "Odyssey",
+          "secondaryCompanies": [
+            "Amazon"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "research",
+            "launch"
+          ],
+          "publishedAt": "2026-06-17T17:43:07.000Z",
+          "addedOn": "2026-06-18"
+        },
+        {
+          "id": "5d4a94b286",
+          "title": "Proactively reduce tech debt autonomously with AWS Transform – continuous modernization (preview)",
+          "link": "https://aws.amazon.com/blogs/aws/proactively-reduce-tech-debt-autonomously-with-aws-transform-continuous-modernization-preview/",
+          "source": "AWS News",
+          "summary": "AWS Transform now autonomously scans code repos to detect and remediate technical debt at scale, offering PMs a way to frame AI-driven modernization as a continuous process rather than a one-time project.",
+          "topic": "AI Developer Tooling",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-06-17T14:58:00.000Z",
+          "addedOn": "2026-06-18"
+        },
+        {
+          "id": "1c8f46864e",
+          "title": "AWS DevOps Agent adds release management capabilities to assess code changes before production (preview)",
+          "link": "https://aws.amazon.com/blogs/aws/aws-devops-agent-adds-release-management-capabilities-to-assess-code-changes-before-production-preview/",
+          "source": "AWS News",
+          "summary": "AWS DevOps Agent added release management capabilities in preview, autonomously assessing code changes for production readiness, which could reshape how engineering teams think about CI/CD and release gating.",
+          "topic": "AI Developer Tooling",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-06-17T14:57:34.000Z",
+          "addedOn": "2026-06-18"
+        },
+        {
+          "id": "175c63075d",
+          "title": "AWS Security Agent adds threat modeling, Kiro power and Claude Code plugin, and more",
+          "link": "https://aws.amazon.com/blogs/aws/aws-security-agent-adds-threat-modeling-kiro-power-and-claude-code-plugin-and-more/",
+          "source": "AWS News",
+          "summary": "AWS Security Agent now includes STRIDE-based threat modeling, full repo scanning, and IDE integrations including a Claude Code plugin, making AI-driven security review more accessible across the development lifecycle.",
+          "topic": "AI Security Tooling",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "tooling",
+            "infra"
+          ],
+          "publishedAt": "2026-06-17T14:54:55.000Z",
+          "addedOn": "2026-06-18"
+        },
+        {
+          "id": "9ef08ab1d7",
+          "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+          "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+          "source": "TechCrunch AI",
+          "summary": "G7 leaders including Macron and Modi voiced concern about US ability to unilaterally cut off access to American AI after the Anthropic blackout, raising real product and business continuity risks for any company building on US-hosted AI infrastructure.",
+          "topic": "AI Geopolitics / Supply Chain Risk",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-17T19:01:19.000Z",
+          "addedOn": "2026-06-18"
+        },
+        {
+          "id": "c4a5a14ca4",
+          "title": "Photoshop and Premiere now have AI assistants",
+          "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+          "source": "The Verge",
+          "summary": "Adobe added conversational AI assistants to Photoshop, Premiere, and other Creative Cloud apps, accelerating the shift toward natural-language-driven creative workflows that PMs in media and content tools need to benchmark against.",
+          "topic": "AI Product Launch",
+          "company": "Adobe",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-18T13:00:00.000Z",
+          "addedOn": "2026-06-18"
+        },
+        {
+          "id": "d9843e598a",
+          "title": "Google bets on Gemini to reinvent the smart home speaker",
+          "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+          "source": "TechCrunch AI",
+          "summary": "Google launched a $99.99 Home Speaker built around Gemini, replacing rigid command-based Google Assistant interactions with conversational AI, marking a renewed push to own the smart home through generative AI.",
+          "topic": "AI Product Launch",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-17T16:30:09.000Z",
+          "addedOn": "2026-06-18"
+        },
+        {
+          "id": "69f241dbd0",
+          "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+          "link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+          "source": "TechCrunch AI",
+          "summary": "NEA's Tiffany Luck outlines the AI ROI reckoning facing enterprises, noting that unchecked token consumption and unclear returns are forcing companies to reassess AI spend, a dynamic directly relevant to any PM building or justifying AI features.",
+          "topic": "Enterprise AI Strategy",
+          "company": "NEA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-17T18:00:00.000Z",
+          "addedOn": "2026-06-18"
+        },
+        {
+          "id": "d4e2dfc485",
+          "title": "TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants",
+          "link": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/",
+          "source": "Hacker News",
+          "summary": "Meta signed a deal with TerraPower for eight 345 MW advanced nuclear plants, a major move to secure long-term energy for AI data center infrastructure that signals how seriously hyperscalers are treating power supply as a strategic constraint.",
+          "topic": "AI Infrastructure / Energy",
+          "company": "Meta",
+          "secondaryCompanies": [
+            "TerraPower"
+          ],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "funding"
+          ],
+          "publishedAt": "2026-06-18T15:13:26.000Z",
+          "addedOn": "2026-06-18"
+        },
+        {
+          "id": "ca1ffebd7c",
+          "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+          "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+          "source": "TechCrunch AI",
+          "summary": "Pinterest launched Ask Pinterest, a conversational AI shopping app, entering the AI-powered product discovery space and giving PMs in commerce a live example of how social platforms are layering agents onto existing content graphs.",
+          "topic": "AI Product Launch",
+          "company": "Pinterest",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-17T11:00:00.000Z",
+          "addedOn": "2026-06-18"
+        }
+      ]
+    },
     {
       "date": "2026-06-17",
       "summary": "SpaceX acquired Cursor for $60B in stock, the largest AI tooling deal on record, signaling how seriously non-tech companies are treating AI capability. ChatGPT's global market share fell below 50% for the first time, with Gemini and Claude gaining ground as meaningful competitors. AWS dropped a batch of significant product launches at its New York Summit, including managed RAG pipelines, agentic web search, and autonomous DevOps and security agents on Bedrock.",
