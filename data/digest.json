@@ -1,6 +1,197 @@
 {
-  "lastUpdated": "2026-06-18T16:50:10.600Z",
+  "lastUpdated": "2026-06-19T16:27:20.600Z",
   "days": [
+    {
+      "date": "2026-06-19",
+      "summary": "The US government banned Anthropic's Fable 5 and Mythos 5 models over national security concerns, a significant regulatory action affecting a leading AI lab. OpenAI is hiring aggressively ahead of its IPO, adding Transformer co-inventor Noam Shazeer from Google DeepMind and a former Trump AI policy official, while also losing enterprise head Barret Zoph after just five months. AWS announced plans to sell its Trainium/Inferentia chips to external data centers, positioning it as a direct Nvidia competitor in a market Andy Jassy estimates at $50 billion.",
+      "items": [
+        {
+          "id": "00841429d7",
+          "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+          "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+          "source": "TechCrunch AI",
+          "summary": "The US government forced Anthropic to pull Fable 5 and Mythos 5 from release citing national security concerns, a rare regulatory intervention that could set precedent for government oversight of frontier AI model launches.",
+          "topic": "AI Model Regulation",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Amazon"
+          ],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-19T16:01:03.000Z",
+          "addedOn": "2026-06-19"
+        },
+        {
+          "id": "2446e599d3",
+          "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+          "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI hired Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week, signaling a major talent and policy push ahead of its IPO.",
+          "topic": "OpenAI IPO Preparation",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Google DeepMind"
+          ],
+          "importance": 5,
+          "tags": [
+            "leadership",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-18T19:59:22.000Z",
+          "addedOn": "2026-06-19"
+        },
+        {
+          "id": "5748f9c6e6",
+          "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+          "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+          "source": "TechCrunch AI",
+          "summary": "AWS is in talks to sell its custom AI chips to third-party data centers, a direct challenge to Nvidia's dominance that CEO Andy Jassy values as a $50 billion market opportunity.",
+          "topic": "AWS vs Nvidia Chips",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "NVIDIA"
+          ],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-06-18T18:22:13.000Z",
+          "addedOn": "2026-06-19"
+        },
+        {
+          "id": "4b49eeba9a",
+          "title": "Barret Zoph is out at OpenAI again after just five months",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+          "source": "The Verge",
+          "summary": "Barret Zoph, OpenAI's head of enterprise AI sales, has left the company after only five months back, creating a gap in enterprise leadership at a critical pre-IPO moment.",
+          "topic": "OpenAI Leadership Change",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "leadership"
+          ],
+          "publishedAt": "2026-06-19T04:49:33.000Z",
+          "addedOn": "2026-06-19"
+        },
+        {
+          "id": "cc1dc1bb8a",
+          "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs",
+          "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
+          "source": "AWS News",
+          "summary": "AWS launched EC2 G7 instances powered by NVIDIA RTX PRO 4500 Blackwell GPUs, expanding its GPU-backed inference and graphics offering for enterprise workloads.",
+          "topic": "AWS GPU Instances Launch",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "NVIDIA"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra"
+          ],
+          "publishedAt": "2026-06-18T21:22:10.000Z",
+          "addedOn": "2026-06-19"
+        },
+        {
+          "id": "c7f03eb380",
+          "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+          "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+          "source": "TechCrunch AI",
+          "summary": "AI inference startup Baseten is reportedly raising $1.5 billion at a $13 billion valuation, underscoring the intensifying investment in inference infrastructure as demand for model serving grows.",
+          "topic": "AI Inference Funding",
+          "company": "Baseten",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "infra"
+          ],
+          "publishedAt": "2026-06-18T21:20:13.000Z",
+          "addedOn": "2026-06-19"
+        },
+        {
+          "id": "e4922565bf",
+          "title": "Zero-Touch OAuth for MCP",
+          "link": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+          "source": "Hacker News",
+          "summary": "Anthropic's Model Context Protocol blog introduced zero-touch OAuth for MCP, simplifying enterprise authentication for AI tool integrations and reducing friction for adopting MCP-based tooling.",
+          "topic": "MCP Enterprise Auth",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "tooling",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-06-18T21:54:10.000Z",
+          "addedOn": "2026-06-19"
+        },
+        {
+          "id": "f9dbd01a64",
+          "title": "AI data centers just got a government-mandated fast lane to the grid",
+          "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+          "source": "TechCrunch AI",
+          "summary": "FERC issued a rule giving AI data centers a faster interconnection path to the power grid, which will accelerate buildout timelines for hyperscalers and AI infrastructure players, though supply shortages remain unresolved.",
+          "topic": "AI Infrastructure Policy",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "AWS"
+          ],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "infra"
+          ],
+          "publishedAt": "2026-06-18T17:49:23.000Z",
+          "addedOn": "2026-06-19"
+        },
+        {
+          "id": "f7db370cf3",
+          "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+          "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+          "source": "TechCrunch AI",
+          "summary": "Elastic agreed to acquire AI bug-detection startup DeductiveAI for up to $85 million, a signal that observability and developer tooling platforms are actively absorbing AI-native startups.",
+          "topic": "AI Tooling Acquisition",
+          "company": "Elastic",
+          "secondaryCompanies": [
+            "DeductiveAI"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-06-19T00:51:11.000Z",
+          "addedOn": "2026-06-19"
+        },
+        {
+          "id": "173a807b46",
+          "title": "General Intuition in talks to raise $300M at around $2B valuation",
+          "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "General Intuition is in talks to raise $300 million at a $2 billion valuation to train embodied AI and world models using a dataset of 2 billion videos per year, reflecting growing investor interest in physical AI.",
+          "topic": "Embodied AI Funding",
+          "company": "General Intuition",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "research"
+          ],
+          "publishedAt": "2026-06-18T15:20:37.000Z",
+          "addedOn": "2026-06-19"
+        }
+      ]
+    },
     {
       "date": "2026-06-18",
       "summary": "Amazon-backed Odyssey raised at a $1.45B valuation for world models, signaling the next wave of AI investment beyond LLMs. AWS launched several agentic developer tools in preview including Transform for tech debt, a DevOps Agent for release management, and an expanded Security Agent. Geopolitical pressure on AI supply chain access is growing after world leaders at the G7 flagged the risk of the US cutting off access to American AI, a concern made concrete by the Anthropic blackout incident.",
