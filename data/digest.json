@@ -1,6 +1,198 @@
 {
-  "lastUpdated": "2026-06-19T16:27:20.600Z",
+  "lastUpdated": "2026-06-20T15:28:07.328Z",
   "days": [
+    {
+      "date": "2026-06-20",
+      "summary": "The biggest story today is the US government forcing Anthropic to pull its Mythos 5 and Fable 5 models on national security grounds, a move that paradoxically appears to be boosting Anthropic's brand recognition. Nobel laureate John Jumper is leaving Google DeepMind to join Anthropic, a significant talent acquisition for the company. A benchmark comparison showing GPT-5.5 hallucinating three times more than the open-source GLM-5.2 is drawing attention to reliability gaps between closed and open models.",
+      "items": [
+        {
+          "id": "d131d924d4",
+          "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+          "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+          "source": "TechCrunch AI",
+          "summary": "The US government forced Anthropic to pull Mythos 5 and Fable 5 citing national security concerns, a regulatory action that may be generating more public attention for Anthropic than harm.",
+          "topic": "AI Model Regulation",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Amazon"
+          ],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "competitive",
+            "launch"
+          ],
+          "publishedAt": "2026-06-19T16:08:17.000Z",
+          "addedOn": "2026-06-20"
+        },
+        {
+          "id": "a5dce2d464",
+          "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+          "link": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
+          "source": "Hacker News",
+          "summary": "Nobel Prize-winning protein structure scientist John Jumper is leaving Google DeepMind for Anthropic, representing a major research talent shift between two leading AI labs.",
+          "topic": "AI Talent",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Google DeepMind"
+          ],
+          "importance": 5,
+          "tags": [
+            "leadership",
+            "competitive",
+            "research"
+          ],
+          "publishedAt": "2026-06-20T14:32:15.000Z",
+          "addedOn": "2026-06-20"
+        },
+        {
+          "id": "89a83bf2a7",
+          "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+          "link": "https://arrowtsx.dev/bigger-models/",
+          "source": "Hacker News",
+          "summary": "A benchmark analysis found GPT-5.5 hallucinating three times more than the MIT-licensed open-source GLM-5.2, raising concrete reliability questions about OpenAI's latest model versus open alternatives.",
+          "topic": "LLM Benchmarking",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "competitive",
+            "open-source"
+          ],
+          "publishedAt": "2026-06-19T16:11:25.000Z",
+          "addedOn": "2026-06-20"
+        },
+        {
+          "id": "d0d9430b3e",
+          "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+          "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+          "source": "TechCrunch AI",
+          "summary": "Historical context on export controls shows that restricting AI model exports like Anthropic's Mythos is unlikely to be effective, based on three decades of failed cybersecurity software restrictions.",
+          "topic": "AI Export Controls",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "research"
+          ],
+          "publishedAt": "2026-06-19T22:40:14.000Z",
+          "addedOn": "2026-06-20"
+        },
+        {
+          "id": "359a8d1c31",
+          "title": "Hyundai buys Boston Dynamics",
+          "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+          "source": "Hacker News",
+          "summary": "Hyundai has taken full control of Boston Dynamics as SoftBank exits for $325 million, consolidating the leading robotics company under an automotive group with direct manufacturing scale.",
+          "topic": "Robotics Acquisition",
+          "company": "Hyundai",
+          "secondaryCompanies": [
+            "Boston Dynamics",
+            "SoftBank"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-19T16:28:20.000Z",
+          "addedOn": "2026-06-20"
+        },
+        {
+          "id": "f0aaa00764",
+          "title": "LLMs Are Complicated Now",
+          "link": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+          "source": "Hacker News",
+          "summary": "A widely read developer post argues that the LLM landscape has grown genuinely complex to navigate, with meaningful capability and reliability differences across models that product teams can no longer ignore.",
+          "topic": "LLM Product Strategy",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling",
+            "research"
+          ],
+          "publishedAt": "2026-06-20T01:25:14.000Z",
+          "addedOn": "2026-06-20"
+        },
+        {
+          "id": "528d0e934f",
+          "title": "Temporary Cloudflare Accounts for AI Agents",
+          "link": "https://blog.cloudflare.com/temporary-accounts/",
+          "source": "Hacker News",
+          "summary": "Cloudflare launched temporary accounts for AI agents, providing ephemeral identity and access management infrastructure that makes it easier to build autonomous agent workflows.",
+          "topic": "AI Agent Infrastructure",
+          "company": "Cloudflare",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "infra",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-20T11:19:05.000Z",
+          "addedOn": "2026-06-20"
+        },
+        {
+          "id": "e35040ffdf",
+          "title": "Billionaire Ambani wants AI in every call, app, and home",
+          "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+          "source": "TechCrunch AI",
+          "summary": "Reliance is integrating AI across telecom services reaching over 500 million users in India, representing one of the largest consumer AI deployments by reach globally.",
+          "topic": "AI at Scale",
+          "company": "Reliance",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-19T15:23:28.000Z",
+          "addedOn": "2026-06-20"
+        },
+        {
+          "id": "aca35cefe8",
+          "title": "The film about Sam Altman has been dropped by Amazon MGM",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+          "source": "The Verge",
+          "summary": "Amazon MGM dropped the Sam Altman biopic film, reflecting uncertainty around high-profile AI narratives and the volatile public image of OpenAI's leadership.",
+          "topic": "OpenAI Leadership",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Amazon"
+          ],
+          "importance": 2,
+          "tags": [
+            "leadership"
+          ],
+          "publishedAt": "2026-06-19T14:15:29.000Z",
+          "addedOn": "2026-06-20"
+        },
+        {
+          "id": "bd33e41be4",
+          "title": "The US says ASML’s top chip tool may be in China, but how?",
+          "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+          "source": "TechCrunch AI",
+          "summary": "The US suspects ASML's most advanced chip lithography tool has reached China despite export controls, with implications for AI chip supply chains and semiconductor competition.",
+          "topic": "Chip Export Controls",
+          "company": "ASML",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-19T07:59:12.000Z",
+          "addedOn": "2026-06-20"
+        }
+      ]
+    },
     {
       "date": "2026-06-19",
       "summary": "The US government banned Anthropic's Fable 5 and Mythos 5 models over national security concerns, a significant regulatory action affecting a leading AI lab. OpenAI is hiring aggressively ahead of its IPO, adding Transformer co-inventor Noam Shazeer from Google DeepMind and a former Trump AI policy official, while also losing enterprise head Barret Zoph after just five months. AWS announced plans to sell its Trainium/Inferentia chips to external data centers, positioning it as a direct Nvidia competitor in a market Andy Jassy estimates at $50 billion.",
