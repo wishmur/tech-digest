@@ -1,6 +1,195 @@
 {
-  "lastUpdated": "2026-06-20T15:28:07.328Z",
+  "lastUpdated": "2026-06-22T18:08:50.874Z",
   "days": [
+    {
+      "date": "2026-06-22",
+      "summary": "AWS's weekly roundup confirms Grok 4.3 is now available in Amazon Bedrock, expanding xAI's model distribution through a major cloud channel. SpaceX signed a $150M/month compute deal with Reflection AI for NVIDIA GB300 chips at its Colossus 2 data center, signaling serious infrastructure investment in a new open-source AI lab. OpenAI's Codex tool has a critical logging bug that can fill local SSDs with terabytes of data, a practical issue for any PM or engineering team currently using it.",
+      "items": [
+        {
+          "id": "2b00c08178",
+          "title": "Codex logging bug may write TBs to local SSDs",
+          "link": "https://github.com/openai/codex/issues/28224",
+          "source": "Hacker News",
+          "summary": "A confirmed bug in OpenAI's Codex CLI can write terabytes of log data to local SSDs, making it a critical operational risk for any team actively using the tool in production.",
+          "topic": "AI Tooling Bug",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-06-22T07:30:17.000Z",
+          "addedOn": "2026-06-22"
+        },
+        {
+          "id": "1e9c8bf9b6",
+          "title": "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)",
+          "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/",
+          "source": "AWS News",
+          "summary": "AWS's weekly roundup confirms Grok 4.3 is now available in Amazon Bedrock, alongside price reductions and new regional infrastructure, expanding model choice for AWS customers.",
+          "topic": "AWS Bedrock Model Expansion",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "xAI"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-06-22T14:46:17.000Z",
+          "addedOn": "2026-06-22"
+        },
+        {
+          "id": "f7ef68bb6a",
+          "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+          "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+          "source": "TechCrunch AI",
+          "summary": "Reflection AI has committed to $150M per month for NVIDIA GB300 compute on SpaceX's Colossus 2 infrastructure starting mid-2026, representing one of the largest single compute contracts for an emerging AI lab and validating GB300 demand.",
+          "topic": "AI Compute Infrastructure Deal",
+          "company": "SpaceX",
+          "secondaryCompanies": [
+            "Reflection AI",
+            "NVIDIA"
+          ],
+          "importance": 5,
+          "tags": [
+            "infra",
+            "funding",
+            "launch"
+          ],
+          "publishedAt": "2026-06-22T16:51:29.000Z",
+          "addedOn": "2026-06-22"
+        },
+        {
+          "id": "a96480a976",
+          "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+          "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+          "source": "TechCrunch AI",
+          "summary": "The Trump administration's moves against Anthropic raise regulatory and competitive questions about which AI companies benefit from enforcement actions targeting a leading frontier lab.",
+          "topic": "AI Regulation",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-21T15:28:17.000Z",
+          "addedOn": "2026-06-22"
+        },
+        {
+          "id": "4a5634bcc7",
+          "title": "Google invests in A24 to build AI movie tools",
+          "link": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
+          "source": "The Verge",
+          "summary": "Google DeepMind is partnering with A24 to develop AI-powered movie production tools, marking a concrete step into AI for creative industries by a leading AI research lab.",
+          "topic": "AI for Creative Production",
+          "company": "Google DeepMind",
+          "secondaryCompanies": [
+            "A24"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-22T17:18:13.000Z",
+          "addedOn": "2026-06-22"
+        },
+        {
+          "id": "1137c04e03",
+          "title": "Building the most AI-pilled engineering team in the world | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
+          "link": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering",
+          "source": "Lenny's Newsletter",
+          "summary": "Anthropic's manager of Claude Code and Cowork teams shares how they are building an AI-native engineering organization, offering direct insight into how leading AI teams are restructuring roles and workflows around agents.",
+          "topic": "AI Engineering Culture",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-21T12:31:43.000Z",
+          "addedOn": "2026-06-22"
+        },
+        {
+          "id": "7603428b5b",
+          "title": "How Claude Mythos found a 15-year-old bug in Mozilla Firefox | Brian Grinstead",
+          "link": "https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year",
+          "source": "Lenny's Newsletter",
+          "summary": "Mozilla used Claude Mythos to find a 15-year-old Firefox security bug and deliver 423 security fixes in one month, demonstrating a concrete, measurable productivity gain from AI-assisted security research at scale.",
+          "topic": "AI-Assisted Security Research",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Mozilla"
+          ],
+          "importance": 4,
+          "tags": [
+            "product",
+            "research",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-22T12:03:06.000Z",
+          "addedOn": "2026-06-22"
+        },
+        {
+          "id": "d509f232d1",
+          "title": "The text in Claude Code’s “Extended Thinking” output",
+          "link": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+          "source": "Hacker News",
+          "summary": "Analysis of Claude Code's extended thinking output raises questions about whether the visible reasoning text reflects genuine model cognition or is a post-hoc artifact, which matters for PMs evaluating transparency and trust in AI coding tools.",
+          "topic": "AI Transparency",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "tooling",
+            "research"
+          ],
+          "publishedAt": "2026-06-22T14:22:46.000Z",
+          "addedOn": "2026-06-22"
+        },
+        {
+          "id": "b893e7b704",
+          "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+          "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+          "source": "TechCrunch AI",
+          "summary": "iOS 27 is bringing a range of practical AI features beyond the Siri overhaul, giving PMs a concrete view of Apple's near-term AI product surface area across its massive user base.",
+          "topic": "Apple AI Features",
+          "company": "Apple",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-21T14:40:28.000Z",
+          "addedOn": "2026-06-22"
+        },
+        {
+          "id": "3bc52c0883",
+          "title": "Amazon is testing Alexa+ in India with Hindi support",
+          "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon is expanding Alexa+ to India with Hindi language support, testing conversational AI in one of the world's largest markets and signaling Amazon's localization strategy for its AI assistant.",
+          "topic": "AI Assistant Expansion",
+          "company": "Amazon",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-22T17:31:29.000Z",
+          "addedOn": "2026-06-22"
+        }
+      ]
+    },
     {
       "date": "2026-06-20",
       "summary": "The biggest story today is the US government forcing Anthropic to pull its Mythos 5 and Fable 5 models on national security grounds, a move that paradoxically appears to be boosting Anthropic's brand recognition. Nobel laureate John Jumper is leaving Google DeepMind to join Anthropic, a significant talent acquisition for the company. A benchmark comparison showing GPT-5.5 hallucinating three times more than the open-source GLM-5.2 is drawing attention to reliability gaps between closed and open models.",
