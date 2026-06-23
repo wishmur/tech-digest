@@ -1,6 +1,193 @@
 {
-  "lastUpdated": "2026-06-22T18:08:50.874Z",
+  "lastUpdated": "2026-06-23T16:19:02.731Z",
   "days": [
+    {
+      "date": "2026-06-23",
+      "summary": "Groq confirmed a $650M raise and is rebuilding after NVIDIA's not-acqui-hire deal, signaling continued investor appetite for inference infrastructure. Google DeepMind committed $75M to AI filmmaking tools via an A24 partnership, and OpenAI launched a cybersecurity initiative called DayBreak using AI to find open source vulnerabilities. NVIDIA continues to dominate HPC infrastructure, powering over 81% of the TOP500 supercomputers, while a small 3B parameter open-source model called VibeThinker is drawing attention for beating Claude Opus 4.5 on reasoning benchmarks.",
+      "items": [
+        {
+          "id": "a9ba7814c8",
+          "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+          "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+          "source": "TechCrunch AI",
+          "summary": "Groq confirmed a $650M funding round and is pivoting harder into neocloud services after NVIDIA's talent-acquisition deal, making it a significant inference infrastructure player to watch.",
+          "topic": "AI Infrastructure Funding",
+          "company": "Groq",
+          "secondaryCompanies": [
+            "NVIDIA"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "competitive",
+            "infra"
+          ],
+          "publishedAt": "2026-06-22T20:13:58.000Z",
+          "addedOn": "2026-06-23"
+        },
+        {
+          "id": "cab23dbbd0",
+          "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+          "link": "https://openai.com/index/daybreak-securing-the-world/",
+          "source": "Hacker News",
+          "summary": "OpenAI launched DayBreak (GPT-5.5-Cyber), a cybersecurity-focused AI model and initiative aimed at finding and patching vulnerabilities in open source software, expanding OpenAI's product surface into security.",
+          "topic": "AI Security Product Launch",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "open-source"
+          ],
+          "publishedAt": "2026-06-23T01:36:08.000Z",
+          "addedOn": "2026-06-23"
+        },
+        {
+          "id": "2eba6f3aea",
+          "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+          "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+          "source": "TechCrunch AI",
+          "summary": "Google DeepMind is investing $75M in a deal with studio A24 to build AI filmmaking tools, marking a major move into creative industries and a test of AI's commercial viability in Hollywood.",
+          "topic": "AI in Creative Industries",
+          "company": "Google DeepMind",
+          "secondaryCompanies": [
+            "A24"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-22T18:49:44.000Z",
+          "addedOn": "2026-06-23"
+        },
+        {
+          "id": "5669b8cec9",
+          "title": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
+          "link": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA now powers 81% of the TOP500 supercomputers and 90% of newly added systems, reinforcing its near-monopoly position in high-performance compute infrastructure that underpins AI workloads.",
+          "topic": "HPC Market Dominance",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-23T09:00:38.000Z",
+          "addedOn": "2026-06-23"
+        },
+        {
+          "id": "4ee4173d35",
+          "title": "Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs",
+          "link": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+          "source": "AWS News",
+          "summary": "AWS Lambda now supports MicroVMs, offering VM-level isolation for serverless workloads, which directly enables more secure and controlled execution environments for AI agents and sandboxed code.",
+          "topic": "Cloud Serverless Infrastructure",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-06-22T22:40:07.000Z",
+          "addedOn": "2026-06-23"
+        },
+        {
+          "id": "ec0e172f66",
+          "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+          "link": "https://arxiv.org/abs/2606.16140",
+          "source": "Hacker News",
+          "summary": "VibeThinker, a 3B parameter open-source model trained with SFT and GRPO, reportedly outperforms Claude Opus 4.5 on reasoning tasks, challenging assumptions about model size and compute requirements.",
+          "topic": "Open-Source Model Research",
+          "company": "Independent Researchers",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 4,
+          "tags": [
+            "research",
+            "open-source",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-23T02:01:25.000Z",
+          "addedOn": "2026-06-23"
+        },
+        {
+          "id": "5bf2bc3dc6",
+          "title": "Mistral OCR 4",
+          "link": "https://mistral.ai/news/ocr-4/",
+          "source": "Hacker News",
+          "summary": "Mistral released OCR 4, the latest version of its document parsing model, continuing to expand its product lineup and compete in the document AI tooling space.",
+          "topic": "AI Document Tooling",
+          "company": "Mistral",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-06-23T14:03:19.000Z",
+          "addedOn": "2026-06-23"
+        },
+        {
+          "id": "3caeb61da0",
+          "title": "Elevated error rate across multiple models",
+          "link": "https://status.claude.com/incidents/jbhf20wjmzrf",
+          "source": "Hacker News",
+          "summary": "Anthropic's Claude experienced an elevated error rate across multiple models, a reliability incident that matters for PMs building products on Claude APIs and evaluating vendor risk.",
+          "topic": "AI Platform Reliability",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-06-23T14:19:47.000Z",
+          "addedOn": "2026-06-23"
+        },
+        {
+          "id": "f811b25fbf",
+          "title": "The AI world is getting ‘loopy’",
+          "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+          "source": "TechCrunch AI",
+          "summary": "The concept of persistent, looping AI agent swarms working continuously in the background is gaining traction, representing a meaningful product design and safety challenge for teams building agentic systems.",
+          "topic": "Agentic AI Trends",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-06-22T20:53:11.000Z",
+          "addedOn": "2026-06-23"
+        },
+        {
+          "id": "bf46fd0b93",
+          "title": "The new inner game: Your unfair advantage in the age of AI",
+          "link": "https://www.lennysnewsletter.com/p/the-new-inner-game-your-unfair-advantage",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny's Newsletter outlines a PM-focused playbook for navigating AI-driven work changes, relevant for product managers rethinking team structures and personal leverage in an AI-augmented environment.",
+          "topic": "Product Management Practice",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product"
+          ],
+          "publishedAt": "2026-06-23T12:45:59.000Z",
+          "addedOn": "2026-06-23"
+        }
+      ]
+    },
     {
       "date": "2026-06-22",
       "summary": "AWS's weekly roundup confirms Grok 4.3 is now available in Amazon Bedrock, expanding xAI's model distribution through a major cloud channel. SpaceX signed a $150M/month compute deal with Reflection AI for NVIDIA GB300 chips at its Colossus 2 data center, signaling serious infrastructure investment in a new open-source AI lab. OpenAI's Codex tool has a critical logging bug that can fill local SSDs with terabytes of data, a practical issue for any PM or engineering team currently using it.",
