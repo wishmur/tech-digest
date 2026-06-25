@@ -1,6 +1,196 @@
 {
-  "lastUpdated": "2026-06-23T16:19:02.731Z",
+  "lastUpdated": "2026-06-25T16:13:34.560Z",
   "days": [
+    {
+      "date": "2026-06-25",
+      "summary": "OpenAI revealed its first custom inference chip, Jalapeño, built with Broadcom, marking a significant step toward reducing dependence on NVIDIA. Anthropic accused Alibaba of illicitly extracting Claude's model capabilities, a major IP and competitive security incident. Google is losing more senior AI researchers to rivals, with two more heading to Anthropic, continuing a talent drain that compounds its competitive pressure.",
+      "items": [
+        {
+          "id": "b2b283d1fd",
+          "title": "OpenAI unveils its first custom chip, built by Broadcom",
+          "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's first custom silicon, named Jalapeño and built with Broadcom, is purpose-built for inference, signaling OpenAI's move to reduce reliance on NVIDIA and control its compute stack.",
+          "topic": "OpenAI Custom Chip",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Broadcom"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-24T14:54:46.000Z",
+          "addedOn": "2026-06-25"
+        },
+        {
+          "id": "93f1e1090e",
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+          "source": "Hacker News",
+          "summary": "Anthropic alleges Alibaba illicitly extracted capabilities from its Claude AI model, a serious IP theft claim with competitive and legal implications for the AI industry.",
+          "topic": "AI IP Security",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Alibaba"
+          ],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "regulation"
+          ],
+          "publishedAt": "2026-06-24T19:48:01.000Z",
+          "addedOn": "2026-06-25"
+        },
+        {
+          "id": "73ecb6bfd5",
+          "title": "AI researchers continue to leave Google for its rivals",
+          "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+          "source": "TechCrunch AI",
+          "summary": "Two more senior Google AI researchers, Jonas Adler and Alexander Pritzel, are departing for Anthropic, extending a high-profile talent exodus that weakens Google DeepMind's bench.",
+          "topic": "AI Talent Migration",
+          "company": "Google",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 4,
+          "tags": [
+            "leadership",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-24T21:42:07.000Z",
+          "addedOn": "2026-06-25"
+        },
+        {
+          "id": "c06892b974",
+          "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+          "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon is committing another $13B to AI infrastructure in India, reinforcing AWS's long-term positioning in one of the fastest-growing cloud markets.",
+          "topic": "AWS India Infrastructure",
+          "company": "Amazon",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "funding"
+          ],
+          "publishedAt": "2026-06-25T12:00:38.000Z",
+          "addedOn": "2026-06-25"
+        },
+        {
+          "id": "1ef1bcd1b8",
+          "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+          "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+          "source": "TechCrunch AI",
+          "summary": "Adobe's acquisition of Topaz Labs brings best-in-class image and video enhancement AI into its creative suite, tightening its grip on professional creative workflows.",
+          "topic": "Adobe AI Acquisition",
+          "company": "Adobe",
+          "secondaryCompanies": [
+            "Topaz Labs"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-25T13:30:00.000Z",
+          "addedOn": "2026-06-25"
+        },
+        {
+          "id": "b2d1e66efb",
+          "title": "Figma adds code layers, support for animations, more AI features in new update",
+          "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+          "source": "TechCrunch AI",
+          "summary": "Figma's latest update adds a code layer, animation support, shaders, and AI-generated plug-ins, deepening its value for product and engineering teams and responding to competitive pressure.",
+          "topic": "Figma Product Update",
+          "company": "Figma",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-24T16:15:00.000Z",
+          "addedOn": "2026-06-25"
+        },
+        {
+          "id": "444e45a48f",
+          "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+          "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+          "source": "TechCrunch AI",
+          "summary": "Companies are now rationing AI token usage after employees ran up costs on trivial tasks, a practical product management signal about enterprise AI cost governance becoming a real operational problem.",
+          "topic": "AI Cost Governance",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-06-24T20:09:45.000Z",
+          "addedOn": "2026-06-25"
+        },
+        {
+          "id": "f70c73e27c",
+          "title": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
+          "link": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
+          "source": "Lenny's Newsletter",
+          "summary": "Z.AI's open-weight GLM-5.2 model is being positioned as a cheaper alternative to Claude Opus in coding workflows, with a reported cost of $3.36 for complex autonomous tasks, which matters for AI tooling decisions.",
+          "topic": "Open-Weight Model Alternatives",
+          "company": "Z.AI",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 3,
+          "tags": [
+            "open-source",
+            "tooling",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-24T12:03:52.000Z",
+          "addedOn": "2026-06-25"
+        },
+        {
+          "id": "52af79953b",
+          "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+          "source": "Hacker News",
+          "summary": "Ford rehired 350 quality engineers after AI tools failed to replicate domain expertise or develop junior talent, a concrete real-world case study on the limits of AI replacing skilled workers.",
+          "topic": "AI Workforce Limits",
+          "company": "Ford",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-25T14:58:50.000Z",
+          "addedOn": "2026-06-25"
+        },
+        {
+          "id": "b33a37220f",
+          "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+          "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+          "source": "TechCrunch AI",
+          "summary": "Cerebras stock dropped after its first post-IPO earnings revealed weaker gross margin guidance in its core business, raising questions about AI chipmaker profitability outside of NVIDIA.",
+          "topic": "AI Chip Market",
+          "company": "Cerebras",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "competitive",
+            "funding"
+          ],
+          "publishedAt": "2026-06-24T22:41:41.000Z",
+          "addedOn": "2026-06-25"
+        }
+      ]
+    },
     {
       "date": "2026-06-23",
       "summary": "Groq confirmed a $650M raise and is rebuilding after NVIDIA's not-acqui-hire deal, signaling continued investor appetite for inference infrastructure. Google DeepMind committed $75M to AI filmmaking tools via an A24 partnership, and OpenAI launched a cybersecurity initiative called DayBreak using AI to find open source vulnerabilities. NVIDIA continues to dominate HPC infrastructure, powering over 81% of the TOP500 supercomputers, while a small 3B parameter open-source model called VibeThinker is drawing attention for beating Claude Opus 4.5 on reasoning benchmarks.",
