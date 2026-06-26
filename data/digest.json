@@ -1,6 +1,189 @@
 {
-  "lastUpdated": "2026-06-25T16:13:34.560Z",
+  "lastUpdated": "2026-06-26T16:05:52.710Z",
   "days": [
+    {
+      "date": "2026-06-26",
+      "summary": "The Trump administration has asked OpenAI to delay its newest model release, signaling growing government influence over frontier AI deployment timelines. Anthropic is under simultaneous pressure, with its Mythos-class models still offline two weeks after a government ultimatum, while consumer data shows Claude gaining ground on ChatGPT among paid subscribers. On the funding side, agent-testing startup Patronus AI raised $50M and General Intuition raised $320M for game-trained AI agents, reflecting continued investor appetite for AI infrastructure and agent tooling.",
+      "items": [
+        {
+          "id": "7d96e7dab5",
+          "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+          "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+          "source": "TechCrunch AI",
+          "summary": "The Trump administration asked OpenAI to limit release of its next model to select partners, marking a significant moment of government intervention in frontier AI product rollouts.",
+          "topic": "AI Model Release Regulation",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-06-25T23:34:39.000Z",
+          "addedOn": "2026-06-26"
+        },
+        {
+          "id": "3f864cb93a",
+          "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+          "source": "The Verge",
+          "summary": "Anthropic's Mythos models remain offline two weeks after a Trump administration ultimatum, and the situation is reportedly worsening, creating real product and customer impact.",
+          "topic": "AI Government Regulation",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-06-26T14:07:03.000Z",
+          "addedOn": "2026-06-26"
+        },
+        {
+          "id": "8778afccd7",
+          "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+          "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+          "source": "TechCrunch AI",
+          "summary": "Paid AI consumers are shifting toward Claude despite ChatGPT's overall market dominance, a meaningful signal for product positioning and monetization strategy across the AI assistant market.",
+          "topic": "AI Consumer Market Share",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-06-25T17:38:27.000Z",
+          "addedOn": "2026-06-26"
+        },
+        {
+          "id": "7f5ba665e4",
+          "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+          "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Patronus AI raised $50M to scale stress-testing infrastructure for AI agents, addressing a fast-growing need as enterprises deploy autonomous AI systems in production.",
+          "topic": "AI Agent Testing",
+          "company": "Patronus AI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-25T20:19:25.000Z",
+          "addedOn": "2026-06-26"
+        },
+        {
+          "id": "f93ac35174",
+          "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+          "link": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+          "source": "Stratechery",
+          "summary": "Figma CEO Dylan Field argues AI is a tailwind for Figma rather than a threat, offering a PM-relevant perspective on how design tooling is evolving with AI integration.",
+          "topic": "AI in Design Tooling",
+          "company": "Figma",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-25T10:00:00.000Z",
+          "addedOn": "2026-06-26"
+        },
+        {
+          "id": "eb1c42e24d",
+          "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+          "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+          "source": "TechCrunch AI",
+          "summary": "General Intuition raised $320M on a $2.3B valuation to train AI agents on millions of hours of gameplay, betting that action-rich video game data can produce more capable real-world agents.",
+          "topic": "AI Agent Training",
+          "company": "General Intuition",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "research"
+          ],
+          "publishedAt": "2026-06-25T16:55:00.000Z",
+          "addedOn": "2026-06-26"
+        },
+        {
+          "id": "ba304cad7d",
+          "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+          "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+          "source": "TechCrunch AI",
+          "summary": "Un-0 from Databricks' former AI chief claims to cut AI inference power consumption by 1,000x using coupled oscillators for image generation, which if real would have major infra cost implications.",
+          "topic": "AI Efficiency Research",
+          "company": "Un-0",
+          "secondaryCompanies": [
+            "Databricks"
+          ],
+          "importance": 3,
+          "tags": [
+            "research",
+            "infra"
+          ],
+          "publishedAt": "2026-06-25T16:48:11.000Z",
+          "addedOn": "2026-06-26"
+        },
+        {
+          "id": "50960b146d",
+          "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+          "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+          "source": "TechCrunch AI",
+          "summary": "Netris raised $15M from a16z to help AI neocloud operators stand up networking infrastructure faster, targeting a bottleneck in GPU cloud buildouts.",
+          "topic": "AI Cloud Infrastructure",
+          "company": "Netris",
+          "secondaryCompanies": [
+            "Andreessen Horowitz"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "infra"
+          ],
+          "publishedAt": "2026-06-25T14:55:38.000Z",
+          "addedOn": "2026-06-26"
+        },
+        {
+          "id": "c3bd5e39c2",
+          "title": "What happened after 2k people tried to hack my AI assistant",
+          "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
+          "source": "Hacker News",
+          "summary": "A developer's post-mortem on 2,000 adversarial prompt injection attempts against their AI assistant offers practical security lessons relevant to any PM building AI-facing products.",
+          "topic": "AI Security",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-26T02:29:23.000Z",
+          "addedOn": "2026-06-26"
+        },
+        {
+          "id": "07575d5594",
+          "title": "The AI industry is pouring millions into US elections",
+          "link": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+          "source": "Hacker News",
+          "summary": "AI companies are investing heavily in US elections, raising questions about regulatory risk and political exposure that PMs at major AI firms need to track.",
+          "topic": "AI Political Influence",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-26T15:02:43.000Z",
+          "addedOn": "2026-06-26"
+        }
+      ]
+    },
     {
       "date": "2026-06-25",
       "summary": "OpenAI revealed its first custom inference chip, Jalapeño, built with Broadcom, marking a significant step toward reducing dependence on NVIDIA. Anthropic accused Alibaba of illicitly extracting Claude's model capabilities, a major IP and competitive security incident. Google is losing more senior AI researchers to rivals, with two more heading to Anthropic, continuing a talent drain that compounds its competitive pressure.",
