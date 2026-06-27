@@ -1,6 +1,193 @@
 {
-  "lastUpdated": "2026-06-26T16:05:52.710Z",
+  "lastUpdated": "2026-06-27T15:07:02.124Z",
   "days": [
+    {
+      "date": "2026-06-27",
+      "summary": "The Trump administration has restricted both Anthropic's Mythos 5 and OpenAI's GPT-5.6, requiring government approval for access, with Mythos 5 now available to over 100 selected US companies and agencies while OpenAI has publicly pushed back against the policy. OpenAI also revealed its custom inference chip Jalapeño, a direct move to reduce dependence on Nvidia that signals a broader industry shift toward in-house silicon. Asian AI startups are meanwhile launching Mythos-class models to fill the vacuum created by US export restrictions, raising long-term competitive concerns for American labs.",
+      "items": [
+        {
+          "id": "b18057ca14",
+          "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+          "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+          "source": "TechCrunch AI",
+          "summary": "The Trump administration is authorizing over 100 US companies and agencies to use Anthropic's Mythos 5, including access for non-American employees, establishing a government-gated model access precedent.",
+          "topic": "AI Model Access & Government Policy",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-06-27T01:01:37.000Z",
+          "addedOn": "2026-06-27"
+        },
+        {
+          "id": "f9c0cbd38e",
+          "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+          "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+          "source": "TechCrunch AI",
+          "summary": "The US government required OpenAI to limit GPT-5.6 rollout, and OpenAI publicly stated this approval-gated access model should not become the long-term standard, signaling tension between labs and regulators over model distribution.",
+          "topic": "AI Model Regulation",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-26T18:32:14.000Z",
+          "addedOn": "2026-06-27"
+        },
+        {
+          "id": "b0101abc6d",
+          "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+          "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI revealed Jalapeño, a custom inference chip built to reduce reliance on Nvidia, joining a wave of Big Tech companies developing proprietary AI silicon and directly threatening Nvidia's market dominance.",
+          "topic": "AI Chip Strategy",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "NVIDIA"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-26T14:00:00.000Z",
+          "addedOn": "2026-06-27"
+        },
+        {
+          "id": "4209c1889e",
+          "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+          "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+          "source": "TechCrunch AI",
+          "summary": "Asian AI startups are releasing models with Mythos-comparable capabilities outside US export controls, potentially locking American labs out of a major growth market as restrictions drag on.",
+          "topic": "AI Competitive Landscape",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "regulation",
+            "launch"
+          ],
+          "publishedAt": "2026-06-27T12:00:00.000Z",
+          "addedOn": "2026-06-27"
+        },
+        {
+          "id": "32c9cee39e",
+          "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "Hacker News",
+          "summary": "DeepSeek published DSpark, a speculative decoding technique for accelerating LLM inference, which could significantly reduce serving costs and latency for any team running large models in production.",
+          "topic": "LLM Inference Research",
+          "company": "DeepSeek",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "infra",
+            "open-source"
+          ],
+          "publishedAt": "2026-06-27T09:18:52.000Z",
+          "addedOn": "2026-06-27"
+        },
+        {
+          "id": "1e4585fcec",
+          "title": "The gap between open weights LLMs and closed source LLMs",
+          "link": "https://blog.doubleword.ai/frontier-os-llm",
+          "source": "Hacker News",
+          "summary": "A detailed analysis of the current capability gap between open-weights and closed-source frontier LLMs is gaining significant traction, relevant for PMs deciding whether open-source models are viable for production use cases.",
+          "topic": "Open-Source vs Closed LLMs",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "open-source",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-26T21:14:47.000Z",
+          "addedOn": "2026-06-27"
+        },
+        {
+          "id": "aea0b75b50",
+          "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+          "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI hired the former Uber India chief to lead its India operations, reflecting a strategic push into one of the world's largest and fastest-growing AI markets.",
+          "topic": "OpenAI Expansion",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Uber"
+          ],
+          "importance": 3,
+          "tags": [
+            "leadership",
+            "product"
+          ],
+          "publishedAt": "2026-06-26T18:19:36.000Z",
+          "addedOn": "2026-06-27"
+        },
+        {
+          "id": "d295ec6c7f",
+          "title": "It’s not about Anthropic vs. OpenAI anymore",
+          "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+          "source": "TechCrunch AI",
+          "summary": "A commentary argues that AI model capabilities have reached the point where their deployment has direct political consequences, and that industry-wide collective action is now necessary rather than individual lab competition.",
+          "topic": "AI Policy & Industry Dynamics",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-26T16:24:47.000Z",
+          "addedOn": "2026-06-27"
+        },
+        {
+          "id": "58450dee33",
+          "title": "AI in mathematics is forcing big questions",
+          "link": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "Hacker News",
+          "summary": "AI systems are now producing novel mathematical results that challenge how the field validates and attributes mathematical knowledge, with implications for research AI tools and trust in AI-generated outputs.",
+          "topic": "AI in Research",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-06-26T22:36:51.000Z",
+          "addedOn": "2026-06-27"
+        },
+        {
+          "id": "d032b79272",
+          "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+          "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+          "source": "TechCrunch AI",
+          "summary": "A founder used Anthropic's Claude to synthesize personal health data including scans, blood results, and wearables to inform his cancer treatment decisions, illustrating a real-world high-stakes personal AI product use case.",
+          "topic": "AI Health Applications",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "product"
+          ],
+          "publishedAt": "2026-06-27T14:00:00.000Z",
+          "addedOn": "2026-06-27"
+        }
+      ]
+    },
     {
       "date": "2026-06-26",
       "summary": "The Trump administration has asked OpenAI to delay its newest model release, signaling growing government influence over frontier AI deployment timelines. Anthropic is under simultaneous pressure, with its Mythos-class models still offline two weeks after a government ultimatum, while consumer data shows Claude gaining ground on ChatGPT among paid subscribers. On the funding side, agent-testing startup Patronus AI raised $50M and General Intuition raised $320M for game-trained AI agents, reflecting continued investor appetite for AI infrastructure and agent tooling.",
