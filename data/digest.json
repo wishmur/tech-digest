@@ -1,6 +1,188 @@
 {
-  "lastUpdated": "2026-06-27T15:07:02.124Z",
+  "lastUpdated": "2026-06-28T15:09:58.759Z",
   "days": [
+    {
+      "date": "2026-06-28",
+      "summary": "Google has restricted Meta's access to its Gemini AI models, signaling competitive tensions in the AI API market that PMs building on third-party models should watch closely. OpenAI continues to attract top hardware talent with Apple Vision Pro VP Paul Meade joining its hardware team, reinforcing OpenAI's push into physical products. Austria is lobbying the EU to host Anthropic amid US export restrictions, which could reshape how European teams access frontier AI models.",
+      "items": [
+        {
+          "id": "bde1c076af",
+          "title": "Google limits Meta's use of its Gemini AI models",
+          "link": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+          "source": "Hacker News",
+          "summary": "Google has placed limits on Meta's use of Gemini models, indicating that AI providers are now actively managing competitive risks when licensing to rivals, which affects any PM relying on third-party AI APIs.",
+          "topic": "AI Model Access Restrictions",
+          "company": "Google",
+          "secondaryCompanies": [
+            "Meta"
+          ],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-06-28T13:30:06.000Z",
+          "addedOn": "2026-06-28"
+        },
+        {
+          "id": "1facd80fd9",
+          "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+          "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+          "source": "TechCrunch AI",
+          "summary": "Apple's VP overseeing Vision Pro is joining OpenAI's hardware team, suggesting OpenAI is seriously investing in a physical AI device and pulling senior talent from Apple's most ambitious hardware project.",
+          "topic": "OpenAI Hardware Expansion",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Apple"
+          ],
+          "importance": 4,
+          "tags": [
+            "leadership",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-27T16:45:09.000Z",
+          "addedOn": "2026-06-28"
+        },
+        {
+          "id": "061ba90e16",
+          "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+          "source": "Hacker News",
+          "summary": "Austria is lobbying the EU to host Anthropic operations after US export restrictions limited European access, which could create a European AI hub and change procurement options for EU-based product teams.",
+          "topic": "AI Geopolitics and Access",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-28T13:34:14.000Z",
+          "addedOn": "2026-06-28"
+        },
+        {
+          "id": "5d6f5b76b8",
+          "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
+          "link": "https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape",
+          "source": "Lenny's Newsletter",
+          "summary": "OpenAI Codex lead Andrew Ambrosino explains how AI is making software cheaper to build and why product taste becomes more valuable as coding becomes commoditized, directly relevant to PMs rethinking team structure.",
+          "topic": "AI-Assisted Product Development",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-28T12:31:54.000Z",
+          "addedOn": "2026-06-28"
+        },
+        {
+          "id": "97c51afce1",
+          "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+          "link": "https://github.com/openai/codex/issues/2847",
+          "source": "Hacker News",
+          "summary": "An open GitHub issue reveals OpenAI Codex still lacks a reliable way to exclude sensitive files, a security gap PMs should flag before deploying Codex in enterprise or production environments.",
+          "topic": "AI Tooling Security Gap",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-06-28T12:27:33.000Z",
+          "addedOn": "2026-06-28"
+        },
+        {
+          "id": "6e7f4c864b",
+          "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+          "source": "The Verge",
+          "summary": "Prosecutors used a defendant's ChatGPT conversation logs as criminal evidence in a wildfire arson trial, establishing a legal precedent that AI chat histories can be subpoenaed and used in court.",
+          "topic": "AI Legal Precedent",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-06-28T14:12:06.000Z",
+          "addedOn": "2026-06-28"
+        },
+        {
+          "id": "083098fbad",
+          "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+          "link": "https://github.com/itsthelore/wayfinder-router",
+          "source": "Hacker News",
+          "summary": "Wayfinder Router is an open-source tool for deterministically routing queries between local and hosted LLMs, giving PMs a practical way to manage cost and latency across model tiers.",
+          "topic": "LLM Routing Tooling",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "open-source",
+            "tooling",
+            "infra"
+          ],
+          "publishedAt": "2026-06-28T04:31:18.000Z",
+          "addedOn": "2026-06-28"
+        },
+        {
+          "id": "ad25f033b7",
+          "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+          "link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+          "source": "The Verge",
+          "summary": "Apple is seeking a government exception to buy RAM from blacklisted Chinese chipmaker CXMT, highlighting how AI hardware demand is straining supply chains and forcing difficult trade-off decisions for major tech companies.",
+          "topic": "AI Hardware Supply Chain",
+          "company": "Apple",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "regulation"
+          ],
+          "publishedAt": "2026-06-27T17:28:18.000Z",
+          "addedOn": "2026-06-28"
+        },
+        {
+          "id": "d3cecd4bbd",
+          "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+          "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+          "source": "The Verge",
+          "summary": "Apple is raising MacBook and iPad prices significantly, citing AI infrastructure costs as a driver, which signals that AI investment overhead is beginning to flow through to consumer product pricing.",
+          "topic": "AI Cost Impact on Product Pricing",
+          "company": "Apple",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-27T13:30:00.000Z",
+          "addedOn": "2026-06-28"
+        },
+        {
+          "id": "a06b8cb4e9",
+          "title": "EU to legislate about Chat Control behind closed doors",
+          "link": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+          "source": "Hacker News",
+          "summary": "The EU is moving toward legislating Chat Control in closed sessions, which could mandate scanning of private encrypted messages and create compliance requirements for any PM building messaging or AI chat products in Europe.",
+          "topic": "EU AI and Privacy Regulation",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation"
+          ],
+          "publishedAt": "2026-06-28T14:40:13.000Z",
+          "addedOn": "2026-06-28"
+        }
+      ]
+    },
     {
       "date": "2026-06-27",
       "summary": "The Trump administration has restricted both Anthropic's Mythos 5 and OpenAI's GPT-5.6, requiring government approval for access, with Mythos 5 now available to over 100 selected US companies and agencies while OpenAI has publicly pushed back against the policy. OpenAI also revealed its custom inference chip Jalapeño, a direct move to reduce dependence on Nvidia that signals a broader industry shift toward in-house silicon. Asian AI startups are meanwhile launching Mythos-class models to fill the vacuum created by US export restrictions, raising long-term competitive concerns for American labs.",
