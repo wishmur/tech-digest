@@ -1,6 +1,198 @@
 {
-  "lastUpdated": "2026-06-28T15:09:58.759Z",
+  "lastUpdated": "2026-06-29T16:48:45.169Z",
   "days": [
+    {
+      "date": "2026-06-29",
+      "summary": "Palantir launched a new AI engine using NVIDIA Nemotron open models for US government agencies, highlighting the secure deployment of open-source AI in sensitive environments. AWS published its weekly roundup covering agentic customer experience tools for Amazon Connect and other infrastructure updates. Gusto's CTO revealed how a 5-person team shipped a full AI product line in 10 weeks using Claude Code, offering a concrete case study in AI-accelerated product development.",
+      "items": [
+        {
+          "id": "00c305c618",
+          "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+          "link": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
+          "source": "NVIDIA Blog",
+          "summary": "Palantir is deploying NVIDIA Nemotron open models in a secure AI engine for US government agencies, demonstrating a viable path for open-source models in classified or sensitive enterprise environments.",
+          "topic": "AI in Government / Open Models",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Palantir"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "open-source",
+            "product"
+          ],
+          "publishedAt": "2026-06-29T10:59:38.000Z",
+          "addedOn": "2026-06-29"
+        },
+        {
+          "id": "493965e007",
+          "title": "AWS Weekly Roundup, Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
+          "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
+          "source": "AWS News",
+          "summary": "AWS's weekly roundup covers an agentic CX designer for Amazon Connect, EC2 AMI watermarks, and open governance for MySQL, signaling continued expansion of agentic tooling in AWS's enterprise customer service stack.",
+          "topic": "AWS Platform Updates",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "infra",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-29T16:30:30.000Z",
+          "addedOn": "2026-06-29"
+        },
+        {
+          "id": "fc76fc8f65",
+          "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+          "link": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+          "source": "Lenny's Newsletter",
+          "summary": "Gusto's CTO describes shipping a full AI product line with a 5-person team in 10 weeks using Claude Code, providing a high-signal real-world data point on AI-assisted development speed and team structure.",
+          "topic": "AI-Assisted Product Development",
+          "company": "Gusto",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 5,
+          "tags": [
+            "product",
+            "tooling",
+            "launch"
+          ],
+          "publishedAt": "2026-06-29T12:03:38.000Z",
+          "addedOn": "2026-06-29"
+        },
+        {
+          "id": "66a122702b",
+          "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+          "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+          "source": "TechCrunch AI",
+          "summary": "Ford is rehiring experienced engineers after finding AI alone did not produce quality outcomes, a cautionary case study for PMs over-relying on AI to replace domain expertise in product delivery.",
+          "topic": "AI Limitations in Manufacturing",
+          "company": "Ford",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-28T19:05:39.000Z",
+          "addedOn": "2026-06-29"
+        },
+        {
+          "id": "bc0bf62a89",
+          "title": "Lawmakers want to ban AI companies from selling your health data",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+          "source": "The Verge",
+          "summary": "US lawmakers are drafting a bill to ban AI companies from selling health and location data revealed through chatbot interactions, which would directly constrain data monetization strategies for products like ChatGPT and Claude.",
+          "topic": "AI Data Privacy Regulation",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-06-29T16:00:00.000Z",
+          "addedOn": "2026-06-29"
+        },
+        {
+          "id": "d430b72a10",
+          "title": "DeepSeek V4 Peak Valley Pricing Change",
+          "link": "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing",
+          "source": "Hacker News",
+          "summary": "DeepSeek V4 is launching in mid-July with a peak-valley pricing model, a competitive development that could pressure Western AI API pricing strategies.",
+          "topic": "AI Model Pricing / Competition",
+          "company": "DeepSeek",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-29T11:29:14.000Z",
+          "addedOn": "2026-06-29"
+        },
+        {
+          "id": "85c3f90dcf",
+          "title": "Omen AI’s plan to optimize data centers is all wet",
+          "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+          "source": "TechCrunch AI",
+          "summary": "Omen AI raised $31M Series A to monitor coolant systems and prevent bacterial outbreaks in AI data centers, addressing a real infrastructure reliability risk as GPU density increases.",
+          "topic": "Data Center Infrastructure",
+          "company": "Omen AI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "infra"
+          ],
+          "publishedAt": "2026-06-29T13:00:00.000Z",
+          "addedOn": "2026-06-29"
+        },
+        {
+          "id": "5cf6f585ef",
+          "title": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
+          "link": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA Jetson was successfully operated in lunar orbit by Firefly Aerospace, expanding the footprint of NVIDIA compute hardware into space-based edge AI applications.",
+          "topic": "Edge AI / Space",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Firefly Aerospace"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "infra"
+          ],
+          "publishedAt": "2026-06-29T15:00:04.000Z",
+          "addedOn": "2026-06-29"
+        },
+        {
+          "id": "c954eb6916",
+          "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+          "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "Wall Street is positioning Micron as the next major public AI beneficiary after NVIDIA, driven by memory demand for AI infrastructure, though a simultaneous price-fixing lawsuit adds material risk.",
+          "topic": "AI Infrastructure Investment",
+          "company": "Micron",
+          "secondaryCompanies": [
+            "NVIDIA"
+          ],
+          "importance": 3,
+          "tags": [
+            "competitive",
+            "infra"
+          ],
+          "publishedAt": "2026-06-28T15:00:00.000Z",
+          "addedOn": "2026-06-29"
+        },
+        {
+          "id": "744a648f1e",
+          "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
+          "link": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
+          "source": "Hacker News",
+          "summary": "Samsung, SK Hynix, and Micron face a US price-fixing lawsuit over memory pricing, which could affect AI hardware supply chain costs and data center build-out economics.",
+          "topic": "Memory Market Legal Risk",
+          "company": "Micron",
+          "secondaryCompanies": [
+            "Samsung",
+            "SK Hynix"
+          ],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "infra"
+          ],
+          "publishedAt": "2026-06-29T11:58:48.000Z",
+          "addedOn": "2026-06-29"
+        }
+      ]
+    },
     {
       "date": "2026-06-28",
       "summary": "Google has restricted Meta's access to its Gemini AI models, signaling competitive tensions in the AI API market that PMs building on third-party models should watch closely. OpenAI continues to attract top hardware talent with Apple Vision Pro VP Paul Meade joining its hardware team, reinforcing OpenAI's push into physical products. Austria is lobbying the EU to host Anthropic amid US export restrictions, which could reshape how European teams access frontier AI models.",
