@@ -1,6 +1,196 @@
 {
-  "lastUpdated": "2026-06-29T16:48:45.169Z",
+  "lastUpdated": "2026-06-30T16:14:28.340Z",
   "days": [
+    {
+      "date": "2026-06-30",
+      "summary": "Amazon launched a $1B field deployment engineering org to embed engineers inside companies for AI agent rollouts, signaling that hyperscalers are competing on implementation services, not just compute. Anthropic struck a deal to provide Claude to California's government at half price, deepening its public sector footprint while its models also went live on NVIDIA GB300 Blackwell Ultra GPUs via Azure. A new report challenges the narrative that AI eliminates jobs, finding that heavy AI adopters actually grew headcount, including at the entry level.",
+      "items": [
+        {
+          "id": "ba1797ae41",
+          "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+          "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon is standing up a $1B org where engineers embed directly in customer companies to deploy AI agents fast, mirroring moves by OpenAI and Anthropic to compete on deployment services.",
+          "topic": "AI Field Deployment Services",
+          "company": "Amazon",
+          "secondaryCompanies": [
+            "OpenAI",
+            "Anthropic"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-06-30T15:00:00.000Z",
+          "addedOn": "2026-06-30"
+        },
+        {
+          "id": "e68b671fc2",
+          "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
+          "link": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+          "source": "NVIDIA Blog",
+          "summary": "Anthropic's Claude models are now generally available on NVIDIA GB300 Blackwell Ultra GPUs through Microsoft Azure Foundry, giving enterprise Azure customers access to the latest Anthropic models on cutting-edge hardware.",
+          "topic": "AI Inference Infrastructure",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "NVIDIA",
+            "Microsoft"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-29T17:00:19.000Z",
+          "addedOn": "2026-06-30"
+        },
+        {
+          "id": "a4fc79ea8f",
+          "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+          "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic has partnered with California's state government to provide Claude at 50% discount, expanding its public sector customer base while its federal government relationship is under strain.",
+          "topic": "AI Government Contracts",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive",
+            "regulation"
+          ],
+          "publishedAt": "2026-06-29T18:10:26.000Z",
+          "addedOn": "2026-06-30"
+        },
+        {
+          "id": "e55d81a85d",
+          "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+          "link": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA published a detailed breakdown of how its inference software stack minimizes cost per token, which is the metric that matters most as enterprises move AI from pilots to production scale.",
+          "topic": "AI Inference Cost Optimization",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-06-30T15:00:57.000Z",
+          "addedOn": "2026-06-30"
+        },
+        {
+          "id": "e2142c8f10",
+          "title": "The AI jobs debate just got messier",
+          "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+          "source": "TechCrunch AI",
+          "summary": "A new report finds that companies that heavily adopt AI actually grew total headcount by 10.2% and entry-level roles by 12%, giving PMs data to counter internal or external concerns about AI-driven layoffs.",
+          "topic": "AI Workforce Impact",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-06-30T04:01:00.000Z",
+          "addedOn": "2026-06-30"
+        },
+        {
+          "id": "6e26addce9",
+          "title": "Gemini’s personalized AI image generation is now free for US users",
+          "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+          "source": "TechCrunch AI",
+          "summary": "Google is rolling out personalized AI image generation in Gemini to free US users, pulling data from connected Google apps to tailor output, which raises the baseline of what free AI tools offer consumers.",
+          "topic": "AI Image Generation",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-06-29T20:12:59.000Z",
+          "addedOn": "2026-06-30"
+        },
+        {
+          "id": "f954e68bcb",
+          "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+          "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+          "source": "TechCrunch AI",
+          "summary": "Cursor launched a mobile app for monitoring and guiding coding agents remotely, extending the agentic coding workflow beyond the desktop and signaling a shift toward async, agent-supervised development.",
+          "topic": "AI Coding Tools",
+          "company": "Cursor",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-06-29T17:03:50.000Z",
+          "addedOn": "2026-06-30"
+        },
+        {
+          "id": "fba550e7a7",
+          "title": "Claude Code Is Steganographically Marking Requests",
+          "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "source": "Hacker News",
+          "summary": "Researchers found Claude Code is embedding steganographic markers in its requests, a behavior with implications for traceability, privacy, and trust that PMs building on top of Claude Code should be aware of.",
+          "topic": "AI Transparency and Trust",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-06-30T15:44:24.000Z",
+          "addedOn": "2026-06-30"
+        },
+        {
+          "id": "232266d1b7",
+          "title": "How top PMs increase their leverage with AI",
+          "link": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny's Newsletter published a practical framework for how PMs can increase their personal leverage using AI tools, directly relevant to day-to-day PM workflows.",
+          "topic": "Product Management and AI",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-06-30T13:31:39.000Z",
+          "addedOn": "2026-06-30"
+        },
+        {
+          "id": "fdb4e43bcf",
+          "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+          "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+          "source": "TechCrunch AI",
+          "summary": "X launched a hosted MCP server that standardizes how AI applications connect to its platform API, making it easier for developers to build AI-powered integrations on top of X data.",
+          "topic": "AI Platform Integration",
+          "company": "X",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-06-30T15:08:42.000Z",
+          "addedOn": "2026-06-30"
+        }
+      ]
+    },
     {
       "date": "2026-06-29",
       "summary": "Palantir launched a new AI engine using NVIDIA Nemotron open models for US government agencies, highlighting the secure deployment of open-source AI in sensitive environments. AWS published its weekly roundup covering agentic customer experience tools for Amazon Connect and other infrastructure updates. Gusto's CTO revealed how a 5-person team shipped a full AI product line in 10 weeks using Claude Code, offering a concrete case study in AI-accelerated product development.",
