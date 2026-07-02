@@ -1,6 +1,198 @@
 {
-  "lastUpdated": "2026-07-01T16:14:50.880Z",
+  "lastUpdated": "2026-07-02T21:38:22.150Z",
   "days": [
+    {
+      "date": "2026-07-02",
+      "summary": "Anthropic is in discussions with Samsung to develop a custom AI chip, following OpenAI's recent Broadcom partnership, signaling a broader industry shift toward proprietary silicon. Microsoft launched a dedicated AI deployment company with a $2.5 billion commitment, joining Amazon, OpenAI, and Anthropic in building out AI infrastructure at scale. Cloudflare's new policy requiring AI companies to separate training crawlers from search crawlers by September 15 could meaningfully affect how AI firms access web content going forward.",
+      "items": [
+        {
+          "id": "bb53a1477c",
+          "title": "Anthropic is discussing a new custom chip with Samsung",
+          "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is in talks with Samsung to build a custom AI chip, a move that follows OpenAI's Broadcom chip deal and reflects growing urgency among AI labs to control their own compute supply chains.",
+          "topic": "AI Custom Silicon",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Samsung",
+            "OpenAI",
+            "Broadcom"
+          ],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-07-02T18:31:09.000Z",
+          "addedOn": "2026-07-02"
+        },
+        {
+          "id": "86d2625439",
+          "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+          "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft launched a dedicated AI deployment company backed by $2.5 billion, positioning itself alongside Amazon, OpenAI, and Anthropic in the race to operationalize enterprise AI at scale.",
+          "topic": "AI Infrastructure Investment",
+          "company": "Microsoft",
+          "secondaryCompanies": [
+            "Amazon",
+            "OpenAI",
+            "Anthropic"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "infra",
+            "funding"
+          ],
+          "publishedAt": "2026-07-02T13:53:00.000Z",
+          "addedOn": "2026-07-02"
+        },
+        {
+          "id": "af37109284",
+          "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+          "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+          "source": "TechCrunch AI",
+          "summary": "Cloudflare is giving AI companies until September 15 to separate search crawlers from training/agent crawlers, or face default blocking across many publisher sites, which could restrict AI data access significantly.",
+          "topic": "AI Web Crawling Policy",
+          "company": "Cloudflare",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-01T17:48:37.000Z",
+          "addedOn": "2026-07-02"
+        },
+        {
+          "id": "d16fdf4c2d",
+          "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
+          "link": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA is opening up its AI compute infrastructure to partners to support large-scale production inference, reflecting the shift from model training to always-on AI factory deployments.",
+          "topic": "AI Compute Infrastructure",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-02T03:34:48.000Z",
+          "addedOn": "2026-07-02"
+        },
+        {
+          "id": "638b856bf5",
+          "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+          "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI CEO Sam Altman has proposed giving 5% of the company's equity to a US sovereign wealth fund, a move with potential implications for OpenAI's ongoing restructuring and public accountability.",
+          "topic": "OpenAI Governance & Restructuring",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "leadership",
+            "funding",
+            "regulation"
+          ],
+          "publishedAt": "2026-07-02T15:20:51.000Z",
+          "addedOn": "2026-07-02"
+        },
+        {
+          "id": "5d5a6e1dac",
+          "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+          "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+          "source": "TechCrunch AI",
+          "summary": "Google's Gemini Spark agentic assistant is now available on Mac with real-time tracking and expanded app support, broadening its reach as an always-on AI productivity tool.",
+          "topic": "AI Agentic Assistant",
+          "company": "Google DeepMind",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-01T14:20:19.000Z",
+          "addedOn": "2026-07-02"
+        },
+        {
+          "id": "a37f0922b8",
+          "title": "Meta quietly launches vibe-coded gaming app Pocket",
+          "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+          "source": "TechCrunch AI",
+          "summary": "Meta quietly launched Pocket, an AI app that lets users generate and share interactive mini games via text prompts, marking a new consumer AI product experiment from the company.",
+          "topic": "AI Consumer App Launch",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-02T18:44:02.000Z",
+          "addedOn": "2026-07-02"
+        },
+        {
+          "id": "97be182900",
+          "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
+          "link": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
+          "source": "AWS News",
+          "summary": "Amazon EKS now supports Kubernetes version rollbacks within seven days of an upgrade, reducing the risk of cluster upgrades and giving platform teams a practical safety net.",
+          "topic": "Cloud Infrastructure Feature",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-07-01T17:20:30.000Z",
+          "addedOn": "2026-07-02"
+        },
+        {
+          "id": "72121830b2",
+          "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+          "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+          "source": "Hacker News",
+          "summary": "Japan's top court ruled that AI cannot be listed as an inventor on patent applications, a significant legal precedent that affects how AI-assisted R&D is protected globally.",
+          "topic": "AI IP Regulation",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "research"
+          ],
+          "publishedAt": "2026-07-02T13:43:41.000Z",
+          "addedOn": "2026-07-02"
+        },
+        {
+          "id": "1e90d4ca83",
+          "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+          "link": "https://manufact.com",
+          "source": "Hacker News",
+          "summary": "Manufact (YC S25) launched an MCP cloud platform for hosting MCP apps and servers, addressing a growing need for managed infrastructure as Model Context Protocol adoption expands.",
+          "topic": "AI Tooling Infrastructure",
+          "company": "Manufact",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "tooling",
+            "infra"
+          ],
+          "publishedAt": "2026-07-02T15:11:20.000Z",
+          "addedOn": "2026-07-02"
+        }
+      ]
+    },
     {
       "date": "2026-07-01",
       "summary": "Anthropic launched Claude Sonnet 5 as a cheaper agentic model and got its previously blocked Fable 5 model cleared by the Trump administration, making it a big day for the company. On the competitive front, Nvidia challenger Etched hit a $5B valuation with $1B in contracted sales, and Meta is reportedly building a cloud compute business that would directly compete with AWS and Google Cloud. AWS also released Graviton5-powered EC2 instances and CloudFormation Express mode, offering meaningful infrastructure performance gains for teams building AI systems.",
