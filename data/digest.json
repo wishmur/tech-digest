@@ -1,6 +1,187 @@
 {
-  "lastUpdated": "2026-07-02T21:38:22.150Z",
+  "lastUpdated": "2026-07-03T15:47:45.945Z",
   "days": [
+    {
+      "date": "2026-07-03",
+      "summary": "Anthropic is expanding beyond AI assistant software into drug development, launching Claude Science as a workbench for researchers, a significant product pivot worth tracking. Google is shutting down Gemini Code Assist on July 17, tightening the competitive field in AI coding tools. Meta's Zuckerberg acknowledged internally that AI agent progress is slower than expected, and separately that layoffs did not deliver expected results, both signals of execution challenges at a major AI player.",
+      "items": [
+        {
+          "id": "a77a7282a3",
+          "title": "Anthropic wants to develop its own drugs",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+          "source": "The Verge",
+          "summary": "Anthropic announced Claude Science, an AI workbench for scientists combining fragmented tools and datasets, and signaled ambitions to develop its own drugs, moving from toolmaker to domain operator.",
+          "topic": "AI Product Expansion",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-07-03T13:56:52.000Z",
+          "addedOn": "2026-07-03"
+        },
+        {
+          "id": "b99b77b4b6",
+          "title": "Gemini Code Assist will be shut down on July 17",
+          "link": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
+          "source": "Hacker News",
+          "summary": "Google is shutting down Gemini Code Assist on July 17, eliminating a direct competitor to GitHub Copilot and Cursor in the AI coding tools market.",
+          "topic": "AI Tooling",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-03T12:52:48.000Z",
+          "addedOn": "2026-07-03"
+        },
+        {
+          "id": "bbb33a2166",
+          "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+          "source": "TechCrunch AI",
+          "summary": "Zuckerberg told staff internally that Meta's AI agent development is behind schedule, a candid admission that has product and competitive implications for Meta's AI roadmap.",
+          "topic": "AI Development Progress",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive",
+            "leadership"
+          ],
+          "publishedAt": "2026-07-02T23:38:10.000Z",
+          "addedOn": "2026-07-03"
+        },
+        {
+          "id": "444ad7a0b9",
+          "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
+          "link": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
+          "source": "Hacker News",
+          "summary": "Zuckerberg reportedly acknowledged that Meta's layoffs did not achieve the intended efficiency gains, raising questions about the company's organizational strategy heading into a heavy AI investment cycle.",
+          "topic": "Meta Organizational Strategy",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "leadership"
+          ],
+          "publishedAt": "2026-07-03T12:54:53.000Z",
+          "addedOn": "2026-07-03"
+        },
+        {
+          "id": "ebba5e1aa9",
+          "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+          "link": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+          "source": "Hacker News",
+          "summary": "Alibaba is banning Claude Code internally over alleged backdoor risks, which could accelerate China-based enterprise resistance to Anthropic products and signal a broader geopolitical split in AI tooling adoption.",
+          "topic": "AI Security and Geopolitics",
+          "company": "Alibaba",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-03T08:31:37.000Z",
+          "addedOn": "2026-07-03"
+        },
+        {
+          "id": "f23d1aa63f",
+          "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+          "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+          "source": "TechCrunch AI",
+          "summary": "Entrepreneur Bhavin Turakhia is investing $30M of his own capital to build an AI-native enterprise productivity suite targeting Microsoft Office and Google Workspace, intensifying competition in a large incumbent market.",
+          "topic": "Enterprise AI Funding",
+          "company": "Neo",
+          "secondaryCompanies": [
+            "Microsoft",
+            "Google"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-02T05:30:00.000Z",
+          "addedOn": "2026-07-03"
+        },
+        {
+          "id": "66e0ceff26",
+          "title": "Half-Baked Product",
+          "link": "https://weli.dev/blog/half-baked-product/",
+          "source": "Hacker News",
+          "summary": "A widely upvoted Hacker News post on 'half-baked products' surfaces a relevant PM debate about shipping incomplete software, useful signal for product teams navigating speed-vs-quality tradeoffs in the AI era.",
+          "topic": "Product Management Practice",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product"
+          ],
+          "publishedAt": "2026-07-03T08:23:32.000Z",
+          "addedOn": "2026-07-03"
+        },
+        {
+          "id": "486d391fa0",
+          "title": "Virginia bans sale of precise geolocation data",
+          "link": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+          "source": "Hacker News",
+          "summary": "Virginia passed a law banning the sale of precise geolocation data, a regulatory development that affects data pipelines used by ad-tech, mobile, and AI training workflows.",
+          "topic": "Data Privacy Regulation",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation"
+          ],
+          "publishedAt": "2026-07-02T21:03:45.000Z",
+          "addedOn": "2026-07-03"
+        },
+        {
+          "id": "8a2791d6d4",
+          "title": "Jamesob's guide to running SOTA LLMs locally",
+          "link": "https://github.com/jamesob/local-llm",
+          "source": "Hacker News",
+          "summary": "A practical guide for running state-of-the-art LLMs locally is gaining traction on Hacker News, relevant for PMs evaluating on-premise AI deployment options for enterprise or privacy-sensitive use cases.",
+          "topic": "AI Tooling",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "tooling",
+            "open-source"
+          ],
+          "publishedAt": "2026-07-03T15:03:43.000Z",
+          "addedOn": "2026-07-03"
+        },
+        {
+          "id": "f92d4a8fdd",
+          "title": "It Still Can't Do My Job: Four Years of Moving Goalposts (2022–2026)",
+          "link": "https://publicznyprofil.github.io/ai_cant_do_your_work/",
+          "source": "Hacker News",
+          "summary": "A four-year retrospective argues AI still cannot fully replace knowledge workers, providing grounded counterpoint to AI replacement narratives useful for PM roadmap and positioning conversations.",
+          "topic": "AI Capability Assessment",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-07-03T15:02:23.000Z",
+          "addedOn": "2026-07-03"
+        }
+      ]
+    },
     {
       "date": "2026-07-02",
       "summary": "Anthropic is in discussions with Samsung to develop a custom AI chip, following OpenAI's recent Broadcom partnership, signaling a broader industry shift toward proprietary silicon. Microsoft launched a dedicated AI deployment company with a $2.5 billion commitment, joining Amazon, OpenAI, and Anthropic in building out AI infrastructure at scale. Cloudflare's new policy requiring AI companies to separate training crawlers from search crawlers by September 15 could meaningfully affect how AI firms access web content going forward.",
