@@ -1,6 +1,184 @@
 {
-  "lastUpdated": "2026-07-03T15:47:45.945Z",
+  "lastUpdated": "2026-07-04T14:57:04.306Z",
   "days": [
+    {
+      "date": "2026-07-04",
+      "summary": "Mistral launched Leanstral 1.5, a new model focused on formal proof generation, signaling continued competition in specialized AI capabilities. A potential session and cache leakage vulnerability in Claude Code was flagged publicly, raising security concerns for Anthropic's coding tool. Separately, an Epoch AI analysis found a spike in serious CVEs coinciding with the release of Claude Mythos Preview, adding to ongoing scrutiny of AI tools and their security implications.",
+      "items": [
+        {
+          "id": "20760114f5",
+          "title": "Leanstral 1.5: Proof abundance for all",
+          "link": "https://mistral.ai/news/leanstral-1-5/",
+          "source": "Hacker News",
+          "summary": "Mistral released Leanstral 1.5, a model targeting formal mathematical proof generation, which signals growing competition in reasoning and verification AI capabilities.",
+          "topic": "AI Model Launch",
+          "company": "Mistral",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "research",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-03T22:33:10.000Z",
+          "addedOn": "2026-07-04"
+        },
+        {
+          "id": "237a5c0312",
+          "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+          "link": "https://github.com/anthropics/claude-code/issues/74066",
+          "source": "Hacker News",
+          "summary": "A reported session and cache leakage vulnerability in Claude Code could expose user data across workspace instances, a serious trust and security issue for Anthropic's developer product.",
+          "topic": "AI Security Vulnerability",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-07-04T14:03:40.000Z",
+          "addedOn": "2026-07-04"
+        },
+        {
+          "id": "4baa9e3f2d",
+          "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "link": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "Hacker News",
+          "summary": "Epoch AI data shows a spike in high-severity CVEs around the release of Claude Mythos Preview, raising questions about whether advanced AI tools are accelerating vulnerability discovery or exploitation.",
+          "topic": "AI Safety and Security",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-07-03T21:16:16.000Z",
+          "addedOn": "2026-07-04"
+        },
+        {
+          "id": "48ff7a9b40",
+          "title": "Performance per dollar is getting faster and cheaper",
+          "link": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "Hacker News",
+          "summary": "A new analysis using AMD hardware shows significant improvements in performance per dollar for AI inference, relevant for PMs evaluating infrastructure cost trajectories.",
+          "topic": "AI Infrastructure Costs",
+          "company": "AMD",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "research"
+          ],
+          "publishedAt": "2026-07-03T21:49:06.000Z",
+          "addedOn": "2026-07-04"
+        },
+        {
+          "id": "10bcf103c2",
+          "title": "Agentic coding notes from Galapagos Island",
+          "link": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+          "source": "Hacker News",
+          "summary": "A detailed practitioner writeup on agentic coding workflows offers grounded insight into how AI coding assistants perform in real-world, iterative development scenarios.",
+          "topic": "AI Coding Tooling",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-07-04T04:37:15.000Z",
+          "addedOn": "2026-07-04"
+        },
+        {
+          "id": "8aa0594b89",
+          "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
+          "link": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
+          "source": "The Verge",
+          "summary": "Amazon quietly updated the Fire HD 10 tablet with more RAM, a minor hardware refresh that signals continued investment in its budget device lineup.",
+          "topic": "Hardware Refresh",
+          "company": "Amazon",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-03T17:33:55.000Z",
+          "addedOn": "2026-07-04"
+        },
+        {
+          "id": "6d0407c544",
+          "title": "2026 Unslop AI-Written Fiction Contest Results",
+          "link": "https://www.hyperstitionai.com/unslop-results",
+          "source": "Hacker News",
+          "summary": "The results of an anti-AI fiction writing contest highlight growing community efforts to distinguish human-written from AI-generated content, a cultural signal relevant to content product strategies.",
+          "topic": "AI Content Detection",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-04T05:37:25.000Z",
+          "addedOn": "2026-07-04"
+        },
+        {
+          "id": "f87cfe7615",
+          "title": "The fanfiction community is at war with AI — and itself",
+          "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+          "source": "The Verge",
+          "summary": "Fanfiction communities are actively policing AI-generated content, reflecting broader user resistance to AI in creative platforms that PMs in media and community products should monitor.",
+          "topic": "AI and Creator Communities",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-04T12:00:00.000Z",
+          "addedOn": "2026-07-04"
+        },
+        {
+          "id": "7a9f3017f2",
+          "title": "The bottleneck might be the air in the room",
+          "link": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+          "source": "Hacker News",
+          "summary": "A high-signal HN post explores how elevated CO2 in meeting rooms impairs decision-making, a relevant finding for PMs and teams running in-person strategy sessions.",
+          "topic": "Workplace Productivity",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "product"
+          ],
+          "publishedAt": "2026-07-04T06:32:28.000Z",
+          "addedOn": "2026-07-04"
+        },
+        {
+          "id": "d95eb50fe8",
+          "title": "SearXNG: A free internet metasearch engine",
+          "link": "https://github.com/searxng/searxng",
+          "source": "Hacker News",
+          "summary": "SearXNG is an open-source privacy-respecting metasearch engine gaining renewed attention, relevant as a signal of user appetite for search alternatives amid AI-driven search consolidation.",
+          "topic": "Search Tooling",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "open-source",
+            "tooling",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-03T20:15:49.000Z",
+          "addedOn": "2026-07-04"
+        }
+      ]
+    },
     {
       "date": "2026-07-03",
       "summary": "Anthropic is expanding beyond AI assistant software into drug development, launching Claude Science as a workbench for researchers, a significant product pivot worth tracking. Google is shutting down Gemini Code Assist on July 17, tightening the competitive field in AI coding tools. Meta's Zuckerberg acknowledged internally that AI agent progress is slower than expected, and separately that layoffs did not deliver expected results, both signals of execution challenges at a major AI player.",
