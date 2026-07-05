@@ -1,6 +1,192 @@
 {
-  "lastUpdated": "2026-07-04T14:57:04.306Z",
+  "lastUpdated": "2026-07-05T15:04:35.268Z",
   "days": [
+    {
+      "date": "2026-07-05",
+      "summary": "Alibaba has banned employees from using Claude Code, classifying it as high-risk software, which signals growing enterprise-level concern about third-party AI coding tools and data security. Google is actively marketing AI-assisted productivity through Workspace in a high-profile Independence Day campaign, reflecting intensifying competition for enterprise AI adoption. Midjourney's legal push to expose Hollywood studios' AI usage could set precedents affecting how companies disclose and govern AI tool adoption.",
+      "items": [
+        {
+          "id": "ffdf2d6e4c",
+          "title": "Alibaba reportedly bans employees from using Claude Code",
+          "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+          "source": "TechCrunch AI",
+          "summary": "Alibaba classifying Claude Code as high-risk and banning employee use signals that enterprise security concerns around AI coding assistants are now driving formal policy decisions, which matters for any PM evaluating AI tooling adoption at scale.",
+          "topic": "Enterprise AI Policy",
+          "company": "Alibaba",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-07-04T16:32:08.000Z",
+          "addedOn": "2026-07-05"
+        },
+        {
+          "id": "6371e36537",
+          "title": "Claude Design System Prompt",
+          "link": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News",
+          "summary": "A community-shared Claude design system prompt on GitHub is gaining traction as a practical resource for teams integrating Claude into product design workflows, offering a reusable tooling pattern for PMs and designers.",
+          "topic": "AI Tooling",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "tooling",
+            "open-source",
+            "product"
+          ],
+          "publishedAt": "2026-07-05T08:43:37.000Z",
+          "addedOn": "2026-07-05"
+        },
+        {
+          "id": "4aeb7d2c2c",
+          "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+          "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Google's high-profile commercial tying AI-assisted writing to the Declaration of Independence is a direct consumer and enterprise marketing push for Google Workspace AI features during a major cultural moment.",
+          "topic": "AI Marketing",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-04T20:55:25.000Z",
+          "addedOn": "2026-07-05"
+        },
+        {
+          "id": "81db9c8e2d",
+          "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+          "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+          "source": "TechCrunch AI",
+          "summary": "Midjourney seeking court-compelled disclosure of Hollywood studios' internal AI usage could create legal precedent around enterprise AI transparency and affect how companies document and govern AI tool use.",
+          "topic": "AI Legal",
+          "company": "Midjourney",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-04T18:00:05.000Z",
+          "addedOn": "2026-07-05"
+        },
+        {
+          "id": "a00e4ef278",
+          "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+          "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+          "source": "TechCrunch AI",
+          "summary": "A comprehensive explainer on Mistral AI is useful context for PMs evaluating open-source model alternatives to OpenAI, especially as Mistral continues to grow in funding and model capability.",
+          "topic": "AI Models",
+          "company": "Mistral AI",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 3,
+          "tags": [
+            "open-source",
+            "competitive",
+            "funding"
+          ],
+          "publishedAt": "2026-07-04T15:51:32.000Z",
+          "addedOn": "2026-07-05"
+        },
+        {
+          "id": "68c6a25bd0",
+          "title": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny's community wisdom on quarterly planning with AI and AI-powered outbound is directly actionable for PMs thinking about how to integrate AI into core planning and go-to-market processes.",
+          "topic": "Product Management",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-07-04T16:58:47.000Z",
+          "addedOn": "2026-07-05"
+        },
+        {
+          "id": "61b55fde84",
+          "title": "The Log is the Agent",
+          "link": "https://arxiv.org/abs/2605.21997",
+          "source": "Hacker News",
+          "summary": "The research paper 'The Log is the Agent' proposes using logs as the primary substrate for AI agents, which is a potentially important architectural concept for PMs building or evaluating agentic AI products.",
+          "topic": "AI Research",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-07-05T02:57:38.000Z",
+          "addedOn": "2026-07-05"
+        },
+        {
+          "id": "b349f88a9f",
+          "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+          "link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+          "source": "The Verge",
+          "summary": "NASA deploying Katalyst Space Technologies for an emergency satellite mission highlights the growing role of commercial space infrastructure companies in critical operations, relevant for PMs tracking aerospace and infra markets.",
+          "topic": "Space Infrastructure",
+          "company": "NASA",
+          "secondaryCompanies": [
+            "Katalyst Space Technologies"
+          ],
+          "importance": 2,
+          "tags": [
+            "launch",
+            "infra"
+          ],
+          "publishedAt": "2026-07-04T19:06:27.000Z",
+          "addedOn": "2026-07-05"
+        },
+        {
+          "id": "75e260a236",
+          "title": "Fast Software, the Best Software (2019)",
+          "link": "https://craigmod.com/essays/fast_software/",
+          "source": "Hacker News",
+          "summary": "The resurface of the 'Fast Software' essay on Hacker News with strong engagement is a reminder that performance remains a primary product quality signal, relevant for PMs prioritizing user experience in competitive markets.",
+          "topic": "Product Design",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "product"
+          ],
+          "publishedAt": "2026-07-05T07:25:25.000Z",
+          "addedOn": "2026-07-05"
+        },
+        {
+          "id": "ec14e8ba0b",
+          "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+          "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+          "source": "Hacker News",
+          "summary": "Command and Conquer Generals being natively ported to macOS and iOS via open tooling demonstrates continued momentum in cross-platform game porting frameworks, a signal for PMs in gaming or cross-platform product spaces.",
+          "topic": "Open Source / Gaming",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "open-source",
+            "launch"
+          ],
+          "publishedAt": "2026-07-04T19:41:10.000Z",
+          "addedOn": "2026-07-05"
+        }
+      ]
+    },
     {
       "date": "2026-07-04",
       "summary": "Mistral launched Leanstral 1.5, a new model focused on formal proof generation, signaling continued competition in specialized AI capabilities. A potential session and cache leakage vulnerability in Claude Code was flagged publicly, raising security concerns for Anthropic's coding tool. Separately, an Epoch AI analysis found a spike in serious CVEs coinciding with the release of Claude Mythos Preview, adding to ongoing scrutiny of AI tools and their security implications.",
