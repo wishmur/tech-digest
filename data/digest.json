@@ -1,6 +1,195 @@
 {
-  "lastUpdated": "2026-07-05T15:04:35.268Z",
+  "lastUpdated": "2026-07-06T16:46:55.732Z",
   "days": [
+    {
+      "date": "2026-07-06",
+      "summary": "Microsoft made its largest layoff of the year, cutting 4,800 employees with gaming taking the heaviest hit and four Xbox studios being spun off, reinforcing how AI-driven restructuring is reshaping even non-AI business units. AWS highlighted Claude Sonnet 5 availability on its platform alongside new AI agent workspace tooling, signaling continued infrastructure build-out for enterprise AI. Google Chrome quietly installed a 4GB local AI model on user machines, raising product and privacy questions that PMs building browser-adjacent or on-device AI products should track.",
+      "items": [
+        {
+          "id": "888e231d9b",
+          "title": "Microsoft is laying off 4,800 employees",
+          "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+          "source": "The Verge",
+          "summary": "Microsoft cutting 4,800 jobs at the start of its new fiscal year signals that AI-driven cost restructuring is accelerating, directly affecting product and engineering org sizes across the industry.",
+          "topic": "Microsoft Layoffs",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "leadership",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-06T13:30:00.000Z",
+          "addedOn": "2026-07-06"
+        },
+        {
+          "id": "9c91cbff95",
+          "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
+          "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
+          "source": "AWS News",
+          "summary": "AWS's weekly roundup confirms Claude Sonnet 5 is now available on AWS and introduces Amazon WorkSpaces for AI agents, giving enterprise PMs a new managed environment for deploying autonomous agents.",
+          "topic": "AWS AI Agent Infrastructure",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-07-06T15:46:43.000Z",
+          "addedOn": "2026-07-06"
+        },
+        {
+          "id": "613408d57a",
+          "title": "🎙️ How I AI: Sonnet 5 review & How to run autonomous coding agents from your phone",
+          "link": "https://www.lennysnewsletter.com/p/how-i-ai-sonnet-5-review-and-how",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny's newsletter reviews Claude Sonnet 5 and covers a workflow for running autonomous coding agents from a phone using OpenAI Symphony and Linear, offering PMs a practical look at agentic tooling in real use.",
+          "topic": "Agentic Coding Workflows",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "OpenAI",
+            "Linear"
+          ],
+          "importance": 4,
+          "tags": [
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-07-06T15:01:17.000Z",
+          "addedOn": "2026-07-06"
+        },
+        {
+          "id": "29385ba3ff",
+          "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
+          "link": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
+          "source": "Lenny's Newsletter",
+          "summary": "A detailed demo of OpenAI Symphony paired with Linear for autonomous mobile coding agents shows how agentic development pipelines are becoming accessible to individual developers, a workflow shift PMs should understand.",
+          "topic": "OpenAI Symphony Agentic Dev",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Linear"
+          ],
+          "importance": 4,
+          "tags": [
+            "tooling",
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-06T12:03:37.000Z",
+          "addedOn": "2026-07-06"
+        },
+        {
+          "id": "4b8dec6d1e",
+          "title": "Google Chrome Installed a 4GB AI Model on Your PC",
+          "link": "https://oztalking.com/en/issues/hidden-4gb-ai-model",
+          "source": "Hacker News",
+          "summary": "Google silently shipped a 4GB on-device AI model via Chrome, raising user trust and consent issues that are immediately relevant to PMs thinking about transparent AI feature rollouts.",
+          "topic": "On-Device AI Deployment",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "launch",
+            "regulation"
+          ],
+          "publishedAt": "2026-07-06T15:01:44.000Z",
+          "addedOn": "2026-07-06"
+        },
+        {
+          "id": "e764388968",
+          "title": "How Open Models Are Driving AI Research",
+          "link": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA's analysis of ICML 2026 accepted papers shows open models are now the dominant substrate for AI research, which affects build-vs-buy decisions for PMs evaluating AI foundations.",
+          "topic": "Open Models in AI Research",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "open-source"
+          ],
+          "publishedAt": "2026-07-06T16:00:00.000Z",
+          "addedOn": "2026-07-06"
+        },
+        {
+          "id": "8508516950",
+          "title": "How Nations Are Deploying AI for Strategic Priorities",
+          "link": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA outlines how sovereign AI deployments are scaling globally, relevant for PMs at companies targeting government or national infrastructure markets.",
+          "topic": "Sovereign AI Infrastructure",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-06T15:00:25.000Z",
+          "addedOn": "2026-07-06"
+        },
+        {
+          "id": "0600934a90",
+          "title": "Amazon will stop accepting new customers for Mechanical Turk",
+          "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon closing Mechanical Turk to new customers effectively ends a major human-in-the-loop data labeling pipeline, pushing teams toward AI-based annotation alternatives.",
+          "topic": "Amazon Mechanical Turk Shutdown",
+          "company": "Amazon",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-05T17:43:36.000Z",
+          "addedOn": "2026-07-06"
+        },
+        {
+          "id": "02a6feb62f",
+          "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+          "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+          "source": "Hacker News",
+          "summary": "AMD's $4,000 Ryzen AI Halo dev kit targets on-device AI development, entering a space where NVIDIA has been dominant and giving PMs more hardware options to consider for edge AI products.",
+          "topic": "AMD AI Dev Kit",
+          "company": "AMD",
+          "secondaryCompanies": [
+            "NVIDIA"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-06T15:01:18.000Z",
+          "addedOn": "2026-07-06"
+        },
+        {
+          "id": "6f235eb6d9",
+          "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+          "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+          "source": "TechCrunch AI",
+          "summary": "Station F's renewed F/ai accelerator signals continued European investment in AI startups, relevant for PMs and investors tracking where non-US AI product talent and funding are concentrating.",
+          "topic": "European AI Startup Ecosystem",
+          "company": "Station F",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "funding",
+            "launch"
+          ],
+          "publishedAt": "2026-07-06T13:00:00.000Z",
+          "addedOn": "2026-07-06"
+        }
+      ]
+    },
     {
       "date": "2026-07-05",
       "summary": "Alibaba has banned employees from using Claude Code, classifying it as high-risk software, which signals growing enterprise-level concern about third-party AI coding tools and data security. Google is actively marketing AI-assisted productivity through Workspace in a high-profile Independence Day campaign, reflecting intensifying competition for enterprise AI adoption. Midjourney's legal push to expose Hollywood studios' AI usage could set precedents affecting how companies disclose and govern AI tool adoption.",
