@@ -1,6 +1,198 @@
 {
-  "lastUpdated": "2026-07-06T16:46:55.732Z",
+  "lastUpdated": "2026-07-07T16:15:49.959Z",
   "days": [
+    {
+      "date": "2026-07-07",
+      "summary": "Microsoft made headlines with a 4,800-person layoff citing AI transformation, including significant restructuring at Xbox and the firing of the id Software id Tech team. NVIDIA announced early adopters of its Vera CPU platform, positioning it as the core compute unit for agentic AI workloads. A broader AI margin collapse thesis is gaining traction, with GLM 5.2 cited as evidence that capable open models are commoditizing AI inference economics.",
+      "items": [
+        {
+          "id": "507388fe73",
+          "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+          "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft cut 4,800 jobs (2.1% of workforce), explicitly citing AI as a driver, hitting Xbox and commercial sales hardest, signaling accelerating workforce restructuring across big tech.",
+          "topic": "Tech Layoffs / AI Displacement",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "leadership",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-07-06T15:32:43.000Z",
+          "addedOn": "2026-07-07"
+        },
+        {
+          "id": "cecbb651d8",
+          "title": "GLM 5.2 and the coming AI margin collapse",
+          "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+          "source": "Hacker News",
+          "summary": "A high-engagement analysis argues that capable open models like GLM 5.2 are accelerating an AI margin collapse, which would structurally reshape the economics of AI products and incumbents' moats.",
+          "topic": "AI Economics / Competitive Landscape",
+          "company": "GLM",
+          "secondaryCompanies": [
+            "OpenAI",
+            "Anthropic",
+            "Google"
+          ],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "open-source",
+            "research"
+          ],
+          "publishedAt": "2026-07-06T20:14:55.000Z",
+          "addedOn": "2026-07-07"
+        },
+        {
+          "id": "e1f140ae34",
+          "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+          "link": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+          "source": "NVIDIA Blog",
+          "summary": "Early AI innovators are adopting NVIDIA's Vera CPU, which NVIDIA is positioning as the critical-path processor for agentic AI systems at scale, establishing a new product category.",
+          "topic": "AI Infra / NVIDIA Vera CPU",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-07-07T15:00:52.000Z",
+          "addedOn": "2026-07-07"
+        },
+        {
+          "id": "9c9443e032",
+          "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+          "link": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA and Hugging Face are jointly contributing new models and frameworks to the LeRobot open robotics platform, lowering the barrier for physical AI development in the open-source community.",
+          "topic": "Open Robotics / AI Tooling",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Hugging Face"
+          ],
+          "importance": 3,
+          "tags": [
+            "open-source",
+            "launch",
+            "tooling"
+          ],
+          "publishedAt": "2026-07-07T06:00:26.000Z",
+          "addedOn": "2026-07-07"
+        },
+        {
+          "id": "b96d9864f8",
+          "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+          "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Vercel CEO Guillermo Rauch outlines why production AI workloads are driving a separation between models and agents, with price-performance as the core optimization target, relevant for PMs building AI-native products.",
+          "topic": "AI Product Strategy / Agents",
+          "company": "Vercel",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive",
+            "tooling"
+          ],
+          "publishedAt": "2026-07-06T19:49:10.000Z",
+          "addedOn": "2026-07-07"
+        },
+        {
+          "id": "87e2b5c4a6",
+          "title": "Small AI Models Gain Traction In places with unreliable networks",
+          "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "source": "Hacker News",
+          "summary": "Small language models are gaining real adoption in low-connectivity environments like pharmaceutical supply chains, showing a product path where edge AI outcompetes cloud-dependent large models.",
+          "topic": "Small / Edge AI Models",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "research",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-06T23:59:54.000Z",
+          "addedOn": "2026-07-07"
+        },
+        {
+          "id": "9f6aa20661",
+          "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+          "link": "https://ternlight-demo.vercel.app/",
+          "source": "Hacker News",
+          "summary": "Ternlight is a 7MB embedding model that runs entirely in the browser via WASM, demonstrating that meaningful AI inference can be shipped client-side with no server dependency.",
+          "topic": "Browser-side AI / Edge Inference",
+          "company": "Ternlight",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "open-source",
+            "tooling",
+            "launch"
+          ],
+          "publishedAt": "2026-07-06T23:06:31.000Z",
+          "addedOn": "2026-07-07"
+        },
+        {
+          "id": "0f64c66e0d",
+          "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+          "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+          "source": "TechCrunch AI",
+          "summary": "iOS 27 beta lets users customize Siri's speaking pace and expressivity as Apple rebuilds Siri on generative AI, a product signal that voice assistant personalization is becoming a competitive axis.",
+          "topic": "Voice AI / Siri",
+          "company": "Apple",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-06T19:01:59.000Z",
+          "addedOn": "2026-07-07"
+        },
+        {
+          "id": "bd206ca689",
+          "title": "The ‘first’ AI-run ransomware attack still needed a human",
+          "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+          "source": "TechCrunch AI",
+          "summary": "The first documented AI-agent-executed ransomware attack was carried out technically by an AI, but a human still directed targeting and setup, clarifying the current threat model for AI-enabled cybercrime.",
+          "topic": "AI Security / Cybercrime",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-07-06T23:56:14.000Z",
+          "addedOn": "2026-07-07"
+        },
+        {
+          "id": "88a9e7b845",
+          "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+          "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+          "source": "TechCrunch AI",
+          "summary": "Google quietly updated its privacy settings to allow broader storage of user data including media for AI training, a policy shift PMs and product teams should understand as it affects user trust and data strategy.",
+          "topic": "AI Data / Privacy Policy",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-06T17:04:58.000Z",
+          "addedOn": "2026-07-07"
+        }
+      ]
+    },
     {
       "date": "2026-07-06",
       "summary": "Microsoft made its largest layoff of the year, cutting 4,800 employees with gaming taking the heaviest hit and four Xbox studios being spun off, reinforcing how AI-driven restructuring is reshaping even non-AI business units. AWS highlighted Claude Sonnet 5 availability on its platform alongside new AI agent workspace tooling, signaling continued infrastructure build-out for enterprise AI. Google Chrome quietly installed a 4GB local AI model on user machines, raising product and privacy questions that PMs building browser-adjacent or on-device AI products should track.",
