@@ -1,6 +1,199 @@
 {
-  "lastUpdated": "2026-07-07T16:15:49.959Z",
+  "lastUpdated": "2026-07-09T16:21:02.343Z",
   "days": [
+    {
+      "date": "2026-07-09",
+      "summary": "SambaNova raised $1B at an $11B valuation, underscoring continued massive investment in AI infrastructure. OpenAI released new real-time voice models with simultaneous speaking and listening, and xAI dropped Grok 4.5 positioning it as a cheaper alternative to top-tier models. Ollama secured $65M to keep expanding its open-source local AI tooling, now at nearly 9M users, while Prime Intellect raised $130M to let enterprises train their own AI agents without depending on frontier labs.",
+      "items": [
+        {
+          "id": "7e6b7a6e47",
+          "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+          "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+          "source": "TechCrunch AI",
+          "summary": "SambaNova raising $1B at an $11B valuation just months after its previous mega-round signals that AI chip infrastructure investment remains white-hot and competitive with NVIDIA.",
+          "topic": "AI Chip Funding",
+          "company": "SambaNova",
+          "secondaryCompanies": [
+            "Intel"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-08T07:16:00.000Z",
+          "addedOn": "2026-07-09"
+        },
+        {
+          "id": "c1f0680921",
+          "title": "OpenAI releases new voice models for more natural live conversations",
+          "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's new voice models support simultaneous speaking and listening, enabling real-time translation and more natural conversation interfaces that could reshape voice product experiences.",
+          "topic": "AI Voice Models",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-08T17:00:00.000Z",
+          "addedOn": "2026-07-09"
+        },
+        {
+          "id": "e265f51e2c",
+          "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+          "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+          "source": "TechCrunch AI",
+          "summary": "xAI's Grok 4.5 targets the high-capability model tier at lower cost, directly competing with Anthropic's Claude Opus and OpenAI's frontier models.",
+          "topic": "AI Model Launch",
+          "company": "xAI",
+          "secondaryCompanies": [
+            "Anthropic",
+            "OpenAI"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-07-08T19:30:16.000Z",
+          "addedOn": "2026-07-09"
+        },
+        {
+          "id": "f8acfe4280",
+          "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+          "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+          "source": "TechCrunch AI",
+          "summary": "Ollama raising $65M at nearly 9M users cements it as the dominant local AI developer tool, making on-device model deployment more mainstream and reducing cloud dependency.",
+          "topic": "AI Developer Tooling Funding",
+          "company": "Ollama",
+          "secondaryCompanies": [
+            "Benchmark"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "tooling",
+            "open-source"
+          ],
+          "publishedAt": "2026-07-09T13:00:00.000Z",
+          "addedOn": "2026-07-09"
+        },
+        {
+          "id": "72c6482542",
+          "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+          "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Prime Intellect's $130M Series A for enterprise AI agent training infrastructure reflects growing demand for organizations to build agentic systems without full reliance on OpenAI or Anthropic.",
+          "topic": "Enterprise AI Agent Infrastructure",
+          "company": "Prime Intellect",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-07-08T16:22:38.000Z",
+          "addedOn": "2026-07-09"
+        },
+        {
+          "id": "e2647662c2",
+          "title": "Introducing Muse Spark 1.1",
+          "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1",
+          "source": "Hacker News",
+          "summary": "Meta's Muse Spark 1.1 API opens its in-house AI model to developers with coding capabilities, expanding Meta's competitive position in the developer AI tools market.",
+          "topic": "AI Model API Launch",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "competitive",
+            "tooling"
+          ],
+          "publishedAt": "2026-07-09T14:10:22.000Z",
+          "addedOn": "2026-07-09"
+        },
+        {
+          "id": "bc85c1c859",
+          "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+          "link": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA Nemotron achieving benchmark-leading performance on LangChain's Deep Agents harness strengthens NVIDIA's position in agentic AI workflows beyond just hardware.",
+          "topic": "AI Agent Performance",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "LangChain"
+          ],
+          "importance": 4,
+          "tags": [
+            "research",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-08T15:00:27.000Z",
+          "addedOn": "2026-07-09"
+        },
+        {
+          "id": "78b4dd4706",
+          "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+          "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's Claude Wrapped dashboard normalizes AI usage tracking and reinforces user dependency, a notable product retention strategy worth watching as AI apps compete for daily engagement.",
+          "topic": "AI Product Strategy",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-07-09T14:53:09.000Z",
+          "addedOn": "2026-07-09"
+        },
+        {
+          "id": "03bb7eb85c",
+          "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+          "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+          "source": "TechCrunch AI",
+          "summary": "ZML's free inference acceleration software targeting multiple AI chips could reduce inference costs broadly, relevant for PMs evaluating AI deployment economics.",
+          "topic": "AI Inference Tooling",
+          "company": "ZML",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "tooling",
+            "infra"
+          ],
+          "publishedAt": "2026-07-08T08:00:00.000Z",
+          "addedOn": "2026-07-09"
+        },
+        {
+          "id": "6dbacd911f",
+          "title": "Adam Mosseri: AI is a tailwind for authenticity",
+          "link": "https://www.lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for",
+          "source": "Lenny's Newsletter",
+          "summary": "Instagram head Adam Mosseri's views on new product team structures and the 'product staff' role in 2026 offer concrete signal on how large tech companies are reorganizing product functions around AI.",
+          "topic": "Product Management Trends",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "leadership"
+          ],
+          "publishedAt": "2026-07-09T12:32:21.000Z",
+          "addedOn": "2026-07-09"
+        }
+      ]
+    },
     {
       "date": "2026-07-07",
       "summary": "Microsoft made headlines with a 4,800-person layoff citing AI transformation, including significant restructuring at Xbox and the firing of the id Software id Tech team. NVIDIA announced early adopters of its Vera CPU platform, positioning it as the core compute unit for agentic AI workloads. A broader AI margin collapse thesis is gaining traction, with GLM 5.2 cited as evidence that capable open models are commoditizing AI inference economics.",
