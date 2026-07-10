@@ -1,6 +1,191 @@
 {
-  "lastUpdated": "2026-07-09T16:21:02.343Z",
+  "lastUpdated": "2026-07-10T16:12:34.094Z",
   "days": [
+    {
+      "date": "2026-07-10",
+      "summary": "OpenAI launched its GPT-5.6 model family today, confirming it as the preferred model for Microsoft Copilot 365 while simultaneously dealing with the departure of its No. 2 executive Fidji Simo and new legal pressure from the New York Times over alleged evidence concealment in a copyright case. Meta entered the AI coding space with Muse Spark 1.1 and revealed its custom AI chips begin production in September, signaling continued vertical integration by the major platforms. A $100M seed raise for AI voice startup Gradium backed by Nvidia and a $100M fundraise by Lyzr using its own AI agent round out a busy day for AI funding.",
+      "items": [
+        {
+          "id": "da68d51d47",
+          "title": "OpenAI launches its new family of models with GPT-5.6",
+          "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI released the GPT-5.6 model family with improvements across coding, cybersecurity, and reasoning, making it the most significant model launch of the day and the foundation for multiple downstream products.",
+          "topic": "AI Model Launch",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-09T22:24:24.000Z",
+          "addedOn": "2026-07-10"
+        },
+        {
+          "id": "9ac461d004",
+          "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+          "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+          "source": "TechCrunch AI",
+          "summary": "GPT-5.6 is confirmed as the preferred model powering Microsoft Copilot 365, indicating the OpenAI-Microsoft partnership remains intact despite recent reports of tension.",
+          "topic": "AI Partnership",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Microsoft"
+          ],
+          "importance": 5,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-10T00:16:54.000Z",
+          "addedOn": "2026-07-10"
+        },
+        {
+          "id": "ee3f327701",
+          "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
+          "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+          "source": "TechCrunch AI",
+          "summary": "Fidji Simo, OpenAI's No. 2 executive hired to lead commercialization and operations, is stepping down after an extended medical leave, creating a leadership gap at a critical growth stage.",
+          "topic": "Leadership Change",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "leadership"
+          ],
+          "publishedAt": "2026-07-09T23:38:00.000Z",
+          "addedOn": "2026-07-10"
+        },
+        {
+          "id": "aca1fb615a",
+          "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+          "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+          "source": "TechCrunch AI",
+          "summary": "Meta launched Muse Spark 1.1, an AI coding assistant targeting large agentic workloads and enterprise code migrations, entering direct competition with GitHub Copilot, Cursor, and others.",
+          "topic": "AI Coding Tools",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "competitive",
+            "tooling"
+          ],
+          "publishedAt": "2026-07-09T19:40:45.000Z",
+          "addedOn": "2026-07-10"
+        },
+        {
+          "id": "b98651c3d0",
+          "title": "Meta’s new AI chips will begin production in September",
+          "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+          "source": "TechCrunch AI",
+          "summary": "Meta's custom AI chips enter production in September using a modular design, which matters for PMs because it signals Meta reducing dependency on Nvidia and controlling its own inference cost curve.",
+          "topic": "AI Infrastructure",
+          "company": "Meta",
+          "secondaryCompanies": [
+            "Nvidia"
+          ],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "launch"
+          ],
+          "publishedAt": "2026-07-09T17:17:37.000Z",
+          "addedOn": "2026-07-10"
+        },
+        {
+          "id": "1db8020f65",
+          "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+          "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+          "source": "TechCrunch AI",
+          "summary": "The New York Times alleges OpenAI concealed tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating the copyright lawsuit with a sanctions motion that could affect how AI training data practices are litigated industry-wide.",
+          "topic": "AI Legal/Regulation",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation"
+          ],
+          "publishedAt": "2026-07-09T19:05:58.000Z",
+          "addedOn": "2026-07-10"
+        },
+        {
+          "id": "197158ed79",
+          "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+          "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "Gradium, a Paris-based AI voice startup, raised a $100M seed round backed by Nvidia, reflecting Nvidia's continued strategy of funding the application layer on top of its own compute.",
+          "topic": "AI Funding",
+          "company": "Gradium",
+          "secondaryCompanies": [
+            "Nvidia"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "launch"
+          ],
+          "publishedAt": "2026-07-09T18:34:35.000Z",
+          "addedOn": "2026-07-10"
+        },
+        {
+          "id": "eb2fa5e9cf",
+          "title": "An AI agent startup just let its agent run its $100M fundraise",
+          "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+          "source": "TechCrunch AI",
+          "summary": "Lyzr raised $100M using its own AI agent to run the fundraise process, serving as a live product demonstration and a signal that agentic automation is mature enough to handle high-stakes business workflows.",
+          "topic": "AI Agents / Funding",
+          "company": "Lyzr",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "product"
+          ],
+          "publishedAt": "2026-07-09T22:08:58.000Z",
+          "addedOn": "2026-07-10"
+        },
+        {
+          "id": "3579a3be1f",
+          "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+          "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is shutting down its standalone Atlas AI browser but migrating agentic browsing features into its desktop app and a Chrome extension, showing a product strategy shift toward embedded agents over standalone tools.",
+          "topic": "AI Product Strategy",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-07-09T22:03:54.000Z",
+          "addedOn": "2026-07-10"
+        },
+        {
+          "id": "24accd0165",
+          "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+          "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+          "source": "TechCrunch AI",
+          "summary": "Analysis shows Anthropic, OpenAI, and SpaceX IPOs are projected to generate more value than all U.S. VC-backed exits since 2000, giving PMs important context on the scale of the current AI investment cycle and its eventual liquidity events.",
+          "topic": "AI Market Scale",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "OpenAI",
+            "SpaceX"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-09T14:51:00.000Z",
+          "addedOn": "2026-07-10"
+        }
+      ]
+    },
     {
       "date": "2026-07-09",
       "summary": "SambaNova raised $1B at an $11B valuation, underscoring continued massive investment in AI infrastructure. OpenAI released new real-time voice models with simultaneous speaking and listening, and xAI dropped Grok 4.5 positioning it as a cheaper alternative to top-tier models. Ollama secured $65M to keep expanding its open-source local AI tooling, now at nearly 9M users, while Prime Intellect raised $130M to let enterprises train their own AI agents without depending on frontier labs.",
