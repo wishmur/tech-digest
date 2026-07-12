@@ -1,6 +1,155 @@
 {
-  "lastUpdated": "2026-07-11T14:43:26.191Z",
+  "lastUpdated": "2026-07-12T14:46:23.260Z",
   "days": [
+    {
+      "date": "2026-07-12",
+      "summary": "A detailed analysis questions whether NVIDIA's GPU boom is built on circular financing between NVIDIA, CoreWeave, and Nebius, raising structural risk questions for AI infrastructure investors. OpenAI is doubling down on consumer product expansion by hiring a PM focused on families and older adults, signaling a push to broaden ChatGPT's household footprint. Terry Tao's firsthand account of using coding agents and a new tool for visualizing coding-agent sessions on codebases highlight growing practical adoption and tooling around AI-assisted development.",
+      "items": [
+        {
+          "id": "0876fa567e",
+          "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+          "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+          "source": "Hacker News",
+          "summary": "An in-depth analysis alleges that NVIDIA, CoreWeave, and Nebius are engaged in circular financing that may be inflating the GPU boom, which has major implications for AI infrastructure valuations and capital allocation decisions.",
+          "topic": "AI Infrastructure Finance",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "CoreWeave",
+            "Nebius"
+          ],
+          "importance": 5,
+          "tags": [
+            "infra",
+            "competitive",
+            "funding"
+          ],
+          "publishedAt": "2026-07-11T17:21:49.000Z",
+          "addedOn": "2026-07-12"
+        },
+        {
+          "id": "b9b468358f",
+          "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+          "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is hiring a PM specifically to build ChatGPT experiences for families, caregivers, and older adults, indicating a deliberate product strategy to expand into new household demographics.",
+          "topic": "AI Product Expansion",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-07-11T14:13:00.000Z",
+          "addedOn": "2026-07-12"
+        },
+        {
+          "id": "e8265069f1",
+          "title": "Mesh LLM: distributed AI computing on iroh",
+          "link": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News",
+          "summary": "Mesh LLM enables distributed AI inference across multiple nodes using the iroh networking protocol, offering a potential path to running large models without centralized cloud infrastructure.",
+          "topic": "Distributed AI Infra",
+          "company": "iroh",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "open-source",
+            "launch"
+          ],
+          "publishedAt": "2026-07-11T22:38:57.000Z",
+          "addedOn": "2026-07-12"
+        },
+        {
+          "id": "daad41f528",
+          "title": "Old and new apps, via modern coding agents by Terry Tao",
+          "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+          "source": "Hacker News",
+          "summary": "Mathematician Terry Tao shares a hands-on account of using modern coding agents to build apps, providing a credible, high-signal perspective on where AI coding tools are genuinely useful today.",
+          "topic": "AI Coding Tools",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "tooling",
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-07-12T11:09:42.000Z",
+          "addedOn": "2026-07-12"
+        },
+        {
+          "id": "437f8f0cd4",
+          "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+          "link": "https://github.com/cosmtrek/mindwalk",
+          "source": "Hacker News",
+          "summary": "Mindwalk is a new open-source tool that replays coding-agent sessions on a 3D map of a codebase, addressing the growing need for observability and debugging in AI-assisted development workflows.",
+          "topic": "AI Dev Tooling",
+          "company": "Mindwalk",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "tooling",
+            "launch",
+            "open-source"
+          ],
+          "publishedAt": "2026-07-12T05:51:32.000Z",
+          "addedOn": "2026-07-12"
+        },
+        {
+          "id": "022d324a23",
+          "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+          "link": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
+          "source": "Lenny's Newsletter",
+          "summary": "An annual survey of tech workers in 2026 finds the workforce bifurcating around AI adoption, with roughly half thriving and half struggling, and burnout at a record high, relevant for PMs managing AI-augmented teams.",
+          "topic": "AI Workforce Sentiment",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-07-12T12:32:14.000Z",
+          "addedOn": "2026-07-12"
+        },
+        {
+          "id": "c7b2599ec0",
+          "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+          "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News",
+          "summary": "New research finds that AI is accelerating individual research careers while simultaneously narrowing the diversity of scientific discovery, a trend that could affect how AI research labs evaluate progress and innovation.",
+          "topic": "AI and Scientific Research",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-12T13:26:13.000Z",
+          "addedOn": "2026-07-12"
+        },
+        {
+          "id": "5478e49d29",
+          "title": "The fight against AI data centers is just beginning",
+          "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+          "source": "The Verge",
+          "summary": "Community opposition to AI data centers is intensifying across the US, signaling regulatory and public relations risk that infrastructure-heavy AI companies need to factor into site planning.",
+          "topic": "AI Data Center Regulation",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "infra"
+          ],
+          "publishedAt": "2026-07-12T12:00:00.000Z",
+          "addedOn": "2026-07-12"
+        }
+      ]
+    },
     {
       "date": "2026-07-11",
       "summary": "Apple has sued OpenAI alleging that former employees stole hardware trade secrets, which is the day's biggest story given its potential legal and strategic implications for both companies. OpenAI's GPT-5.6 Sol Ultra reportedly produced a proof of the Cycle Double Cover Conjecture, a significant unsolved math problem, signaling a notable jump in AI reasoning capability. Meta reversed course on an Instagram AI image generation feature after public backlash, and SK Hynix completed the largest foreign IPO in US history at $26.5B on the back of AI chip demand.",
