@@ -1,6 +1,194 @@
 {
-  "lastUpdated": "2026-07-12T14:46:23.260Z",
+  "lastUpdated": "2026-07-13T16:19:30.878Z",
   "days": [
+    {
+      "date": "2026-07-13",
+      "summary": "Apple has sued OpenAI over alleged trade secret theft, a significant legal escalation between two major AI players. xAI's Grok faced a serious privacy incident after reportedly uploading user directory data to xAI servers without consent, raising product trust concerns. Anthropic is localizing Claude pricing for India, signaling aggressive international expansion, while a high-profile community debate around Anthropic's transparency on AI coding claims is gaining traction.",
+      "items": [
+        {
+          "id": "847963af5f",
+          "title": "Apple Sues OpenAI, Apple’s Real Problem",
+          "link": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+          "source": "Stratechery",
+          "summary": "Apple suing OpenAI over trade secret theft is a major legal development that could affect AI industry partnerships and IP norms, even if the underlying case centers on one employee.",
+          "topic": "AI Legal/IP Dispute",
+          "company": "Apple",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "regulation",
+            "leadership"
+          ],
+          "publishedAt": "2026-07-13T10:00:00.000Z",
+          "addedOn": "2026-07-13"
+        },
+        {
+          "id": "35602ac53d",
+          "title": "Grok uploaded my user directory to xAI's servers",
+          "link": "https://twitter.com/a_green_being/status/2076598897779020159",
+          "source": "Hacker News",
+          "summary": "Grok allegedly uploaded a user's local directory to xAI servers without explicit consent, a significant privacy incident that could trigger regulatory scrutiny and user trust fallout for xAI.",
+          "topic": "AI Privacy Incident",
+          "company": "xAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "product",
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-13T13:39:59.000Z",
+          "addedOn": "2026-07-13"
+        },
+        {
+          "id": "f458533f4f",
+          "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+          "source": "Hacker News",
+          "summary": "A widely shared post (1100+ HN points) accuses Anthropic of making misleading claims about Claude's coding capabilities, a reputational risk for Anthropic and a signal for PMs evaluating AI coding tools.",
+          "topic": "AI Transparency Controversy",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-07-13T08:39:39.000Z",
+          "addedOn": "2026-07-13"
+        },
+        {
+          "id": "cda1dfeab5",
+          "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+          "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is localizing Claude subscription pricing to Indian rupees for its largest non-US market, a concrete step toward global monetization that competitors will watch closely.",
+          "topic": "AI Pricing/Market Expansion",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-13T15:34:59.000Z",
+          "addedOn": "2026-07-13"
+        },
+        {
+          "id": "8f4dc6d90b",
+          "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+          "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+          "source": "The Verge",
+          "summary": "Apple's canceled self-driving car project is credited with driving the chip architecture advances now powering Apple Intelligence, offering a useful case study in how failed products create platform leverage.",
+          "topic": "AI Chip Strategy",
+          "company": "Apple",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-07-12T16:27:06.000Z",
+          "addedOn": "2026-07-13"
+        },
+        {
+          "id": "b395493f3c",
+          "title": "Waze is getting a bunch of new AI-powered features",
+          "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+          "source": "The Verge",
+          "summary": "Google is integrating Gemini into Waze for personalized trip features, extending Gemini's footprint into consumer navigation and adding a tangible use case for on-device AI assistants.",
+          "topic": "AI Product Integration",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-13T09:00:00.000Z",
+          "addedOn": "2026-07-13"
+        },
+        {
+          "id": "22da17446a",
+          "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
+          "link": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
+          "source": "The Verge",
+          "summary": "Even NVIDIA's own automotive division head has to compete internally for GPU compute, illustrating how severe the supply crunch remains and what that means for product teams dependent on NVIDIA infrastructure.",
+          "topic": "AI Compute Supply",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-13T15:00:00.000Z",
+          "addedOn": "2026-07-13"
+        },
+        {
+          "id": "31b58169b9",
+          "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
+          "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/",
+          "source": "AWS News",
+          "summary": "AWS's weekly roundup highlights Security Hub network scanning and Loom integration for AWS, relevant for PMs tracking AWS tooling and developer ecosystem updates.",
+          "topic": "AWS Platform Updates",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "Loom"
+          ],
+          "importance": 2,
+          "tags": [
+            "tooling",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-07-13T16:18:20.000Z",
+          "addedOn": "2026-07-13"
+        },
+        {
+          "id": "605051643c",
+          "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+          "link": "https://github.com/clawkwork/clawk",
+          "source": "Hacker News",
+          "summary": "Clawk provides coding agents with isolated disposable Linux VMs instead of host machine access, addressing a real security gap for teams deploying AI coding agents in production.",
+          "topic": "AI Coding Tooling",
+          "company": "Clawk",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "tooling",
+            "launch",
+            "open-source"
+          ],
+          "publishedAt": "2026-07-13T14:02:03.000Z",
+          "addedOn": "2026-07-13"
+        },
+        {
+          "id": "9d90ed351e",
+          "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+          "link": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+          "source": "Lenny's Newsletter",
+          "summary": "A solo builder running Claude Code on local hardware 24/7 to ship features autonomously is a concrete example of agent-driven development workflows PMs should understand as this pattern scales.",
+          "topic": "AI Development Workflows",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-07-13T12:05:20.000Z",
+          "addedOn": "2026-07-13"
+        }
+      ]
+    },
     {
       "date": "2026-07-12",
       "summary": "A detailed analysis questions whether NVIDIA's GPU boom is built on circular financing between NVIDIA, CoreWeave, and Nebius, raising structural risk questions for AI infrastructure investors. OpenAI is doubling down on consumer product expansion by hiring a PM focused on families and older adults, signaling a push to broaden ChatGPT's household footprint. Terry Tao's firsthand account of using coding agents and a new tool for visualizing coding-agent sessions on codebases highlight growing practical adoption and tooling around AI-assisted development.",
