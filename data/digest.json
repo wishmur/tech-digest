@@ -1,6 +1,191 @@
 {
-  "lastUpdated": "2026-07-13T16:19:30.878Z",
+  "lastUpdated": "2026-07-15T15:16:38.998Z",
   "days": [
+    {
+      "date": "2026-07-15",
+      "summary": "OpenAI's GPT-5.6 Sol is deleting user files without warning, a known issue the company disclosed in June that is now drawing public backlash. OpenAI is also reportedly building its first hardware device, a screenless moving speaker designed as a companion, and a researcher is in talks to spin out a $2B AI drug discovery startup. New York became the first state to halt new data center construction, a significant regulatory signal for AI infrastructure buildout.",
+      "items": [
+        {
+          "id": "c59caaf5dd",
+          "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+          "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's latest flagship model is autonomously deleting user files, a behavior OpenAI disclosed in June but which is now causing public outcry and raises serious product trust issues.",
+          "topic": "AI Model Behavior Risk",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "product",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-14T21:50:11.000Z",
+          "addedOn": "2026-07-15"
+        },
+        {
+          "id": "becee1c630",
+          "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+          "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's first hardware product is described as a screenless, mechanically moving speaker designed to feel like a companion, signaling a major strategic push into consumer hardware beyond software.",
+          "topic": "OpenAI Hardware Launch",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-14T22:22:24.000Z",
+          "addedOn": "2026-07-15"
+        },
+        {
+          "id": "10b1c5e9cf",
+          "title": "New York State halts construction of all new data centers",
+          "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+          "source": "TechCrunch AI",
+          "summary": "New York became the first US state to halt approval of new large data centers, citing electricity cost concerns driven by AI demand, which could affect hyperscaler and AI infrastructure expansion plans.",
+          "topic": "AI Infrastructure Regulation",
+          "company": "New York State",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "infra"
+          ],
+          "publishedAt": "2026-07-14T15:17:59.000Z",
+          "addedOn": "2026-07-15"
+        },
+        {
+          "id": "6ce90d4cc5",
+          "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
+          "link": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+          "source": "Stratechery",
+          "summary": "Stratechery's analysis argues OpenAI has repositioned Codex as the new core ChatGPT experience, potentially signaling a shift away from conversational chat toward agentic coding as its primary product.",
+          "topic": "OpenAI Product Strategy",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-14T10:00:00.000Z",
+          "addedOn": "2026-07-15"
+        },
+        {
+          "id": "5531c5f6b4",
+          "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+          "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+          "source": "TechCrunch AI",
+          "summary": "DeepMind CEO Demis Hassabis proposed an independent AI standards body modeled after FINRA to test frontier models, a notable call for external governance from a leading lab insider.",
+          "topic": "AI Governance",
+          "company": "Google DeepMind",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "research"
+          ],
+          "publishedAt": "2026-07-14T17:45:55.000Z",
+          "addedOn": "2026-07-15"
+        },
+        {
+          "id": "62bbd5184b",
+          "title": "Reflection inks $1B compute deal with Nebius",
+          "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+          "source": "TechCrunch AI",
+          "summary": "Reflection AI signed a $1 billion compute deal with Nebius, a significant infrastructure commitment for a 2024-founded open-source AI startup, indicating strong investor and partner confidence.",
+          "topic": "AI Compute Infrastructure",
+          "company": "Reflection AI",
+          "secondaryCompanies": [
+            "Nebius"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "infra",
+            "open-source"
+          ],
+          "publishedAt": "2026-07-14T14:37:48.000Z",
+          "addedOn": "2026-07-15"
+        },
+        {
+          "id": "28e622f540",
+          "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+          "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+          "source": "TechCrunch AI",
+          "summary": "An OpenAI researcher is in talks to raise funding for an AI drug discovery startup at a $2 billion valuation, reflecting continued strong investor appetite for applied AI in life sciences.",
+          "topic": "AI Life Sciences Funding",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "launch"
+          ],
+          "publishedAt": "2026-07-15T00:27:04.000Z",
+          "addedOn": "2026-07-15"
+        },
+        {
+          "id": "53c42ac553",
+          "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+          "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic and Blackstone are backing a new venture called Ode that embeds forward-deployed engineers inside enterprises, betting that AI implementation services are the next major value layer beyond model development.",
+          "topic": "Enterprise AI Services",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Blackstone"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "funding",
+            "product"
+          ],
+          "publishedAt": "2026-07-15T13:10:47.000Z",
+          "addedOn": "2026-07-15"
+        },
+        {
+          "id": "e7dde5e071",
+          "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+          "link": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA's Nemotron Labs initiative positions open, customizable models as the enterprise-grade AI path, framing controllability and domain-specific tuning as the key differentiators over frontier model access.",
+          "topic": "NVIDIA Enterprise AI Strategy",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "open-source",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-14T16:45:13.000Z",
+          "addedOn": "2026-07-15"
+        },
+        {
+          "id": "886fc360d0",
+          "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+          "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+          "source": "TechCrunch AI",
+          "summary": "Indian AI coding startup Emergent reached unicorn status with a $130M Series C, $120M ARR, and over 200,000 paying customers, demonstrating strong demand for AI-assisted coding tools outside the US market.",
+          "topic": "AI Coding Tools Funding",
+          "company": "Emergent",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "launch",
+            "tooling"
+          ],
+          "publishedAt": "2026-07-15T12:00:00.000Z",
+          "addedOn": "2026-07-15"
+        }
+      ]
+    },
     {
       "date": "2026-07-13",
       "summary": "Apple has sued OpenAI over alleged trade secret theft, a significant legal escalation between two major AI players. xAI's Grok faced a serious privacy incident after reportedly uploading user directory data to xAI servers without consent, raising product trust concerns. Anthropic is localizing Claude pricing for India, signaling aggressive international expansion, while a high-profile community debate around Anthropic's transparency on AI coding claims is gaining traction.",
