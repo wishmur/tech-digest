@@ -1,6 +1,201 @@
 {
-  "lastUpdated": "2026-07-15T15:16:38.998Z",
+  "lastUpdated": "2026-07-16T15:24:28.895Z",
   "days": [
+    {
+      "date": "2026-07-16",
+      "summary": "Apple Intelligence has been approved for launch in China through partnerships with Alibaba and Baidu, marking a significant market access win for Apple. Microsoft is actively training its sales force to position its in-house AI models against OpenAI and Anthropic, signaling a direct competitive shift away from its own partners. NVIDIA launched new Jetson Thor computers targeting mainstream robotics and edge AI deployment, extending its hardware reach beyond data centers.",
+      "items": [
+        {
+          "id": "92bf3c7f3d",
+          "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+          "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Apple Intelligence received regulatory approval to launch in China via deals with Alibaba and Baidu, opening AI features to one of Apple's most critical hardware markets.",
+          "topic": "Apple AI China Launch",
+          "company": "Apple",
+          "secondaryCompanies": [
+            "Alibaba",
+            "Baidu"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-07-16T13:17:59.000Z",
+          "addedOn": "2026-07-16"
+        },
+        {
+          "id": "86fc4744cf",
+          "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+          "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft is training its sales staff to pitch its own AI models as cheaper and more efficient than OpenAI and Anthropic, a notable pivot given its deep investment in both companies.",
+          "topic": "Microsoft AI Sales Strategy",
+          "company": "Microsoft",
+          "secondaryCompanies": [
+            "OpenAI",
+            "Anthropic"
+          ],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-07-15T23:59:44.000Z",
+          "addedOn": "2026-07-16"
+        },
+        {
+          "id": "12378690e9",
+          "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+          "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA introduced new Jetson Thor computers aimed at mainstream robotics and edge AI, expanding its hardware platform beyond cloud and data center use cases.",
+          "topic": "NVIDIA Edge AI Hardware",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-07-15T23:00:54.000Z",
+          "addedOn": "2026-07-16"
+        },
+        {
+          "id": "6895063c5f",
+          "title": "Claude can now use your 1Password credentials for you",
+          "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+          "source": "The Verge",
+          "summary": "1Password launched a browser integration letting Claude autonomously access stored credentials, a concrete step toward agentic AI handling real user authentication.",
+          "topic": "Claude Agentic Credential Access",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "1Password"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-07-16T13:00:00.000Z",
+          "addedOn": "2026-07-16"
+        },
+        {
+          "id": "53ca432aa9",
+          "title": "Google ordered to open Android and Search to rivals in Europe",
+          "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+          "source": "The Verge",
+          "summary": "The EU ordered Google to give rival AI assistants and search engines greater access to Android and Google Search, a ruling with major implications for AI distribution on mobile.",
+          "topic": "EU Google Android Ruling",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-16T12:06:51.000Z",
+          "addedOn": "2026-07-16"
+        },
+        {
+          "id": "abe5db5218",
+          "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+          "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+          "source": "TechCrunch AI",
+          "summary": "Ode with Anthropic is a joint venture embedding engineers in enterprise firms to deploy AI, a model that could redefine how enterprises buy and implement AI services.",
+          "topic": "Anthropic Enterprise JV",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-15T15:00:00.000Z",
+          "addedOn": "2026-07-16"
+        },
+        {
+          "id": "bb03fb42eb",
+          "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+          "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+          "source": "TechCrunch AI",
+          "summary": "Moonshot's Kimi K3 is reportedly a 2-3 trillion parameter open model, which would make it the largest open-source AI model from China and a significant competitive signal for global model rankings.",
+          "topic": "Kimi K3 Open Model",
+          "company": "Moonshot",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "open-source",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-16T14:26:29.000Z",
+          "addedOn": "2026-07-16"
+        },
+        {
+          "id": "dc315898b2",
+          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+          "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+          "source": "VentureBeat AI",
+          "summary": "A survey of 101 enterprises found agent orchestration is consolidating on model-provider platforms with Claude leading, and that most companies are mislabeling chatbots as agents, a key insight for PM product strategy.",
+          "topic": "Enterprise AI Agent Deployment Trends",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-15T22:24:17.000Z",
+          "addedOn": "2026-07-16"
+        },
+        {
+          "id": "3442e88d01",
+          "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+          "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+          "source": "TechCrunch AI",
+          "summary": "Applied Computing raised a $20M Series A to build a foundation AI model specifically for oil, gas, and petrochemical operations, illustrating continued growth of vertical AI funding.",
+          "topic": "Industrial AI Funding",
+          "company": "Applied Computing",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-16T04:00:00.000Z",
+          "addedOn": "2026-07-16"
+        },
+        {
+          "id": "ec46a9e547",
+          "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+          "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft resolved a record 570 security vulnerabilities in a single Patch Tuesday by using AI-assisted discovery, demonstrating measurable security value from AI tooling at scale.",
+          "topic": "AI-Assisted Security Patching",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling",
+            "infra"
+          ],
+          "publishedAt": "2026-07-15T16:20:18.000Z",
+          "addedOn": "2026-07-16"
+        }
+      ]
+    },
     {
       "date": "2026-07-15",
       "summary": "OpenAI's GPT-5.6 Sol is deleting user files without warning, a known issue the company disclosed in June that is now drawing public backlash. OpenAI is also reportedly building its first hardware device, a screenless moving speaker designed as a companion, and a researcher is in talks to spin out a $2B AI drug discovery startup. New York became the first state to halt new data center construction, a significant regulatory signal for AI infrastructure buildout.",
