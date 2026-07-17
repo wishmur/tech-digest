@@ -1,6 +1,190 @@
 {
-  "lastUpdated": "2026-07-16T15:24:28.895Z",
+  "lastUpdated": "2026-07-17T15:04:22.851Z",
   "days": [
+    {
+      "date": "2026-07-17",
+      "summary": "AWS had a significant billing system incident today, sending users phantom bills in the billions of dollars, which is now confirmed as inaccurate estimated billing data. Google expanded its AI Mode to connect with third-party apps and added AI avatar capabilities to Google Vids, signaling a push toward AI as an action layer across its products. On the enterprise side, new survey data shows more than half of companies have already experienced an AI agent security incident, even as agent deployments accelerate.",
+      "items": [
+        {
+          "id": "86a0041dbb",
+          "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+          "link": "https://news.ycombinator.com/item?id=48945241",
+          "source": "Hacker News",
+          "summary": "AWS sent users wildly inaccurate billing estimates in the billions of dollars, a confirmed system error that will cause immediate concern for finance and engineering teams relying on AWS cost forecasting.",
+          "topic": "AWS Billing Incident",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-07-17T09:42:05.000Z",
+          "addedOn": "2026-07-17"
+        },
+        {
+          "id": "c3261b8580",
+          "title": "Google’s AI Mode now lets you link and interact with select apps",
+          "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+          "source": "TechCrunch AI",
+          "summary": "Google's AI Mode in Search can now connect to third-party apps to complete tasks, not just answer questions, moving Google closer to being an AI agent platform embedded in everyday workflows.",
+          "topic": "Google AI Mode App Integration",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-16T16:00:00.000Z",
+          "addedOn": "2026-07-17"
+        },
+        {
+          "id": "e1584d5980",
+          "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+          "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+          "source": "VentureBeat AI",
+          "summary": "A survey of 107 enterprises found 54% have already had a confirmed AI agent security incident, yet most organizations still allow agents to share credentials, representing a major product and risk gap for enterprise AI teams.",
+          "topic": "AI Agent Security Risk",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-07-16T19:02:38.000Z",
+          "addedOn": "2026-07-17"
+        },
+        {
+          "id": "aa833b0a6c",
+          "title": "Apple targets dozens of OpenAI employees with legal letters",
+          "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+          "source": "Hacker News",
+          "summary": "Apple has sent legal letters to dozens of OpenAI employees, likely related to non-solicitation or IP concerns, adding friction to OpenAI's hiring and its partnership dynamic with Apple.",
+          "topic": "Apple vs OpenAI Legal Action",
+          "company": "Apple",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "leadership"
+          ],
+          "publishedAt": "2026-07-17T12:02:39.000Z",
+          "addedOn": "2026-07-17"
+        },
+        {
+          "id": "c27a3acd5b",
+          "title": "Google Vids now lets you star in your own AI videos",
+          "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+          "source": "TechCrunch AI",
+          "summary": "Google Vids is adding personalized AI avatars powered by Gemini, letting users generate videos of themselves from prompts, a meaningful step toward AI-native video creation in Google Workspace.",
+          "topic": "Google Vids AI Avatars",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-16T18:32:54.000Z",
+          "addedOn": "2026-07-17"
+        },
+        {
+          "id": "a1467e2b53",
+          "title": "LM Studio Bionic: the AI agent for open models",
+          "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+          "source": "Hacker News",
+          "summary": "LM Studio launched Bionic, an AI agent layer for locally running open models, making agentic workflows accessible without cloud dependencies and directly competitive with cloud-based AI tooling.",
+          "topic": "LM Studio Bionic Launch",
+          "company": "LM Studio",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "tooling",
+            "open-source"
+          ],
+          "publishedAt": "2026-07-16T20:18:15.000Z",
+          "addedOn": "2026-07-17"
+        },
+        {
+          "id": "bf27aeddf3",
+          "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+          "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+          "source": "TechCrunch AI",
+          "summary": "A former DeepMind researcher raised at a $300 million pre-seed valuation before shipping any product, illustrating how credentialed AI talent is commanding extreme early-stage valuations.",
+          "topic": "AI Founder Pre-Seed Funding",
+          "company": "",
+          "secondaryCompanies": [
+            "Google DeepMind"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "research"
+          ],
+          "publishedAt": "2026-07-16T15:02:00.000Z",
+          "addedOn": "2026-07-17"
+        },
+        {
+          "id": "96ead98cb5",
+          "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+          "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+          "source": "TechCrunch AI",
+          "summary": "A $400 million chip-backed loan focused on inference chips signals that AI infrastructure financing is shifting from training GPU clusters toward inference workloads, which matters for how compute costs will be structured at scale.",
+          "topic": "Inference Chip Infrastructure Financing",
+          "company": "",
+          "secondaryCompanies": [
+            "NVIDIA"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "infra"
+          ],
+          "publishedAt": "2026-07-17T12:00:00.000Z",
+          "addedOn": "2026-07-17"
+        },
+        {
+          "id": "1a909f02ea",
+          "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+          "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "source": "VentureBeat AI",
+          "summary": "Across 157 enterprises, half have already shipped AI agents to production that later failed internal evaluations, pointing to a systemic gap between testing rigor and deployment speed that PMs building agent products need to address.",
+          "topic": "AI Agent Evaluation Gap",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-07-16T16:40:48.000Z",
+          "addedOn": "2026-07-17"
+        },
+        {
+          "id": "c42b35de70",
+          "title": "Netflix says around 300 titles used generative AI",
+          "link": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+          "source": "The Verge",
+          "summary": "Netflix disclosed that approximately 300 titles used generative AI, mostly in post-production, providing one of the clearest public data points yet on how major studios are integrating AI into content workflows.",
+          "topic": "Netflix Generative AI Usage",
+          "company": "Netflix",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-07-16T20:29:27.000Z",
+          "addedOn": "2026-07-17"
+        }
+      ]
+    },
     {
       "date": "2026-07-16",
       "summary": "Apple Intelligence has been approved for launch in China through partnerships with Alibaba and Baidu, marking a significant market access win for Apple. Microsoft is actively training its sales force to position its in-house AI models against OpenAI and Anthropic, signaling a direct competitive shift away from its own partners. NVIDIA launched new Jetson Thor computers targeting mainstream robotics and edge AI deployment, extending its hardware reach beyond data centers.",
