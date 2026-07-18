@@ -1,6 +1,196 @@
 {
-  "lastUpdated": "2026-07-17T15:04:22.851Z",
+  "lastUpdated": "2026-07-18T14:43:17.706Z",
   "days": [
+    {
+      "date": "2026-07-18",
+      "summary": "Apple's trade secrets lawsuit against OpenAI, filed last Friday and implicating the company's chief hardware officer, threatens to complicate OpenAI's IPO plans at a critical moment. Databricks reached a $188B valuation by repositioning as an AI company and publishing research on open-weight model cost savings. NVIDIA detailed how its Vera Rubin architecture optimizes cost per token for post-training and agentic workloads, and GPT-5.6 reportedly closed a 30-year gap in convex optimization, signaling continued frontier model capability advances.",
+      "items": [
+        {
+          "id": "1543d4a481",
+          "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+          "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+          "source": "TechCrunch AI",
+          "summary": "Apple's trade secrets lawsuit against OpenAI alleges misconduct reaching OpenAI's chief hardware officer, which could materially disrupt OpenAI's IPO timeline and partnership ecosystem.",
+          "topic": "OpenAI Legal Risk",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Apple"
+          ],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-07-17T14:00:00.000Z",
+          "addedOn": "2026-07-18"
+        },
+        {
+          "id": "0a1bc8bb93",
+          "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+          "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+          "source": "TechCrunch AI",
+          "summary": "The same Apple lawsuit carries direct implications for OpenAI's IPO plans, making this one of the most consequential near-term risks for OpenAI's business trajectory.",
+          "topic": "OpenAI IPO Threat",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Apple"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "competitive",
+            "leadership"
+          ],
+          "publishedAt": "2026-07-17T17:45:46.000Z",
+          "addedOn": "2026-07-18"
+        },
+        {
+          "id": "2a6c589fb1",
+          "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+          "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "source": "TechCrunch AI",
+          "summary": "Databricks reached a $188B valuation and published research showing open-weight AI models deliver significant cost savings for coding, reinforcing its position as a leading enterprise AI data platform.",
+          "topic": "AI Platform Valuation",
+          "company": "Databricks",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "research",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-17T22:12:56.000Z",
+          "addedOn": "2026-07-18"
+        },
+        {
+          "id": "9756827d92",
+          "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+          "link": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA published details on how Vera Rubin architecture minimizes cost per token for post-training and agentic AI workloads, a key metric PMs should track when evaluating inference infrastructure costs.",
+          "topic": "AI Inference Infrastructure",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-07-17T15:00:14.000Z",
+          "addedOn": "2026-07-18"
+        },
+        {
+          "id": "da56b4ec12",
+          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+          "source": "Hacker News",
+          "summary": "GPT-5.6 reportedly closed a 30-year open problem in convex optimization, suggesting frontier models are reaching a level of mathematical reasoning with practical implications for optimization-heavy product domains.",
+          "topic": "Frontier Model Capability",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-07-18T13:00:52.000Z",
+          "addedOn": "2026-07-18"
+        },
+        {
+          "id": "4121744c0c",
+          "title": "What AI did to stackoverflow in a graph",
+          "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+          "source": "Hacker News",
+          "summary": "Data visualization shows Stack Overflow's dramatic traffic decline since AI coding tools emerged, a concrete signal for PMs about how developer behavior and tooling preferences are shifting.",
+          "topic": "AI Impact on Developer Tools",
+          "company": "Stack Overflow",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "competitive",
+            "tooling"
+          ],
+          "publishedAt": "2026-07-18T11:12:46.000Z",
+          "addedOn": "2026-07-18"
+        },
+        {
+          "id": "3ca766d4c6",
+          "title": "TikTok is testing an AI likeness detection tool",
+          "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+          "source": "The Verge",
+          "summary": "TikTok is testing an opt-in AI likeness detection tool that lets creators flag unauthorized AI-generated versions of themselves, an early product response to a growing regulatory and creator trust issue.",
+          "topic": "AI Content Moderation",
+          "company": "TikTok",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "regulation",
+            "launch"
+          ],
+          "publishedAt": "2026-07-17T19:34:30.000Z",
+          "addedOn": "2026-07-18"
+        },
+        {
+          "id": "a90acdd50b",
+          "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+          "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+          "source": "TechCrunch AI",
+          "summary": "Patreon is moving from robots.txt reliance to active bot blocking via Cloudflare, signaling a broader platform shift toward enforcement-level AI scraping defenses that PMs on content platforms should watch.",
+          "topic": "AI Scraping Defense",
+          "company": "Patreon",
+          "secondaryCompanies": [
+            "Cloudflare"
+          ],
+          "importance": 3,
+          "tags": [
+            "product",
+            "regulation",
+            "tooling"
+          ],
+          "publishedAt": "2026-07-17T15:21:17.000Z",
+          "addedOn": "2026-07-18"
+        },
+        {
+          "id": "5d2b0c79af",
+          "title": "Neil Rimer thinks the AI money is coming back out",
+          "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+          "source": "TechCrunch AI",
+          "summary": "Index Ventures co-founder Neil Rimer predicts AI-generated wealth will need to be redistributed, framing a macro risk landscape that could shape regulation and capital allocation for AI companies.",
+          "topic": "AI Wealth & Policy",
+          "company": "Index Ventures",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "funding",
+            "regulation"
+          ],
+          "publishedAt": "2026-07-18T04:47:25.000Z",
+          "addedOn": "2026-07-18"
+        },
+        {
+          "id": "5814ee1085",
+          "title": "Agility Robotics plants its flag in Tesla’s backyard",
+          "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+          "source": "TechCrunch AI",
+          "summary": "Agility Robotics is opening a robot training center in Fremont, California, directly in Tesla's backyard, intensifying competition in the humanoid robotics market.",
+          "topic": "Humanoid Robotics Competition",
+          "company": "Agility Robotics",
+          "secondaryCompanies": [
+            "Tesla"
+          ],
+          "importance": 2,
+          "tags": [
+            "competitive",
+            "launch"
+          ],
+          "publishedAt": "2026-07-17T20:19:49.000Z",
+          "addedOn": "2026-07-18"
+        }
+      ]
+    },
     {
       "date": "2026-07-17",
       "summary": "AWS had a significant billing system incident today, sending users phantom bills in the billions of dollars, which is now confirmed as inaccurate estimated billing data. Google expanded its AI Mode to connect with third-party apps and added AI avatar capabilities to Google Vids, signaling a push toward AI as an action layer across its products. On the enterprise side, new survey data shows more than half of companies have already experienced an AI agent security incident, even as agent deployments accelerate.",
