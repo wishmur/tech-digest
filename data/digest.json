@@ -1,6 +1,185 @@
 {
-  "lastUpdated": "2026-07-18T14:43:17.706Z",
+  "lastUpdated": "2026-07-19T14:45:36.821Z",
   "days": [
+    {
+      "date": "2026-07-19",
+      "summary": "Alibaba's Qwen3.8 is launching as an open-weight model, continuing the wave of competitive open-source AI releases that pressure closed model providers. OpenAI quietly reduced Codex's context window from 372k to 272k tokens, a meaningful capability regression for developers relying on it for large codebases. Netflix's CPTO Elizabeth Stone outlines how AI is reshaping product and tech roles, offering direct signal for PMs navigating organizational change.",
+      "items": [
+        {
+          "id": "c8b4b3d83f",
+          "title": "Qwen3.8 is launching and going open-weight soon",
+          "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+          "source": "Hacker News",
+          "summary": "Alibaba is releasing Qwen3.8 as an open-weight model, adding another capable open-source competitor that PMs evaluating model strategy need to account for.",
+          "topic": "Open-Source AI Model Launch",
+          "company": "Alibaba",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "open-source",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-19T08:44:57.000Z",
+          "addedOn": "2026-07-19"
+        },
+        {
+          "id": "451e0a3051",
+          "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+          "link": "https://github.com/openai/codex/pull/33972/files",
+          "source": "Hacker News",
+          "summary": "OpenAI cut Codex's context window by 100k tokens without fanfare, which directly limits the model's usefulness for large codebase tasks and signals potential infrastructure constraints.",
+          "topic": "OpenAI Codex Context Window Reduction",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "tooling",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-19T07:54:39.000Z",
+          "addedOn": "2026-07-19"
+        },
+        {
+          "id": "a79e7c4725",
+          "title": "Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone",
+          "link": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
+          "source": "Lenny's Newsletter",
+          "summary": "Netflix CPTO Elizabeth Stone shares how AI is changing the structure of product and tech teams, with practical insight on systems thinking and building operational excellence that is directly relevant to PMs.",
+          "topic": "AI and Product Team Strategy",
+          "company": "Netflix",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "leadership"
+          ],
+          "publishedAt": "2026-07-19T12:31:21.000Z",
+          "addedOn": "2026-07-19"
+        },
+        {
+          "id": "ee7e2eccd7",
+          "title": "Kimi: Threat or menace?",
+          "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+          "source": "TechCrunch AI",
+          "summary": "Moonshot AI released a new Kimi model version, intensifying competition from Chinese AI labs and raising questions about the geopolitical dynamics of the AI model market.",
+          "topic": "Chinese AI Model Competition",
+          "company": "Moonshot AI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-18T18:51:07.000Z",
+          "addedOn": "2026-07-19"
+        },
+        {
+          "id": "644dffd43b",
+          "title": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny's community surfaces practical workflows for syncing Claude Code and Claude Design, directly useful for PMs and engineers integrating Anthropic tools into their development process.",
+          "topic": "AI Tooling Workflows",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-07-18T17:04:04.000Z",
+          "addedOn": "2026-07-19"
+        },
+        {
+          "id": "4276818fd4",
+          "title": "Transcribe.cpp",
+          "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News",
+          "summary": "Transcribe.cpp is a high-signal open-source local transcription tool gaining traction on Hacker News, relevant for PMs evaluating lightweight on-device audio AI alternatives.",
+          "topic": "Open-Source Audio AI Tooling",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "open-source",
+            "tooling",
+            "launch"
+          ],
+          "publishedAt": "2026-07-19T00:38:26.000Z",
+          "addedOn": "2026-07-19"
+        },
+        {
+          "id": "85b10e17a3",
+          "title": "AI Mania Is Eviscerating Global Decision-Making",
+          "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+          "source": "Hacker News",
+          "summary": "A widely-read essay argues that AI hype is degrading institutional decision-making quality, a counterpoint PMs should understand as they navigate AI adoption pressures from leadership.",
+          "topic": "AI Adoption and Decision-Making Risk",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-07-19T01:29:19.000Z",
+          "addedOn": "2026-07-19"
+        },
+        {
+          "id": "94b209d96e",
+          "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+          "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+          "source": "Hacker News",
+          "summary": "New York City may require disclosure when AI-generated images are used in real estate listings, a leading indicator of AI transparency regulation expanding into consumer-facing product contexts.",
+          "topic": "AI Regulation and Disclosure",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-07-18T22:13:39.000Z",
+          "addedOn": "2026-07-19"
+        },
+        {
+          "id": "5476eaca52",
+          "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+          "source": "The Verge",
+          "summary": "Author Dave Eggers told OpenAI staff that ChatGPT is suppressing a generation of writers, illustrating growing creator and public trust concerns that PMs building AI writing products must factor in.",
+          "topic": "AI and Creative Industry Backlash",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-18T20:54:42.000Z",
+          "addedOn": "2026-07-19"
+        },
+        {
+          "id": "18d828c057",
+          "title": "Google might not kneecap the Pixel 11a with an old processor",
+          "link": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+          "source": "The Verge",
+          "summary": "Google is reportedly equipping the Pixel 11a with its flagship Tensor G6 chip, reversing the spec-downgrade strategy used on the Pixel 10a and signaling a more competitive mid-range hardware approach.",
+          "topic": "Google Pixel Hardware Strategy",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-07-18T18:25:08.000Z",
+          "addedOn": "2026-07-19"
+        }
+      ]
+    },
     {
       "date": "2026-07-18",
       "summary": "Apple's trade secrets lawsuit against OpenAI, filed last Friday and implicating the company's chief hardware officer, threatens to complicate OpenAI's IPO plans at a critical moment. Databricks reached a $188B valuation by repositioning as an AI company and publishing research on open-weight model cost savings. NVIDIA detailed how its Vera Rubin architecture optimizes cost per token for post-training and agentic workloads, and GPT-5.6 reportedly closed a 30-year gap in convex optimization, signaling continued frontier model capability advances.",
