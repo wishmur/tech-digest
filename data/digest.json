@@ -1,6 +1,202 @@
 {
-  "lastUpdated": "2026-07-19T14:45:36.821Z",
+  "lastUpdated": "2026-07-20T15:43:34.211Z",
   "days": [
+    {
+      "date": "2026-07-20",
+      "summary": "Chinese AI labs Moonshot and Alibaba unveiled models claiming to match OpenAI and Anthropic quality at significantly lower cost, intensifying the competitive pressure on U.S. frontier labs and reigniting the open vs. proprietary AI debate. NVIDIA used SIGGRAPH to advance agentic and physical AI for graphics and simulation, while Bristol Myers Squibb announced a major NVIDIA Vera Rubin-based AI factory build-out in life sciences. YouTube updated monetization policies to formally exclude AI-generated low-quality content, signaling platforms are starting to codify rules around AI slop.",
+      "items": [
+        {
+          "id": "c76b3f4317",
+          "title": "China delivers a one-two punch to America’s AI dominance",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+          "source": "The Verge",
+          "summary": "Moonshot and Alibaba released models claiming frontier-level performance at a fraction of U.S. lab costs, directly threatening the competitive position of OpenAI and Anthropic in global markets.",
+          "topic": "Chinese AI Model Competition",
+          "company": "Alibaba",
+          "secondaryCompanies": [
+            "Moonshot",
+            "OpenAI",
+            "Anthropic"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "competitive",
+            "research"
+          ],
+          "publishedAt": "2026-07-20T10:16:33.000Z",
+          "addedOn": "2026-07-20"
+        },
+        {
+          "id": "7c6df43a57",
+          "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+          "link": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA announced agentic and physical AI advances at SIGGRAPH including open models and real-time simulation tools, extending its platform reach into media, content creation, and robotics.",
+          "topic": "NVIDIA AI and Graphics Platform",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-07-20T15:00:53.000Z",
+          "addedOn": "2026-07-20"
+        },
+        {
+          "id": "5c1baf55ec",
+          "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+          "link": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+          "source": "NVIDIA Blog",
+          "summary": "Bristol Myers Squibb is building what it calls the life science industry's most advanced AI factory on NVIDIA Vera Rubin hardware, signaling enterprise adoption of next-gen NVIDIA infrastructure in regulated industries.",
+          "topic": "Enterprise AI Infrastructure",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Bristol Myers Squibb"
+          ],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-20T10:59:23.000Z",
+          "addedOn": "2026-07-20"
+        },
+        {
+          "id": "48ec45dfbb",
+          "title": "YouTube clarifies policies around AI slop and upsetting videos",
+          "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+          "source": "TechCrunch AI",
+          "summary": "YouTube updated monetization policies to explicitly exclude AI-generated slop and low-quality videos from ad revenue, which will affect creators and AI content tools built around YouTube monetization.",
+          "topic": "AI Content Monetization Policy",
+          "company": "YouTube",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-20T15:23:06.000Z",
+          "addedOn": "2026-07-20"
+        },
+        {
+          "id": "b91616d24a",
+          "title": "Who’s Afraid of Chinese Models?",
+          "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+          "source": "Stratechery",
+          "summary": "Stratechery argues that while Chinese models are a real threat, the more urgent need is enabling open-source U.S. AI alternatives rather than relying solely on locked-down proprietary labs.",
+          "topic": "Open Source vs Proprietary AI Strategy",
+          "company": "Stratechery",
+          "secondaryCompanies": [
+            "OpenAI",
+            "Anthropic"
+          ],
+          "importance": 4,
+          "tags": [
+            "open-source",
+            "competitive",
+            "research"
+          ],
+          "publishedAt": "2026-07-20T11:00:08.000Z",
+          "addedOn": "2026-07-20"
+        },
+        {
+          "id": "bea949a4a2",
+          "title": "American AI is locked down and proprietary. It's losing",
+          "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+          "source": "Hacker News",
+          "summary": "A widely discussed piece argues that proprietary, locked-down American AI is losing ground globally because it cannot be adopted or adapted as freely as Chinese or open-source alternatives.",
+          "topic": "Open Source AI Competitiveness",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "open-source",
+            "competitive",
+            "research"
+          ],
+          "publishedAt": "2026-07-20T14:21:47.000Z",
+          "addedOn": "2026-07-20"
+        },
+        {
+          "id": "618443aef1",
+          "title": "🎙️ How I AI: How the founder of Morning Brew built a Claude content machine that never runs out of ideas",
+          "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-founder-of-morning",
+          "source": "Lenny's Newsletter",
+          "summary": "Morning Brew founder Alex Lieberman detailed a practical Claude-based content workflow using voice coding, persona loops, and structured prompting, offering a concrete AI tooling example for PMs building content products.",
+          "topic": "AI Content Tooling Workflow",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-07-20T15:01:56.000Z",
+          "addedOn": "2026-07-20"
+        },
+        {
+          "id": "58bfd998af",
+          "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+          "source": "Hacker News",
+          "summary": "A researcher used GPT to find a WordPress RCE vulnerability worth $500k to exploit brokers for just $25 in API costs, illustrating AI's rapidly lowering barrier for security research and attack surface discovery.",
+          "topic": "AI-Assisted Security Research",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-07-20T08:13:36.000Z",
+          "addedOn": "2026-07-20"
+        },
+        {
+          "id": "87a2e11003",
+          "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+          "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+          "source": "TechCrunch AI",
+          "summary": "Apple's lawsuit against OpenAI introduces legal uncertainty around OpenAI's hardware ambitions and IPO timeline, which PMs at adjacent companies should track for market positioning signals.",
+          "topic": "OpenAI Hardware and Legal Risk",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Apple"
+          ],
+          "importance": 3,
+          "tags": [
+            "competitive",
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-07-19T19:24:45.000Z",
+          "addedOn": "2026-07-20"
+        },
+        {
+          "id": "2d603aee23",
+          "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+          "link": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News",
+          "summary": "A public leaderboard for LoRA fine-tuning speed benchmarks gives ML teams a standardized way to compare fine-tuning efficiency, useful for teams evaluating AI tooling and training infrastructure choices.",
+          "topic": "AI Fine-Tuning Tooling",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "tooling",
+            "open-source",
+            "research"
+          ],
+          "publishedAt": "2026-07-20T04:24:48.000Z",
+          "addedOn": "2026-07-20"
+        }
+      ]
+    },
     {
       "date": "2026-07-19",
       "summary": "Alibaba's Qwen3.8 is launching as an open-weight model, continuing the wave of competitive open-source AI releases that pressure closed model providers. OpenAI quietly reduced Codex's context window from 372k to 272k tokens, a meaningful capability regression for developers relying on it for large codebases. Netflix's CPTO Elizabeth Stone outlines how AI is reshaping product and tech roles, offering direct signal for PMs navigating organizational change.",
