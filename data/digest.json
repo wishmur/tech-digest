@@ -1,6 +1,192 @@
 {
-  "lastUpdated": "2026-07-20T15:43:34.211Z",
+  "lastUpdated": "2026-07-21T15:27:51.475Z",
   "days": [
+    {
+      "date": "2026-07-21",
+      "summary": "Google launched three new Gemini models today including Gemini 3.6 Flash and a dedicated cybersecurity model, while also reportedly developing a custom AI inference chip to reduce costs for running Gemini. Anthropic's $1.5B copyright settlement received final approval, setting a precedent for AI training data disputes though the broader legal landscape remains unresolved. AWS confirmed OpenAI GPT-5.6 models are now available on Bedrock, and NVIDIA detailed its Spectrum-6 networking fabric built for gigascale AI factories.",
+      "items": [
+        {
+          "id": "2967707ce8",
+          "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+          "source": "Hacker News",
+          "summary": "Google launched Gemini 3.6 Flash, 3.5 Flash-Lite, and a security-focused 3.5 Flash Cyber model, expanding its model lineup with cheaper and specialized options that directly compete with OpenAI and Anthropic offerings.",
+          "topic": "Google Gemini Model Launches",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-07-21T15:17:16.000Z",
+          "addedOn": "2026-07-21"
+        },
+        {
+          "id": "683e474adc",
+          "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+          "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's $1.5B copyright settlement received final court approval, marking the largest known AI training data settlement to date, though it does not resolve the industry-wide question of whether using copyrighted works to train AI is permissible.",
+          "topic": "AI Copyright Settlement",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-21T00:12:24.000Z",
+          "addedOn": "2026-07-21"
+        },
+        {
+          "id": "e80582955a",
+          "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
+          "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
+          "source": "AWS News",
+          "summary": "AWS's weekly roundup confirms OpenAI GPT-5.6 models are now available on Amazon Bedrock, expanding enterprise access to OpenAI's latest models through AWS infrastructure.",
+          "topic": "OpenAI Models on AWS Bedrock",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-07-20T16:37:34.000Z",
+          "addedOn": "2026-07-21"
+        },
+        {
+          "id": "20d9bcdf56",
+          "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+          "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+          "source": "TechCrunch AI",
+          "summary": "Google is developing a custom inference chip specifically to reduce the cost and improve efficiency of running Gemini models, signaling a strategic push to control its AI compute stack similar to Google's TPU history.",
+          "topic": "Google Custom AI Inference Chip",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "competitive",
+            "research"
+          ],
+          "publishedAt": "2026-07-20T21:21:15.000Z",
+          "addedOn": "2026-07-21"
+        },
+        {
+          "id": "0de9de0112",
+          "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+          "link": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA launched Spectrum-6, a networking fabric built for gigascale AI factories running hundreds of thousands of GPUs, reinforcing NVIDIA's dominance in the infrastructure layer of frontier model training.",
+          "topic": "NVIDIA Spectrum-6 Networking",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra"
+          ],
+          "publishedAt": "2026-07-21T15:00:20.000Z",
+          "addedOn": "2026-07-21"
+        },
+        {
+          "id": "0c340e3192",
+          "title": "Agent swarms and the new model economics",
+          "link": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Hacker News",
+          "summary": "Cursor published an analysis of agent swarm economics showing how multi-agent coding workflows change the cost structure of AI model usage, a practical read for PMs evaluating AI tooling spend and architecture.",
+          "topic": "Agent Swarm Model Economics",
+          "company": "Cursor",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "tooling",
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-07-20T18:06:13.000Z",
+          "addedOn": "2026-07-21"
+        },
+        {
+          "id": "c279174d0e",
+          "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+          "link": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "Hacker News",
+          "summary": "Alibaba's Qwen team released Qwen-Image-3.0, a new multimodal image model with strong HN traction, representing continued progress from Chinese open-weight labs that compete directly with Western frontier models.",
+          "topic": "Qwen Image Model Launch",
+          "company": "Alibaba",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "open-source",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-21T08:44:23.000Z",
+          "addedOn": "2026-07-21"
+        },
+        {
+          "id": "9afbcd831b",
+          "title": "AI’s most important protocol is getting a little bit easier to use",
+          "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+          "source": "TechCrunch AI",
+          "summary": "The Model Context Protocol (MCP) is adopting a stateless session approach that lowers implementation friction for developers, which should accelerate adoption of the standard that underpins most agentic AI integrations.",
+          "topic": "MCP Protocol Update",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "tooling",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-07-20T20:50:40.000Z",
+          "addedOn": "2026-07-21"
+        },
+        {
+          "id": "b7ff16003f",
+          "title": "Kimi Work",
+          "link": "https://www.kimi.com/products/kimi-work",
+          "source": "Hacker News",
+          "summary": "Kimi Work, a workplace productivity AI product from Chinese lab Moonshot AI, launched and generated significant community interest with 628 HN points, signaling growing competition in the AI productivity space.",
+          "topic": "Kimi Work Launch",
+          "company": "Moonshot AI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-07-20T17:13:23.000Z",
+          "addedOn": "2026-07-21"
+        },
+        {
+          "id": "7eab661b9a",
+          "title": "OpenAI is scared of open-weight models. Should the US be?",
+          "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+          "source": "TechCrunch AI",
+          "summary": "Analysis of OpenAI's opposition to open-weight Chinese LLMs reveals tension between US AI policy goals and the commercial reality that open models undercut the pricing power of closed model providers.",
+          "topic": "Open-Weight AI Models and US Policy",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "competitive",
+            "open-source"
+          ],
+          "publishedAt": "2026-07-20T19:33:25.000Z",
+          "addedOn": "2026-07-21"
+        }
+      ]
+    },
     {
       "date": "2026-07-20",
       "summary": "Chinese AI labs Moonshot and Alibaba unveiled models claiming to match OpenAI and Anthropic quality at significantly lower cost, intensifying the competitive pressure on U.S. frontier labs and reigniting the open vs. proprietary AI debate. NVIDIA used SIGGRAPH to advance agentic and physical AI for graphics and simulation, while Bristol Myers Squibb announced a major NVIDIA Vera Rubin-based AI factory build-out in life sciences. YouTube updated monetization policies to formally exclude AI-generated low-quality content, signaling platforms are starting to codify rules around AI slop.",
