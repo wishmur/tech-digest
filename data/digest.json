@@ -1,6 +1,194 @@
 {
-  "lastUpdated": "2026-07-23T15:46:44.394Z",
+  "lastUpdated": "2026-07-24T15:19:45.346Z",
   "days": [
+    {
+      "date": "2026-07-24",
+      "summary": "OpenAI expanded ChatGPT's reach with voice mode on desktop and a health product now open to all US users, signaling continued platform broadening. Anthropic updated Claude's voice capabilities, and Runway launched a model router to help developers navigate the crowded generative media space. AMD announced a rack-scale AI system to challenge NVIDIA, while a claim that Iran's IRGC destroyed Amazon's Bahrain data center is circulating and warrants monitoring for AWS infrastructure implications.",
+      "items": [
+        {
+          "id": "28465398b0",
+          "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+          "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's ChatGPT voice mode now works on desktop and integrates with Codex and Work agents, extending multimodal and agentic capabilities to a broader user base.",
+          "topic": "AI Product Expansion",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-24T13:36:42.000Z",
+          "addedOn": "2026-07-24"
+        },
+        {
+          "id": "a9cb3adc84",
+          "title": "OpenAI makes ChatGPT Health available to all US users",
+          "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+          "source": "TechCrunch AI",
+          "summary": "ChatGPT Health is now available to all US users with integration from Apple Health and other fitness platforms, making OpenAI a direct player in consumer health AI.",
+          "topic": "AI Health Product",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Apple",
+            "MyFitnessPal"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-23T17:00:00.000Z",
+          "addedOn": "2026-07-24"
+        },
+        {
+          "id": "0a457876b0",
+          "title": "Anthropic updates Claude voice mode with more capable models",
+          "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic upgraded Claude's voice mode with more capable models that can take actions like scheduling meetings and drafting emails, narrowing the gap with OpenAI's voice offerings.",
+          "topic": "AI Voice Assistant",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-23T19:00:00.000Z",
+          "addedOn": "2026-07-24"
+        },
+        {
+          "id": "2a9598e40e",
+          "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+          "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+          "source": "TechCrunch AI",
+          "summary": "AMD's new rack-scale Helios system targets NVIDIA's dominance in AI infrastructure, with shipments starting later this year and representing a credible hardware alternative for buyers.",
+          "topic": "AI Hardware Competition",
+          "company": "AMD",
+          "secondaryCompanies": [
+            "NVIDIA"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-23T20:33:02.000Z",
+          "addedOn": "2026-07-24"
+        },
+        {
+          "id": "7280fe4d8d",
+          "title": "Runway launches AI model router as generative media gets crowded",
+          "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+          "source": "TechCrunch AI",
+          "summary": "Runway's Media Router automatically selects the best generative model for a request based on quality, speed, or cost, acting as an abstraction layer for developers in a fragmented model market.",
+          "topic": "AI Tooling",
+          "company": "Runway",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-07-23T17:07:35.000Z",
+          "addedOn": "2026-07-24"
+        },
+        {
+          "id": "43845dad43",
+          "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
+          "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+          "source": "Hacker News",
+          "summary": "Iran's IRGC claims it destroyed Amazon's Bahrain data center, a geopolitical threat to AWS infrastructure that PMs relying on cloud services in the region should track for reliability and continuity risk.",
+          "topic": "Cloud Infrastructure Security",
+          "company": "Amazon",
+          "secondaryCompanies": [
+            "AWS"
+          ],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "regulation"
+          ],
+          "publishedAt": "2026-07-24T09:52:58.000Z",
+          "addedOn": "2026-07-24"
+        },
+        {
+          "id": "50134b1cfa",
+          "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "link": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News",
+          "summary": "Black Forest Labs launched Flux 3 Mimic, a next-generation video-action model that generates video conditioned on reference subjects, advancing the state of controllable video generation.",
+          "topic": "Generative Video Model",
+          "company": "Black Forest Labs",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "research"
+          ],
+          "publishedAt": "2026-07-24T09:31:48.000Z",
+          "addedOn": "2026-07-24"
+        },
+        {
+          "id": "8746e4e02a",
+          "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+          "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+          "source": "NVIDIA Blog",
+          "summary": "South Korea's president met with NVIDIA at the AI Summit to outline a national AI strategy built around NVIDIA infrastructure, signaling a major geopolitical and commercial partnership.",
+          "topic": "AI Geopolitics and Infrastructure",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-24T04:34:27.000Z",
+          "addedOn": "2026-07-24"
+        },
+        {
+          "id": "27b0ad2998",
+          "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+          "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+          "source": "The Verge",
+          "summary": "Amazon is updating Alexa Plus to handle more complex multi-step smart home instructions, moving the assistant closer to true agentic behavior in consumer settings.",
+          "topic": "AI Voice and Smart Home",
+          "company": "Amazon",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-07-23T21:15:06.000Z",
+          "addedOn": "2026-07-24"
+        },
+        {
+          "id": "83feacd899",
+          "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+          "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+          "source": "TechCrunch AI",
+          "summary": "AegisAI, founded by former Google security executives, raised $36M to deploy AI agents that detect AI-driven spear phishing, addressing an emerging threat category with enterprise security implications.",
+          "topic": "AI Security Funding",
+          "company": "AegisAI",
+          "secondaryCompanies": [
+            "Google"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "launch"
+          ],
+          "publishedAt": "2026-07-23T18:38:34.000Z",
+          "addedOn": "2026-07-24"
+        }
+      ]
+    },
     {
       "date": "2026-07-23",
       "summary": "OpenAI's accidental misconfiguration enabled an AI-powered hack on Hugging Face, raising serious questions about AI lab security practices. Google's Gemini is closing in on 1 billion users while its cloud business posted record profits, and the Kimi K3 model controversy intensifies as Treasury threatens sanctions against Moonshot AI over alleged distillation of Anthropic's Fable model. Monday.com cut 20% of its workforce to redirect resources toward its AI platform, reflecting a broader enterprise trend of trading headcount for AI capability.",
