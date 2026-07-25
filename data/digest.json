@@ -1,6 +1,200 @@
 {
-  "lastUpdated": "2026-07-24T15:19:45.346Z",
+  "lastUpdated": "2026-07-25T14:54:27.610Z",
   "days": [
+    {
+      "date": "2026-07-25",
+      "summary": "Anthropic launched Claude Opus 5, which has taken the top spot on the Artificial Analysis Intelligence Leaderboard while being cheaper and less restrictive than its predecessor, making it the most significant model release of the day. Reid Hoffman and Mark Pincus are in talks to raise $100M for Prentis, a new AI lab focused on automating routine computer tasks rather than coding. Chinese AI lab Moonshot's Kimi K3 model continued to generate industry anxiety, with UK and US safety institutes publishing a preliminary assessment of its cyber capabilities.",
+      "items": [
+        {
+          "id": "1445d8a42c",
+          "title": "Claude Opus 5",
+          "link": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News",
+          "summary": "Anthropic's Claude Opus 5 launch is the biggest model release today, sitting atop the Artificial Analysis leaderboard with 1,680 points and over 1,000 HN comments signaling strong developer interest.",
+          "topic": "AI Model Launch",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-07-24T16:57:41.000Z",
+          "addedOn": "2026-07-25"
+        },
+        {
+          "id": "352b1db259",
+          "title": "Anthropic launches Opus 5",
+          "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's Opus 5 is confirmed cheaper and less restrictive than its predecessor Fable, which lowers the barrier for commercial adoption and could shift enterprise and developer workflows toward Anthropic.",
+          "topic": "AI Model Pricing & Access",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-24T17:00:00.000Z",
+          "addedOn": "2026-07-25"
+        },
+        {
+          "id": "78261b4c4c",
+          "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+          "link": "https://artificialanalysis.ai/models",
+          "source": "Hacker News",
+          "summary": "Opus 5 reaching number one on the Artificial Analysis leaderboard gives Anthropic a concrete benchmark claim to use in sales and positioning conversations with enterprise buyers.",
+          "topic": "AI Model Benchmarks",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-07-24T19:45:10.000Z",
+          "addedOn": "2026-07-25"
+        },
+        {
+          "id": "07eccc4e8b",
+          "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+          "source": "TechCrunch AI",
+          "summary": "A new AI lab co-founded by Reid Hoffman and Mark Pincus is seeking $100M to automate routine computer tasks, signaling that agentic automation is attracting top-tier founders and capital away from pure coding tools.",
+          "topic": "AI Lab Funding",
+          "company": "Prentis",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-24T22:25:58.000Z",
+          "addedOn": "2026-07-25"
+        },
+        {
+          "id": "436be49a96",
+          "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+          "link": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+          "source": "TechCrunch AI",
+          "summary": "Moonshot's open Kimi K3 model spooked U.S. markets and prompted safety assessments, reflecting how Chinese open-weight models are now a strategic concern for both regulators and product teams evaluating AI supply chains.",
+          "topic": "Chinese AI Competition",
+          "company": "Moonshot",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "regulation",
+            "open-source"
+          ],
+          "publishedAt": "2026-07-24T14:00:00.000Z",
+          "addedOn": "2026-07-25"
+        },
+        {
+          "id": "040184a965",
+          "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+          "link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+          "source": "Hacker News",
+          "summary": "UK and US AI safety institutes published a preliminary assessment of Kimi K3's cyber capabilities, which is an early signal that governments are building formal evaluation infrastructure for foreign open-weight models.",
+          "topic": "AI Safety & Regulation",
+          "company": "UK AISI",
+          "secondaryCompanies": [
+            "Moonshot"
+          ],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "research",
+            "open-source"
+          ],
+          "publishedAt": "2026-07-25T04:20:21.000Z",
+          "addedOn": "2026-07-25"
+        },
+        {
+          "id": "3e70bd1d4d",
+          "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+          "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+          "source": "TechCrunch AI",
+          "summary": "NVIDIA, Mistral, and other AI companies are lobbying against broad open-weight restrictions, a policy fight that could directly affect developer tooling options and international model sourcing for product teams.",
+          "topic": "AI Policy & Open-Weight Models",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Mistral"
+          ],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "open-source",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-24T15:51:49.000Z",
+          "addedOn": "2026-07-25"
+        },
+        {
+          "id": "fc836a71f9",
+          "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+          "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+          "source": "TechCrunch AI",
+          "summary": "Cognition's acquisition of Poke to improve Devin's conversational personality signals that AI product teams are now treating interaction style as a core product differentiator, not just a UX layer.",
+          "topic": "AI Product Strategy",
+          "company": "Cognition",
+          "secondaryCompanies": [
+            "Poke"
+          ],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive",
+            "launch"
+          ],
+          "publishedAt": "2026-07-24T18:07:32.000Z",
+          "addedOn": "2026-07-25"
+        },
+        {
+          "id": "9deb9e5979",
+          "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
+          "link": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny Rachitsky's hands-on Opus 5 benchmark review across seven models provides practical signal for PMs choosing which model to build on or recommend internally.",
+          "topic": "AI Model Evaluation",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "research",
+            "tooling"
+          ],
+          "publishedAt": "2026-07-24T17:15:25.000Z",
+          "addedOn": "2026-07-25"
+        },
+        {
+          "id": "7cdbc2560f",
+          "title": "Midjourney acquired the astrology app Co-Star",
+          "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+          "source": "TechCrunch AI",
+          "summary": "Midjourney acquiring astrology app Co-Star shows the company is expanding into consumer personality and social data, which could foreshadow a broader consumer AI platform play beyond media generation.",
+          "topic": "AI Company Expansion",
+          "company": "Midjourney",
+          "secondaryCompanies": [
+            "Co-Star"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-24T15:09:55.000Z",
+          "addedOn": "2026-07-25"
+        }
+      ]
+    },
     {
       "date": "2026-07-24",
       "summary": "OpenAI expanded ChatGPT's reach with voice mode on desktop and a health product now open to all US users, signaling continued platform broadening. Anthropic updated Claude's voice capabilities, and Runway launched a model router to help developers navigate the crowded generative media space. AMD announced a rack-scale AI system to challenge NVIDIA, while a claim that Iran's IRGC destroyed Amazon's Bahrain data center is circulating and warrants monitoring for AWS infrastructure implications.",
