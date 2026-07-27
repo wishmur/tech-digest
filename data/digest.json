@@ -1,6 +1,211 @@
 {
-  "lastUpdated": "2026-07-26T14:55:25.897Z",
+  "lastUpdated": "2026-07-27T16:06:14.144Z",
   "days": [
+    {
+      "date": "2026-07-27",
+      "summary": "Kimi-K3, Moonshot AI's new open-source model, released on Hugging Face and is generating significant attention as a competitive Chinese frontier model. NVIDIA partnered with Safe Superintelligence for compute scale, and separately co-launched an open AI security alliance with Microsoft, IBM, and SpaceX, notably excluding OpenAI, Google, and Anthropic. AWS's weekly roundup confirms Claude Opus 5 is now available on AWS, signaling continued Anthropic-AWS integration.",
+      "items": [
+        {
+          "id": "b605e00bfb",
+          "title": "Kimi-K3 Releases on HuggingFace 7/27",
+          "link": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "Hacker News",
+          "summary": "Kimi-K3 launched publicly on Hugging Face with 829 upvotes and 366 comments, making it one of the most-watched open-source model releases of the day and a credible competitive threat from China.",
+          "topic": "Open-source model release",
+          "company": "Moonshot AI",
+          "secondaryCompanies": [
+            "Hugging Face"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "open-source",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-27T06:18:10.000Z",
+          "addedOn": "2026-07-27"
+        },
+        {
+          "id": "255e648232",
+          "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+          "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+          "source": "TechCrunch AI",
+          "summary": "Safe Superintelligence, Ilya Sutskever's stealth AI lab, announced a long-term partnership with NVIDIA to scale its research infrastructure, signaling it is moving toward active development.",
+          "topic": "AI lab partnership",
+          "company": "Safe Superintelligence",
+          "secondaryCompanies": [
+            "NVIDIA"
+          ],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-27T15:01:50.000Z",
+          "addedOn": "2026-07-27"
+        },
+        {
+          "id": "40c3588f70",
+          "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+          "source": "The Verge",
+          "summary": "NVIDIA and Microsoft formed the Open Secure AI Alliance to build shared open-source AI security tools, with the conspicuous absence of OpenAI, Google, and Anthropic suggesting a deliberate coalition.",
+          "topic": "AI security alliance",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Microsoft",
+            "IBM",
+            "SpaceX"
+          ],
+          "importance": 4,
+          "tags": [
+            "open-source",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-27T12:06:22.000Z",
+          "addedOn": "2026-07-27"
+        },
+        {
+          "id": "f7b6dddf4d",
+          "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
+          "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/",
+          "source": "AWS News",
+          "summary": "AWS's weekly roundup confirms Claude Opus 5 is now available on AWS Bedrock, which is a meaningful milestone for enterprise customers evaluating Anthropic's most capable model through AWS's cloud.",
+          "topic": "Model availability on cloud",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-07-27T14:54:41.000Z",
+          "addedOn": "2026-07-27"
+        },
+        {
+          "id": "9787dc63d0",
+          "title": "Google’s AI search is rapidly becoming the default, new data shows",
+          "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+          "source": "TechCrunch AI",
+          "summary": "Google AI Overviews now appear in 43% of searches, a rapid expansion that directly threatens organic traffic for publishers and product discovery funnels built on search.",
+          "topic": "AI search adoption",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive",
+            "launch"
+          ],
+          "publishedAt": "2026-07-27T15:57:12.000Z",
+          "addedOn": "2026-07-27"
+        },
+        {
+          "id": "355626f29c",
+          "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+          "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+          "source": "TechCrunch AI",
+          "summary": "Hugging Face's CEO called for radical transparency after what is being described as the first autonomous AI agent cyberattack targeting OpenAI, raising urgent security and trust concerns for AI platforms.",
+          "topic": "AI security incident",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Hugging Face"
+          ],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive",
+            "regulation"
+          ],
+          "publishedAt": "2026-07-26T16:33:13.000Z",
+          "addedOn": "2026-07-27"
+        },
+        {
+          "id": "82e3b73156",
+          "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+          "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+          "source": "TechCrunch AI",
+          "summary": "Enigma raised a $70M seed round to simplify robot control interfaces, one of the largest seed rounds in robotics and a signal of growing investor conviction in physical AI.",
+          "topic": "Robotics funding",
+          "company": "Enigma",
+          "secondaryCompanies": [
+            "Index Ventures",
+            "Ribbit Capital",
+            "Conviction Partners"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-27T13:00:00.000Z",
+          "addedOn": "2026-07-27"
+        },
+        {
+          "id": "8756b60eb8",
+          "title": "AI companies spend record sums on Washington lobbying",
+          "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+          "source": "Hacker News",
+          "summary": "AI companies are spending record amounts on Washington lobbying, which will shape regulation, procurement, and competitive dynamics for every major AI product company.",
+          "topic": "AI lobbying and regulation",
+          "company": "AI Industry",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-27T14:07:48.000Z",
+          "addedOn": "2026-07-27"
+        },
+        {
+          "id": "c44e4dd177",
+          "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
+          "link": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny's Newsletter reviewed Claude Opus 5 alongside Cursor and Codex tooling updates, providing a practitioner-level signal on which AI coding and productivity tools PMs and builders are actively using.",
+          "topic": "AI tooling review",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Cursor",
+            "OpenAI"
+          ],
+          "importance": 3,
+          "tags": [
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-07-27T15:03:21.000Z",
+          "addedOn": "2026-07-27"
+        },
+        {
+          "id": "c25e19e55e",
+          "title": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
+          "link": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
+          "source": "The Verge",
+          "summary": "Amazon filed with the FCC to launch a direct-to-device satellite network by 2028, extending AWS's infrastructure ambitions and putting it in direct competition with SpaceX Starlink.",
+          "topic": "Satellite connectivity infrastructure",
+          "company": "Amazon",
+          "secondaryCompanies": [
+            "SpaceX"
+          ],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-27T15:40:38.000Z",
+          "addedOn": "2026-07-27"
+        }
+      ]
+    },
     {
       "date": "2026-07-26",
       "summary": "Anthropic's Claude 5 generation models are driving significant developer attention with new context engineering guidance, while DeepSeek has paused fundraising after leaked comments about the US compute gap exposed strategic vulnerabilities. AI-driven layoffs are accelerating across tech, with Monday.com the latest to cite AI as a factor, and Cloudflare is giving website owners new tools to control how AI crawlers interact with their content.",
