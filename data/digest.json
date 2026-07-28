@@ -1,6 +1,191 @@
 {
-  "lastUpdated": "2026-07-27T16:06:14.144Z",
+  "lastUpdated": "2026-07-28T15:57:23.777Z",
   "days": [
+    {
+      "date": "2026-07-28",
+      "summary": "Recursive Superintelligence signed a $410M compute deal with Amazon, signaling continued massive AI infrastructure investment. Anthropic's Dario Amodei publicly addressed open-weight model concerns while flagging Chinese AI as a key risk, and Satya Nadella warned companies that rely on a single AI provider without their own infrastructure layer face existential risk. A privacy issue with Claude's shared chat feature also surfaced, with some conversations indexed by Google.",
+      "items": [
+        {
+          "id": "4fac336183",
+          "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
+          "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+          "source": "TechCrunch AI",
+          "summary": "Recursive Superintelligence committed $410M to AWS compute, representing nearly all of its fundraising to date and reflecting the scale of infrastructure bets AI startups are making.",
+          "topic": "AI Infrastructure Funding",
+          "company": "Recursive Superintelligence",
+          "secondaryCompanies": [
+            "Amazon"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "infra"
+          ],
+          "publishedAt": "2026-07-28T13:19:17.000Z",
+          "addedOn": "2026-07-28"
+        },
+        {
+          "id": "063a78a65e",
+          "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+          "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic CEO Dario Amodei clarified he does not oppose open-weight models in principle but expressed concern that Chinese AI development using open-weight models poses a national security risk, a stance that shapes regulatory and product strategy.",
+          "topic": "AI Policy and Open-Weight Models",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "competitive",
+            "leadership"
+          ],
+          "publishedAt": "2026-07-28T00:13:33.000Z",
+          "addedOn": "2026-07-28"
+        },
+        {
+          "id": "f1637c21f3",
+          "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+          "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft CEO Satya Nadella argued that companies without proprietary AI models or AI gateway infrastructure separating their prompts from third-party models risk long-term competitive failure, a direct signal for enterprise product strategy.",
+          "topic": "AI Strategy",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive",
+            "infra"
+          ],
+          "publishedAt": "2026-07-27T21:17:11.000Z",
+          "addedOn": "2026-07-28"
+        },
+        {
+          "id": "f6ec309cb0",
+          "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+          "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+          "source": "TechCrunch AI",
+          "summary": "Claude's shared chat feature allowed publicly accessible links that Google indexed, potentially exposing private user conversations and raising serious privacy and trust concerns for Anthropic's product.",
+          "topic": "AI Privacy Issue",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Google"
+          ],
+          "importance": 4,
+          "tags": [
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-07-27T20:19:42.000Z",
+          "addedOn": "2026-07-28"
+        },
+        {
+          "id": "57b9aa43e3",
+          "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+          "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+          "source": "TechCrunch AI",
+          "summary": "PJM, the largest US grid operator, plans to cut power to data centers starting next year to prevent blackouts, posing a direct operational risk to AI infrastructure build-outs.",
+          "topic": "AI Infrastructure / Power",
+          "company": "PJM",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "regulation"
+          ],
+          "publishedAt": "2026-07-28T15:42:26.000Z",
+          "addedOn": "2026-07-28"
+        },
+        {
+          "id": "699cca776f",
+          "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+          "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft launched its first dedicated AI security model and a new agentic cybersecurity platform, expanding its security product surface and competing more directly with specialized AI security vendors.",
+          "topic": "AI Security Product Launch",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-27T18:32:11.000Z",
+          "addedOn": "2026-07-28"
+        },
+        {
+          "id": "72e62aa28e",
+          "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+          "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+          "source": "TechCrunch AI",
+          "summary": "Fish Audio raised a $52M seed round with $21M ARR and 8M users, showing strong early traction in AI voice generation for creators and enterprises.",
+          "topic": "AI Voice Funding",
+          "company": "Fish Audio",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "launch"
+          ],
+          "publishedAt": "2026-07-28T14:00:00.000Z",
+          "addedOn": "2026-07-28"
+        },
+        {
+          "id": "39519f6ad2",
+          "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+          "source": "The Verge",
+          "summary": "Perplexity expanded its agentic Personal Computer tool to Windows, allowing local AI agent execution on the world's most widely used OS and broadening its reach beyond Mac.",
+          "topic": "AI Agent Product",
+          "company": "Perplexity",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-28T12:30:00.000Z",
+          "addedOn": "2026-07-28"
+        },
+        {
+          "id": "e0cbdd2980",
+          "title": "Threads users can now chat with Meta AI in their DMs",
+          "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+          "source": "TechCrunch AI",
+          "summary": "Meta integrated its AI chatbot into Threads DMs, continuing its strategy of embedding AI assistants across its social platforms to drive engagement and usage data.",
+          "topic": "AI Product Integration",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-07-27T16:45:24.000Z",
+          "addedOn": "2026-07-28"
+        },
+        {
+          "id": "999e3252e2",
+          "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+          "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+          "source": "TechCrunch AI",
+          "summary": "A security breach involving OpenAI-related content on Hugging Face has renewed debate about AI alignment and model containment, with implications for how AI developers think about safety and access controls.",
+          "topic": "AI Safety and Security",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Hugging Face"
+          ],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "research",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-27T17:28:42.000Z",
+          "addedOn": "2026-07-28"
+        }
+      ]
+    },
     {
       "date": "2026-07-27",
       "summary": "Kimi-K3, Moonshot AI's new open-source model, released on Hugging Face and is generating significant attention as a competitive Chinese frontier model. NVIDIA partnered with Safe Superintelligence for compute scale, and separately co-launched an open AI security alliance with Microsoft, IBM, and SpaceX, notably excluding OpenAI, Google, and Anthropic. AWS's weekly roundup confirms Claude Opus 5 is now available on AWS, signaling continued Anthropic-AWS integration.",
