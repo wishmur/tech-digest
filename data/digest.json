@@ -1,6 +1,196 @@
 {
-  "lastUpdated": "2026-07-28T15:57:23.777Z",
+  "lastUpdated": "2026-07-30T15:45:10.164Z",
   "days": [
+    {
+      "date": "2026-07-30",
+      "summary": "Microsoft reported strong Q4 earnings while simultaneously distancing itself from OpenAI and Anthropic by pitching its own homegrown AI models, and logged a $3.2B gain on its Anthropic investment. Meta's Q2 earnings call was dominated by Zuckerberg's AI ambitions, including a coming push into personal AI agents and a claimed large enterprise opportunity across agents, APIs, and compute. Google DeepMind released Gemini Robotics 2, advancing whole-body robot intelligence, while Nscale's acquisition of Anyscale signals consolidation in the AI compute stack.",
+      "items": [
+        {
+          "id": "750af35496",
+          "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+          "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft is now openly competing with OpenAI and Anthropic by promoting its own AI models and tools to investors, signaling a strategic shift that could reshape its partnership dynamics.",
+          "topic": "Microsoft AI Strategy",
+          "company": "Microsoft",
+          "secondaryCompanies": [
+            "OpenAI",
+            "Anthropic"
+          ],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-07-30T00:21:06.000Z",
+          "addedOn": "2026-07-30"
+        },
+        {
+          "id": "feca2ec539",
+          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+          "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft booked a $3.2B gain from its Anthropic stake while reporting mixed results from its OpenAI investment, giving PMs a concrete look at how AI partnerships are valued on the balance sheet.",
+          "topic": "Microsoft AI Investments",
+          "company": "Microsoft",
+          "secondaryCompanies": [
+            "Anthropic",
+            "OpenAI"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-29T22:46:03.000Z",
+          "addedOn": "2026-07-30"
+        },
+        {
+          "id": "2aaefae5d0",
+          "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+          "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+          "source": "The Verge",
+          "summary": "Microsoft confirmed it is building a Copilot super app this year combining chat, coding, and agentic capabilities, positioning it as a direct competitor to standalone AI assistants and productivity tools.",
+          "topic": "Microsoft Copilot Super App",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-29T22:17:38.000Z",
+          "addedOn": "2026-07-30"
+        },
+        {
+          "id": "1929c1854e",
+          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+          "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+          "source": "TechCrunch AI",
+          "summary": "Zuckerberg told investors billions of people will have personal AI agents within five years, framing Meta's massive AI infrastructure spend as a bet on this consumer shift.",
+          "topic": "Meta AI Agents",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-29T23:00:11.000Z",
+          "addedOn": "2026-07-30"
+        },
+        {
+          "id": "c9945336eb",
+          "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+          "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Meta is positioning its enterprise AI opportunity beyond just agents to include APIs, compute, and internal software, signaling a broader platform play that could compete with AWS and Azure.",
+          "topic": "Meta Enterprise AI",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-29T22:23:12.000Z",
+          "addedOn": "2026-07-30"
+        },
+        {
+          "id": "294161fcfd",
+          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+          "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+          "source": "Hacker News",
+          "summary": "Google DeepMind released Gemini Robotics 2, a model focused on whole-body robot intelligence, advancing the frontier of physically capable AI systems.",
+          "topic": "Google DeepMind Robotics",
+          "company": "Google DeepMind",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "research"
+          ],
+          "publishedAt": "2026-07-30T15:15:48.000Z",
+          "addedOn": "2026-07-30"
+        },
+        {
+          "id": "f98297874b",
+          "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+          "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+          "source": "TechCrunch AI",
+          "summary": "Nscale's acquisition of Anyscale shows vertical integration accelerating in the AI compute stack, as cloud providers look to own both infrastructure and workload orchestration software.",
+          "topic": "AI Compute Stack Consolidation",
+          "company": "Nscale",
+          "secondaryCompanies": [
+            "Anyscale"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-07-30T15:19:15.000Z",
+          "addedOn": "2026-07-30"
+        },
+        {
+          "id": "7802d42c54",
+          "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+          "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+          "source": "TechCrunch AI",
+          "summary": "Lilian Weng, co-founder of Thinking Machines and former VP of AI Safety Research at OpenAI, has rejoined OpenAI, a notable leadership move in the AI safety space.",
+          "topic": "AI Leadership",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Thinking Machines"
+          ],
+          "importance": 3,
+          "tags": [
+            "leadership"
+          ],
+          "publishedAt": "2026-07-29T21:07:48.000Z",
+          "addedOn": "2026-07-30"
+        },
+        {
+          "id": "2a5e5f8fda",
+          "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+          "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+          "source": "TechCrunch AI",
+          "summary": "A new study estimates only 2,000 U.S. engineers can deliver meaningful AI ROI, highlighting a severe talent bottleneck that product teams building AI products should factor into hiring and resourcing plans.",
+          "topic": "AI Talent Gap",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-07-30T15:00:00.000Z",
+          "addedOn": "2026-07-30"
+        },
+        {
+          "id": "4c038c016f",
+          "title": "Zoox can now charge for rides in its steering-wheel-free robotaxis",
+          "link": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
+          "source": "The Verge",
+          "summary": "Zoox received NHTSA approval to charge for rides in its steering-wheel-free robotaxis, marking a meaningful regulatory milestone for autonomous vehicles and Amazon's AV ambitions.",
+          "topic": "Autonomous Vehicles",
+          "company": "Zoox",
+          "secondaryCompanies": [
+            "Amazon"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "regulation"
+          ],
+          "publishedAt": "2026-07-30T14:35:43.000Z",
+          "addedOn": "2026-07-30"
+        }
+      ]
+    },
     {
       "date": "2026-07-28",
       "summary": "Recursive Superintelligence signed a $410M compute deal with Amazon, signaling continued massive AI infrastructure investment. Anthropic's Dario Amodei publicly addressed open-weight model concerns while flagging Chinese AI as a key risk, and Satya Nadella warned companies that rely on a single AI provider without their own infrastructure layer face existential risk. A privacy issue with Claude's shared chat feature also surfaced, with some conversations indexed by Google.",
