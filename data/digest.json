@@ -1,6 +1,194 @@
 {
-  "lastUpdated": "2026-08-03T16:13:12.241Z",
+  "lastUpdated": "2026-08-04T16:04:35.952Z",
   "days": [
+    {
+      "date": "2026-08-04",
+      "summary": "AWS reduced prices on GPT models in Bedrock and embedded vibe-coding tool Superblocks into customer private clouds, signaling a push to decouple AI apps from specific models. NVIDIA released its Alpamayo 2 Super autonomous vehicle model for commercial use and joined the NSF AI Hubs program, continuing its expansion beyond chips. Texas froze new data center grid connections pending audits, which could meaningfully slow AI infrastructure buildout in one of its largest host states.",
+      "items": [
+        {
+          "id": "ab69cdbbd4",
+          "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
+          "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/",
+          "source": "AWS News",
+          "summary": "AWS cut prices on GPT models available in Bedrock, which directly affects cost modeling for PMs building on AWS AI services and signals intensifying competition among cloud AI providers.",
+          "topic": "AWS AI Pricing",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 5,
+          "tags": [
+            "product",
+            "competitive",
+            "infra"
+          ],
+          "publishedAt": "2026-08-03T16:12:30.000Z",
+          "addedOn": "2026-08-04"
+        },
+        {
+          "id": "4d7bc75aa1",
+          "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+          "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+          "source": "TechCrunch AI",
+          "summary": "AWS now lets Superblocks embed its vibe-coding tool inside AWS customer private clouds, a distribution move that could set a template for how AI dev tools reach enterprise buyers without direct sales.",
+          "topic": "AI Tooling Distribution",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "Superblocks"
+          ],
+          "importance": 4,
+          "tags": [
+            "product",
+            "tooling",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-03T20:00:00.000Z",
+          "addedOn": "2026-08-04"
+        },
+        {
+          "id": "9e93cc4c01",
+          "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+          "link": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA released Alpamayo 2 Super, a frontier open model for autonomous vehicles and robotaxis, now available for commercial use, expanding its software and model presence in the AV market.",
+          "topic": "NVIDIA AV Model Launch",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "open-source",
+            "product"
+          ],
+          "publishedAt": "2026-08-04T15:00:49.000Z",
+          "addedOn": "2026-08-04"
+        },
+        {
+          "id": "e1aaa95f6d",
+          "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
+          "link": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA is joining the NSF State and Regional AI Hubs program, extending its reach into federally funded AI research and education infrastructure across the US.",
+          "topic": "NVIDIA Research Partnerships",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-04T16:00:56.000Z",
+          "addedOn": "2026-08-04"
+        },
+        {
+          "id": "8b650b9cdc",
+          "title": "Texas says data centers must pass an audit before connecting to the grid",
+          "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+          "source": "The Verge",
+          "summary": "Texas Governor Abbott ordered an audit of data centers before they can connect to the state grid, a regulatory move that could significantly delay AI infrastructure expansion in a key data center market.",
+          "topic": "Data Center Regulation",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "infra"
+          ],
+          "publishedAt": "2026-08-04T15:33:21.000Z",
+          "addedOn": "2026-08-04"
+        },
+        {
+          "id": "54ed8f1ef0",
+          "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+          "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+          "source": "TechCrunch AI",
+          "summary": "Apple's trade secrets lawsuit against OpenAI has widened as additional former Apple employees are alleged to have retained or accessed confidential information, raising legal risk for OpenAI.",
+          "topic": "OpenAI Legal Risk",
+          "company": "Apple",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-04T14:03:01.000Z",
+          "addedOn": "2026-08-04"
+        },
+        {
+          "id": "d0bd865914",
+          "title": "Congress’ favorite AI tool? ChatGPT",
+          "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+          "source": "TechCrunch AI",
+          "summary": "ChatGPT dominates paid AI tool usage in the US Congress according to House spending records, confirming OpenAI's lead in government adoption and a growing market for AI in civic workflows.",
+          "topic": "AI Government Adoption",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-03T16:40:55.000Z",
+          "addedOn": "2026-08-04"
+        },
+        {
+          "id": "c825bb3b3d",
+          "title": "Microsoft Earnings, Microsoft vs. Meta, The Efficiency Payoff",
+          "link": "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/",
+          "source": "Stratechery",
+          "summary": "Microsoft's latest earnings showed a clear strategy payoff with lower costs and tangible AI application revenue, making it a useful benchmark for how AI investment is translating into enterprise results.",
+          "topic": "Microsoft Earnings & AI Strategy",
+          "company": "Microsoft",
+          "secondaryCompanies": [
+            "Meta"
+          ],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-08-04T10:00:00.000Z",
+          "addedOn": "2026-08-04"
+        },
+        {
+          "id": "5c210e0377",
+          "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+          "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+          "source": "TechCrunch AI",
+          "summary": "Design Arena, a human evaluation platform used by frontier AI labs, raised $7.9M and has 5.3M users, reflecting sustained demand for high-quality human preference data in model training pipelines.",
+          "topic": "AI Evaluation Tooling Funding",
+          "company": "Design Arena",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "tooling",
+            "research"
+          ],
+          "publishedAt": "2026-08-03T19:28:57.000Z",
+          "addedOn": "2026-08-04"
+        },
+        {
+          "id": "8c698391e5",
+          "title": "LLMs reward expertise",
+          "link": "https://www.seangoedecke.com/llms-reward-expertise/",
+          "source": "Hacker News",
+          "summary": "A widely read post argues LLMs disproportionately reward domain experts who can evaluate and direct outputs, which has practical implications for how PMs should think about AI-assisted workflows and team skill requirements.",
+          "topic": "LLM Workflow Implications",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-08-03T21:13:53.000Z",
+          "addedOn": "2026-08-04"
+        }
+      ]
+    },
     {
       "date": "2026-08-03",
       "summary": "Alibaba released its largest AI model yet, directly challenging US AI dominance, while Alibaba's Qwen team also launched Qwen3.8-Max, setting a new benchmark for coding models with strong community traction on Hacker News. Meta's earnings disappointed with AI product promises failing to reassure investors. A critical CVE was issued for a hallucinated SQLite vulnerability, highlighting a growing reliability problem with LLM-generated security research.",
