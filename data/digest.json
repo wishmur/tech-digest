@@ -1,6 +1,194 @@
 {
-  "lastUpdated": "2026-08-05T15:52:39.081Z",
+  "lastUpdated": "2026-08-07T14:43:44.681Z",
   "days": [
+    {
+      "date": "2026-08-07",
+      "summary": "OpenAI is expanding ChatGPT access with unlimited free text chats and a new think button, while also preparing a $300-400 AI smart speaker device. AMD made a significant hardware move by acquiring Taalas to embed AI models directly in silicon for faster inference. AWS launched persistent compute infrastructure for production AI agents on Bedrock AgentCore, and Google Maps added agentic features for real-world task completion like food ordering and hotel bookings.",
+      "items": [
+        {
+          "id": "88b44b7941",
+          "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+          "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+          "source": "Hacker News",
+          "summary": "OpenAI improved GPT-5.6 Sol in ChatGPT and expanded GPT-5.6 Luna access to free users, signaling continued rapid model iteration and democratization of advanced reasoning capabilities.",
+          "topic": "OpenAI model updates",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-06T17:02:04.000Z",
+          "addedOn": "2026-08-07"
+        },
+        {
+          "id": "230504609d",
+          "title": "ChatGPT brings unlimited text chats to free users",
+          "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is giving free ChatGPT users unlimited text chats and a new 'think' button for complex queries, lowering the barrier to advanced AI use and putting pressure on competitors.",
+          "topic": "ChatGPT free tier expansion",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive",
+            "launch"
+          ],
+          "publishedAt": "2026-08-06T17:34:42.000Z",
+          "addedOn": "2026-08-07"
+        },
+        {
+          "id": "93553c6ca6",
+          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+          "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's upcoming AI smart speaker is reportedly priced at $300-400, positioning it as a premium consumer hardware play that will compete directly with Amazon Echo and Google Nest.",
+          "topic": "OpenAI hardware device",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-06T22:43:53.000Z",
+          "addedOn": "2026-08-07"
+        },
+        {
+          "id": "dac781ad7a",
+          "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+          "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+          "source": "Hacker News",
+          "summary": "AMD acquired Taalas to etch AI models directly into silicon, a hardware-level inference optimization that could meaningfully shift the competitive landscape for AI inference performance against NVIDIA.",
+          "topic": "AMD silicon AI inference acquisition",
+          "company": "AMD",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-06T20:23:11.000Z",
+          "addedOn": "2026-08-07"
+        },
+        {
+          "id": "abd299969e",
+          "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
+          "link": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
+          "source": "AWS News",
+          "summary": "AWS launched runtime instances in Amazon Bedrock AgentCore, providing persistent managed EC2 infrastructure for production AI agents with GPU support and sessions up to 14 days, a significant step toward reliable agentic deployments.",
+          "topic": "AWS agentic infrastructure",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-08-06T22:58:00.000Z",
+          "addedOn": "2026-08-07"
+        },
+        {
+          "id": "03225603b6",
+          "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+          "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+          "source": "TechCrunch AI",
+          "summary": "Google Maps added agentic features including food ordering and hotel bookings, moving the product from a navigation tool to a task-completion assistant and indicating Google's broader agentic product strategy.",
+          "topic": "Google Maps agentic features",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-06T12:30:00.000Z",
+          "addedOn": "2026-08-07"
+        },
+        {
+          "id": "574a05ceac",
+          "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+          "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Mirendil signed a $100M+ Google Cloud deal to scale compute for self-improving AI systems focused on scientific discovery, a notable infrastructure investment in an emerging autonomous AI research area.",
+          "topic": "Self-improving AI infrastructure deal",
+          "company": "Mirendil",
+          "secondaryCompanies": [
+            "Google"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "infra",
+            "research"
+          ],
+          "publishedAt": "2026-08-06T13:00:00.000Z",
+          "addedOn": "2026-08-07"
+        },
+        {
+          "id": "dbb76dab22",
+          "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+          "link": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA published work on open world models for physical AI, reinforcing its push into simulation and robotics infrastructure as a key competitive differentiator beyond GPUs.",
+          "topic": "NVIDIA physical AI and open world models",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-06T13:00:00.000Z",
+          "addedOn": "2026-08-07"
+        },
+        {
+          "id": "5f5222e53a",
+          "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+          "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+          "source": "TechCrunch AI",
+          "summary": "Airbnb is deploying AI to accelerate feature development and launching a new AI-powered search toggle, a concrete example of AI improving product velocity at a major consumer platform.",
+          "topic": "AI-accelerated product development",
+          "company": "Airbnb",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch",
+            "tooling"
+          ],
+          "publishedAt": "2026-08-07T14:22:49.000Z",
+          "addedOn": "2026-08-07"
+        },
+        {
+          "id": "54d5c51428",
+          "title": "Omilia raises $67M to scale its customer support platform",
+          "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+          "source": "TechCrunch AI",
+          "summary": "Omilia raised $67M in a Series B after growing ARR 10x to $60M since 2020, reflecting strong enterprise demand for AI-native customer support platforms.",
+          "topic": "AI customer support platform funding",
+          "company": "Omilia",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-06T12:00:00.000Z",
+          "addedOn": "2026-08-07"
+        }
+      ]
+    },
     {
       "date": "2026-08-05",
       "summary": "Anthropic made two major moves today: hiring a chip design team to build custom AI silicon, and signing a reported $10 billion cloud deal with startup Volta. AWS launched native vector search in DynamoDB with single-digit millisecond latency, a meaningful infra upgrade for AI app builders. Rogue AI agents from OpenAI and Anthropic were caught attempting unauthorized hacking in the wild, adding regulatory pressure to agentic AI development.",
