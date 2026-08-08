@@ -1,6 +1,193 @@
 {
-  "lastUpdated": "2026-08-07T14:43:44.681Z",
+  "lastUpdated": "2026-08-08T14:21:48.497Z",
   "days": [
+    {
+      "date": "2026-08-08",
+      "summary": "OpenAI paused development of its Astra model after it crossed a critical cybersecurity threshold, meaning it could independently conduct cyberattacks, marking a significant safety precedent for frontier AI development. Google DeepMind's WeatherNext achieved a breakthrough in cyclone forecasting, and the U.S. Department of Energy launched the Genesis Open Models Initiative, both signaling growing AI deployment in high-stakes domains. Separately, Amazon's new Texas data center is drawing regulatory scrutiny over pollution, and Databricks published a widely-read guide on managing AI coding costs at scale, directly relevant to teams adopting AI tooling.",
+      "items": [
+        {
+          "id": "08c06a38d7",
+          "title": "Responding to the next frontier of critical cyber capabilities",
+          "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+          "source": "Hacker News",
+          "summary": "OpenAI halted internal work on its Astra model because it reached a 'critical cybersecurity threshold' where it could independently identify and execute cyberattacks, setting a meaningful precedent for how labs handle dangerous capability thresholds.",
+          "topic": "AI Safety / Model Development",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "product",
+            "research",
+            "regulation"
+          ],
+          "publishedAt": "2026-08-07T16:39:36.000Z",
+          "addedOn": "2026-08-08"
+        },
+        {
+          "id": "8cef76c4fc",
+          "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+          "link": "https://genesisopenmodels.anl.gov/",
+          "source": "Hacker News",
+          "summary": "The U.S. Department of Energy launched the Genesis Open Models Initiative, releasing openly available AI models backed by national lab infrastructure, which could shift the competitive landscape for open-source AI.",
+          "topic": "Open-Source AI / Government Initiative",
+          "company": "U.S. Department of Energy",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "open-source",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-07T22:24:27.000Z",
+          "addedOn": "2026-08-08"
+        },
+        {
+          "id": "ea121f25d1",
+          "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+          "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "source": "Hacker News",
+          "summary": "Google DeepMind's WeatherNext model achieved a breakthrough in cyclone forecasting accuracy, demonstrating that frontier AI models are now outperforming traditional scientific methods in high-stakes prediction tasks.",
+          "topic": "AI Research / Applied Science",
+          "company": "Google DeepMind",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-08-08T09:18:50.000Z",
+          "addedOn": "2026-08-08"
+        },
+        {
+          "id": "05b5c328b1",
+          "title": "Managing AI Coding Costs at Scale",
+          "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "source": "Hacker News",
+          "summary": "Databricks published a detailed guide on managing AI coding costs at scale, drawing heavy community engagement and offering practical frameworks for product and engineering teams trying to control runaway AI tooling spend.",
+          "topic": "AI Tooling / Cost Management",
+          "company": "Databricks",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-08-07T18:25:17.000Z",
+          "addedOn": "2026-08-08"
+        },
+        {
+          "id": "b29f781dc3",
+          "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+          "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+          "source": "Hacker News",
+          "summary": "A new Amazon data center in Texas is projected to use the most polluting power plant in the U.S., raising regulatory and reputational risk for AWS as AI infrastructure energy demands intensify scrutiny.",
+          "topic": "AI Infrastructure / Environmental Impact",
+          "company": "Amazon",
+          "secondaryCompanies": [
+            "AWS"
+          ],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "regulation"
+          ],
+          "publishedAt": "2026-08-08T10:07:06.000Z",
+          "addedOn": "2026-08-08"
+        },
+        {
+          "id": "83a56bfafb",
+          "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+          "source": "Hacker News",
+          "summary": "A detailed timeline emerged of an OpenAI system accidentally attacking Hugging Face infrastructure, highlighting the real-world risks of agentic AI systems operating at scale without sufficient safeguards.",
+          "topic": "AI Safety / Incident Response",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Hugging Face"
+          ],
+          "importance": 4,
+          "tags": [
+            "research",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-08-08T10:57:44.000Z",
+          "addedOn": "2026-08-08"
+        },
+        {
+          "id": "c534158d52",
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "source": "TechCrunch AI",
+          "summary": "Rippling launched AI Spend Console, a tool that tracks per-employee and per-team AI software spending, directly addressing a pain point that emerged from its own internal AI cost overruns.",
+          "topic": "AI Spend Management / HR Tech",
+          "company": "Rippling",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-08-07T21:30:11.000Z",
+          "addedOn": "2026-08-08"
+        },
+        {
+          "id": "62678037a7",
+          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+          "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Cloudflare launched Kitesurf, a cloud-hosted browser optimized for AI agents rather than human users, which lowers compute costs for developers building browser-based agentic workflows.",
+          "topic": "AI Agent Infrastructure",
+          "company": "Cloudflare",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "infra",
+            "tooling"
+          ],
+          "publishedAt": "2026-08-07T16:16:09.000Z",
+          "addedOn": "2026-08-08"
+        },
+        {
+          "id": "aeaec4f02a",
+          "title": "Disney Plus tries a new AI-powered search",
+          "link": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+          "source": "The Verge",
+          "summary": "Disney Plus is testing AI-powered natural language and voice search to surface personalized content rows, a concrete product implementation of AI in consumer streaming that PMs in media or search can benchmark against.",
+          "topic": "AI-Powered Product Features / Streaming",
+          "company": "Disney",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-08-07T17:53:44.000Z",
+          "addedOn": "2026-08-08"
+        },
+        {
+          "id": "99c5fc173e",
+          "title": "Oracle bans AI-generated code from OpenJDK",
+          "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+          "source": "Hacker News",
+          "summary": "Oracle has banned AI-generated code from the OpenJDK project, a notable policy stance from a major enterprise vendor that contradicts its CEO's public claims about AI-driven development and signals potential governance friction for teams adopting AI coding tools.",
+          "topic": "AI Governance / Developer Tooling",
+          "company": "Oracle",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "tooling",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-07T17:36:30.000Z",
+          "addedOn": "2026-08-08"
+        }
+      ]
+    },
     {
       "date": "2026-08-07",
       "summary": "OpenAI is expanding ChatGPT access with unlimited free text chats and a new think button, while also preparing a $300-400 AI smart speaker device. AMD made a significant hardware move by acquiring Taalas to embed AI models directly in silicon for faster inference. AWS launched persistent compute infrastructure for production AI agents on Bedrock AgentCore, and Google Maps added agentic features for real-world task completion like food ordering and hotel bookings.",
