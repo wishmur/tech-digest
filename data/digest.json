@@ -1,6 +1,193 @@
 {
-  "lastUpdated": "2026-08-08T14:21:48.497Z",
+  "lastUpdated": "2026-08-09T14:22:58.687Z",
   "days": [
+    {
+      "date": "2026-08-09",
+      "summary": "OpenAI acquired presentation startup NextSlide, folding its team directly into ChatGPT development, signaling continued expansion of ChatGPT's productivity use cases. Amazon's planned West Texas data center is drawing scrutiny for an on-site power plant that could become the single largest greenhouse gas emitter in the US, raising serious regulatory and reputational risk for AWS infrastructure growth. AI detection tools are generating a broader cultural crisis of distrust in content authenticity, a product and policy challenge with growing implications for platforms.",
+      "items": [
+        {
+          "id": "61f42ecb8f",
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI acquired NextSlide and integrated its team into ChatGPT, indicating OpenAI is building out productivity and presentation features natively inside ChatGPT rather than relying on third-party integrations.",
+          "topic": "OpenAI Acquisition",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "NextSlide"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-08T19:41:13.000Z",
+          "addedOn": "2026-08-09"
+        },
+        {
+          "id": "7a2536fc12",
+          "title": "An Amazon data center could have the worst polluting power plant in the country",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+          "source": "The Verge",
+          "summary": "Amazon's new West Texas data center power plant could become the largest single producer of greenhouse gases in the US, creating significant regulatory, reputational, and ESG risk for AWS infrastructure expansion.",
+          "topic": "AWS Data Center Environmental Risk",
+          "company": "Amazon",
+          "secondaryCompanies": [
+            "AWS"
+          ],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "regulation"
+          ],
+          "publishedAt": "2026-08-08T17:53:34.000Z",
+          "addedOn": "2026-08-09"
+        },
+        {
+          "id": "acf86426db",
+          "title": "AI detectors are creating a new era of distrust",
+          "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+          "source": "The Verge",
+          "summary": "AI content detectors are systematically generating false accusations against human writers, creating a product and institutional trust problem that PM teams building AI-assisted tools must account for.",
+          "topic": "AI Detection & Trust",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "regulation",
+            "research"
+          ],
+          "publishedAt": "2026-08-09T12:00:00.000Z",
+          "addedOn": "2026-08-09"
+        },
+        {
+          "id": "72d117cb0a",
+          "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+          "link": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+          "source": "NVIDIA Blog",
+          "summary": "Firebird launched the largest AI factory in the CIS region in Armenia on NVIDIA infrastructure, reflecting continued geographic expansion of GPU compute capacity beyond the US and Europe.",
+          "topic": "AI Infrastructure Expansion",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Firebird"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "infra",
+            "funding"
+          ],
+          "publishedAt": "2026-08-08T10:24:54.000Z",
+          "addedOn": "2026-08-09"
+        },
+        {
+          "id": "06b8724864",
+          "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+          "link": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
+          "source": "Lenny's Newsletter",
+          "summary": "Cursor's head of talent outlines a high-density hiring playbook treating every role as an executive search, offering practical signal for PMs building or scaling AI product teams.",
+          "topic": "Talent & Team Building",
+          "company": "Cursor",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "leadership"
+          ],
+          "publishedAt": "2026-08-09T12:31:29.000Z",
+          "addedOn": "2026-08-09"
+        },
+        {
+          "id": "3ed5f8ef55",
+          "title": "Everything You Do Is Being Recorded",
+          "link": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+          "source": "Hacker News",
+          "summary": "A reported rise in AI wearables and ambient recording tools is creating new surveillance norms that will affect how PMs design for privacy, consent, and data governance in consumer and enterprise products.",
+          "topic": "AI Wearables & Surveillance",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "regulation",
+            "research"
+          ],
+          "publishedAt": "2026-08-09T11:30:48.000Z",
+          "addedOn": "2026-08-09"
+        },
+        {
+          "id": "6be6dc6918",
+          "title": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
+          "source": "Lenny's Newsletter",
+          "summary": "Community-sourced PM tactics on outreach authenticity, design partner acquisition, defensible moats in an AI-commoditized market, and communicating product vision offer direct practical value for PMs.",
+          "topic": "Product Management Best Practices",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-08-08T17:08:14.000Z",
+          "addedOn": "2026-08-09"
+        },
+        {
+          "id": "51fc378ab2",
+          "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "link": "https://marketnow.site/",
+          "source": "Hacker News",
+          "summary": "A new real-time MCP interceptor tool blocks AI agents from reading sensitive files like .env or executing dangerous commands, addressing a growing agentic AI security gap relevant to teams deploying AI tooling.",
+          "topic": "AI Agent Security Tooling",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "tooling",
+            "infra",
+            "launch"
+          ],
+          "publishedAt": "2026-08-09T03:13:01.000Z",
+          "addedOn": "2026-08-09"
+        },
+        {
+          "id": "c4c593837e",
+          "title": "Fastmail offers EU data region",
+          "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+          "source": "Hacker News",
+          "summary": "Fastmail now offers an EU data region, a compliance move that signals growing demand for data residency controls and is relevant for PMs evaluating email or productivity infrastructure for European markets.",
+          "topic": "Data Residency & Compliance",
+          "company": "Fastmail",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "launch",
+            "regulation"
+          ],
+          "publishedAt": "2026-08-08T16:04:51.000Z",
+          "addedOn": "2026-08-09"
+        },
+        {
+          "id": "b56115e127",
+          "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+          "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon's Texas data center power plant investment underscores the tension between hyperscaler AI infrastructure growth and climate commitments, a factor increasingly influencing enterprise procurement and regulatory conversations.",
+          "topic": "AWS Environmental Impact",
+          "company": "Amazon",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "regulation"
+          ],
+          "publishedAt": "2026-08-08T21:24:02.000Z",
+          "addedOn": "2026-08-09"
+        }
+      ]
+    },
     {
       "date": "2026-08-08",
       "summary": "OpenAI paused development of its Astra model after it crossed a critical cybersecurity threshold, meaning it could independently conduct cyberattacks, marking a significant safety precedent for frontier AI development. Google DeepMind's WeatherNext achieved a breakthrough in cyclone forecasting, and the U.S. Department of Energy launched the Genesis Open Models Initiative, both signaling growing AI deployment in high-stakes domains. Separately, Amazon's new Texas data center is drawing regulatory scrutiny over pollution, and Databricks published a widely-read guide on managing AI coding costs at scale, directly relevant to teams adopting AI tooling.",
