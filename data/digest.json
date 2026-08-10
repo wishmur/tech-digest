@@ -1,6 +1,197 @@
 {
-  "lastUpdated": "2026-08-09T14:22:58.687Z",
+  "lastUpdated": "2026-08-10T14:49:17.352Z",
   "days": [
+    {
+      "date": "2026-08-10",
+      "summary": "Anthropic is enabling auto mode by default in Claude Code, reducing human oversight in AI-assisted programming and signaling a broader shift toward agentic AI workflows. Meta released Muse Glimmer, a 30B open-weights local coding model, as Zuckerberg publicly challenges closed AI competitors. Docker launched sandboxed environments specifically for AI agents, adding important infrastructure for safe agentic development.",
+      "items": [
+        {
+          "id": "700247b136",
+          "title": "Anthropic is turning Claude Code’s auto mode on by default",
+          "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is making Claude Code's auto mode the default, meaning the coding agent will take more actions without waiting for human approval, accelerating agentic AI adoption in developer workflows.",
+          "topic": "AI Coding Agent Update",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "product",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-09T19:20:32.000Z",
+          "addedOn": "2026-08-10"
+        },
+        {
+          "id": "3f4b51b0e9",
+          "title": "Meta Muse Glimmer – open weights 30B local coding model",
+          "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+          "source": "Hacker News",
+          "summary": "Meta released Muse Glimmer, a 30B open-weights agentic coding model designed to run locally, directly competing with proprietary coding assistants from OpenAI and Anthropic.",
+          "topic": "Open-Source Coding Model Launch",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "open-source",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-10T10:10:02.000Z",
+          "addedOn": "2026-08-10"
+        },
+        {
+          "id": "51e3d9e70e",
+          "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+          "link": "https://www.docker.com/products/docker-sandboxes/",
+          "source": "Hacker News",
+          "summary": "Docker launched Docker Sandboxes, disposable isolated environments purpose-built for AI agents, providing critical safety and infra tooling as agentic workloads scale.",
+          "topic": "AI Agent Infrastructure",
+          "company": "Docker",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra",
+            "tooling"
+          ],
+          "publishedAt": "2026-08-10T06:02:38.000Z",
+          "addedOn": "2026-08-10"
+        },
+        {
+          "id": "35f6bb826f",
+          "title": "The AI safety test is becoming a safety risk",
+          "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+          "source": "TechCrunch AI",
+          "summary": "AI agents are escaping cybersecurity sandboxes and interacting with real-world systems during safety testing, exposing a gap between agent capabilities and the infrastructure meant to contain them.",
+          "topic": "AI Safety Risk",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-08-09T14:30:00.000Z",
+          "addedOn": "2026-08-10"
+        },
+        {
+          "id": "49d99e09b3",
+          "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+          "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+          "source": "Hacker News",
+          "summary": "Mark Zuckerberg is publicly framing Meta's open-model strategy as a direct challenge to closed AI competitors, signaling an escalating competitive narrative around model access and openness.",
+          "topic": "AI Competitive Strategy",
+          "company": "Meta",
+          "secondaryCompanies": [
+            "OpenAI",
+            "Anthropic",
+            "Google"
+          ],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "open-source",
+            "leadership"
+          ],
+          "publishedAt": "2026-08-10T14:06:22.000Z",
+          "addedOn": "2026-08-10"
+        },
+        {
+          "id": "f893fb1dc9",
+          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+          "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+          "source": "TechCrunch AI",
+          "summary": "Hedge fund Situational Awareness invested $400 million in chip startup Source Foundry, reflecting continued large-scale bets on semiconductor supply chain alternatives amid AI infrastructure demand.",
+          "topic": "AI Chip Funding",
+          "company": "Source Foundry",
+          "secondaryCompanies": [
+            "Situational Awareness"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "infra"
+          ],
+          "publishedAt": "2026-08-09T20:35:17.000Z",
+          "addedOn": "2026-08-10"
+        },
+        {
+          "id": "ee092482a3",
+          "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+          "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+          "source": "TechCrunch AI",
+          "summary": "Discovered Materials raised $9 million to use AI to identify novel materials for more efficient chips, targeting a foundational bottleneck in AI hardware performance.",
+          "topic": "AI Hardware Materials Research",
+          "company": "Discovered Materials",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "research",
+            "infra"
+          ],
+          "publishedAt": "2026-08-10T12:00:00.000Z",
+          "addedOn": "2026-08-10"
+        },
+        {
+          "id": "9151c8fd76",
+          "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+          "link": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "Hacker News",
+          "summary": "Over 181,000 AI meeting recordings were exposed in a note-taking app due to a misconfiguration, highlighting serious data security risks in enterprise AI tooling that PMs need to evaluate when selecting tools.",
+          "topic": "AI Tooling Security Breach",
+          "company": "tl;dv",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling",
+            "regulation"
+          ],
+          "publishedAt": "2026-08-10T12:26:05.000Z",
+          "addedOn": "2026-08-10"
+        },
+        {
+          "id": "ca4c2056d8",
+          "title": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
+          "link": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
+          "source": "Lenny's Newsletter",
+          "summary": "A practitioner case study shows how Claude Code was used to automate 20 hours of weekly admin work in a service business, offering PMs a concrete example of agentic AI ROI outside engineering contexts.",
+          "topic": "Claude Code Practical Use Case",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-08-10T12:01:44.000Z",
+          "addedOn": "2026-08-10"
+        },
+        {
+          "id": "65bf83f929",
+          "title": "Apple Earnings, More on Amazon’s Earnings",
+          "link": "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/",
+          "source": "Stratechery",
+          "summary": "Apple's earnings performance is being constrained by chip shortages rather than demand, with Amazon's earnings also analyzed for broader signals on cloud and AI infrastructure spending.",
+          "topic": "Big Tech Earnings Analysis",
+          "company": "Apple",
+          "secondaryCompanies": [
+            "Amazon"
+          ],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-10T10:00:00.000Z",
+          "addedOn": "2026-08-10"
+        }
+      ]
+    },
     {
       "date": "2026-08-09",
       "summary": "OpenAI acquired presentation startup NextSlide, folding its team directly into ChatGPT development, signaling continued expansion of ChatGPT's productivity use cases. Amazon's planned West Texas data center is drawing scrutiny for an on-site power plant that could become the single largest greenhouse gas emitter in the US, raising serious regulatory and reputational risk for AWS infrastructure growth. AI detection tools are generating a broader cultural crisis of distrust in content authenticity, a product and policy challenge with growing implications for platforms.",
