@@ -1,6 +1,193 @@
 {
-  "lastUpdated": "2026-08-10T14:49:17.352Z",
+  "lastUpdated": "2026-08-12T14:49:18.658Z",
   "days": [
+    {
+      "date": "2026-08-12",
+      "summary": "Google's Gemini app has reached 1 billion users, a major milestone that validates its consumer AI strategy, while River AI secured a $1.1B seed round and OpenAI's COO Brad Lightcap announced his departure. Anthropic made headlines twice: an unreleased model made measurable progress on the Riemann hypothesis, and the company announced text watermarking for compliance with EU AI law. NVIDIA is mobilizing over $500 billion in third-party capital to make AI compute an investable asset class, a significant structural shift in how AI infrastructure gets financed.",
+      "items": [
+        {
+          "id": "61f03f2379",
+          "title": "Google’s Gemini app surges to 1 billion users",
+          "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+          "source": "TechCrunch AI",
+          "summary": "Gemini reaching 1 billion users with 63% using voice features regularly signals that Google has a genuine mass-market AI product and is closing the gap with ChatGPT on consumer adoption.",
+          "topic": "AI Product Growth",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "product",
+            "competitive",
+            "launch"
+          ],
+          "publishedAt": "2026-08-11T18:49:12.000Z",
+          "addedOn": "2026-08-12"
+        },
+        {
+          "id": "3571ff97a4",
+          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+          "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+          "source": "TechCrunch AI",
+          "summary": "A $1.1B seed round into a 2-month-old startup founded by an xAI co-founder signals extreme investor appetite for personal AI agent plays and sets a new benchmark for pre-product funding.",
+          "topic": "AI Funding",
+          "company": "River AI",
+          "secondaryCompanies": [
+            "General Catalyst",
+            "xAI"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "launch"
+          ],
+          "publishedAt": "2026-08-11T17:41:22.000Z",
+          "addedOn": "2026-08-12"
+        },
+        {
+          "id": "b8d07c245c",
+          "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+          "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+          "source": "TechCrunch AI",
+          "summary": "Brad Lightcap's departure as OpenAI's COO removes a key operational leader who has been central to the company's commercial scaling, creating leadership uncertainty at a critical growth phase.",
+          "topic": "Leadership Change",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "leadership"
+          ],
+          "publishedAt": "2026-08-11T17:41:34.000Z",
+          "addedOn": "2026-08-12"
+        },
+        {
+          "id": "af37d3b103",
+          "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+          "link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA is working with major asset managers including BlackRock and KKR to mobilize $500B in third-party capital for AI compute infrastructure, turning GPU clusters into a financeable asset class.",
+          "topic": "AI Infrastructure Finance",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Apollo",
+            "BlackRock",
+            "Blackstone",
+            "Brookfield",
+            "Goldman Sachs",
+            "KKR"
+          ],
+          "importance": 5,
+          "tags": [
+            "infra",
+            "funding"
+          ],
+          "publishedAt": "2026-08-12T00:38:21.000Z",
+          "addedOn": "2026-08-12"
+        },
+        {
+          "id": "a3990db170",
+          "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+          "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+          "source": "TechCrunch AI",
+          "summary": "An unreleased Anthropic model made verifiable progress on the Riemann hypothesis, one of mathematics' hardest open problems, suggesting frontier AI is beginning to produce genuine scientific contributions.",
+          "topic": "AI Research Capability",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-11T16:25:20.000Z",
+          "addedOn": "2026-08-12"
+        },
+        {
+          "id": "387a273ab4",
+          "title": "Anthropic says it will watermark text generated by its AI models",
+          "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic will add watermarking to AI-generated text across its models including older versions, driven by EU AI Act compliance requirements, setting a precedent other providers will likely follow.",
+          "topic": "AI Regulation Compliance",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-08-11T12:13:47.000Z",
+          "addedOn": "2026-08-12"
+        },
+        {
+          "id": "39c0907ab4",
+          "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+          "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA released Nemotron 3.5 Lightning and NeMo Switchyard, open agentic models optimized for speed and efficiency, giving developers more options for building autonomous agent pipelines.",
+          "topic": "AI Tooling",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "open-source",
+            "tooling",
+            "launch"
+          ],
+          "publishedAt": "2026-08-11T13:00:05.000Z",
+          "addedOn": "2026-08-12"
+        },
+        {
+          "id": "c836abb2e3",
+          "title": "OpenAI launches ChatGPT desktop app for Linux",
+          "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI bringing ChatGPT to Linux expands its desktop footprint to a large developer and enterprise audience that previously had no native app option.",
+          "topic": "AI Product Expansion",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-08-11T19:15:35.000Z",
+          "addedOn": "2026-08-12"
+        },
+        {
+          "id": "618c36a031",
+          "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+          "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+          "source": "TechCrunch AI",
+          "summary": "Blacksmith's near-10x valuation increase in under a year on the back of tenfold revenue growth shows strong market demand for AI-powered code testing tools in developer workflows.",
+          "topic": "AI Dev Tooling Funding",
+          "company": "Blacksmith",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "tooling"
+          ],
+          "publishedAt": "2026-08-12T11:00:00.000Z",
+          "addedOn": "2026-08-12"
+        },
+        {
+          "id": "6a49c4b6a0",
+          "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+          "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Google's Made by Google 2026 event introduced the Pixel 11 series, Pixel Watch 5, and Pixel Tag alongside deep Gemini integration, marking a significant hardware-software AI convergence push.",
+          "topic": "Google Hardware Launch",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-08-12T14:20:33.000Z",
+          "addedOn": "2026-08-12"
+        }
+      ]
+    },
     {
       "date": "2026-08-10",
       "summary": "Anthropic is enabling auto mode by default in Claude Code, reducing human oversight in AI-assisted programming and signaling a broader shift toward agentic AI workflows. Meta released Muse Glimmer, a 30B open-weights local coding model, as Zuckerberg publicly challenges closed AI competitors. Docker launched sandboxed environments specifically for AI agents, adding important infrastructure for safe agentic development.",
