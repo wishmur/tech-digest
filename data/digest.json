@@ -1,6 +1,191 @@
 {
-  "lastUpdated": "2026-08-12T14:49:18.658Z",
+  "lastUpdated": "2026-08-13T14:49:15.545Z",
   "days": [
+    {
+      "date": "2026-08-13",
+      "summary": "Cognition is in talks to raise at a $40B valuation just months after closing at $26B, signaling continued massive appetite for AI coding tools. Lovable confirmed a $13.3B valuation on $400M raised after hitting $500M ARR, and OpenAI-backed Thrive Holdings raised $2B at $12B to target enterprise AI, making this a heavy funding day. Anthropic's new watermarking feature is generating backlash from users and criticism from analysts, while DeepSeek updated API pricing and released an evaluation harness, keeping competitive pressure on Western AI providers.",
+      "items": [
+        {
+          "id": "fedb51cc07",
+          "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+          "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "Cognition is reportedly in talks to raise at a $40B valuation, up sharply from its $26B valuation just months ago, reflecting intense investor demand for AI coding infrastructure.",
+          "topic": "AI Coding Startup Funding",
+          "company": "Cognition",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-12T18:19:12.000Z",
+          "addedOn": "2026-08-13"
+        },
+        {
+          "id": "a8dd77df51",
+          "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+          "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+          "source": "TechCrunch AI",
+          "summary": "Lovable confirmed a $400M raise at a $13.3B valuation after reaching $500M annualized run rate, making it one of the fastest-growing AI product development tools on record.",
+          "topic": "AI Dev Tool Funding",
+          "company": "Lovable",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-08-12T16:04:27.000Z",
+          "addedOn": "2026-08-13"
+        },
+        {
+          "id": "2fd40c918b",
+          "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+          "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI-backed Thrive Holdings raised $2B at a $12B valuation from SoftBank and others to expand AI into enterprise workflows, representing a significant enterprise AI deployment bet.",
+          "topic": "Enterprise AI Funding",
+          "company": "Thrive Holdings",
+          "secondaryCompanies": [
+            "OpenAI",
+            "SoftBank"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "product"
+          ],
+          "publishedAt": "2026-08-12T17:41:29.000Z",
+          "addedOn": "2026-08-13"
+        },
+        {
+          "id": "f7639812ab",
+          "title": "Anthropic’s Watermarking, How It (Probably) Works, Worse Than It Seems",
+          "link": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
+          "source": "Stratechery",
+          "summary": "Anthropic is adding AI-generated content watermarking in response to EU AI Act requirements, a move Stratechery argues is philosophically flawed and practically harmful to legitimate users.",
+          "topic": "AI Watermarking and Regulation",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-08-12T10:00:00.000Z",
+          "addedOn": "2026-08-13"
+        },
+        {
+          "id": "bdfac5281a",
+          "title": "DeepSeek API Pricing Update",
+          "link": "https://twitter.com/deepseek_ai/status/2087864589895798968",
+          "source": "Hacker News",
+          "summary": "DeepSeek updated its API pricing, likely reducing costs further and maintaining competitive pressure on OpenAI, Anthropic, and Google in the API market.",
+          "topic": "AI API Pricing",
+          "company": "DeepSeek",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "launch"
+          ],
+          "publishedAt": "2026-08-13T12:49:21.000Z",
+          "addedOn": "2026-08-13"
+        },
+        {
+          "id": "bad13784a9",
+          "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+          "link": "https://openai.com/codex/",
+          "source": "Hacker News",
+          "summary": "OpenAI released Codex Desktop for Linux, expanding its AI coding agent to a developer-critical platform that was previously unsupported.",
+          "topic": "AI Coding Tool Launch",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-08-13T04:53:41.000Z",
+          "addedOn": "2026-08-13"
+        },
+        {
+          "id": "ed2d0e440f",
+          "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+          "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+          "source": "The Verge",
+          "summary": "Microsoft is merging its consumer and commercial Copilot apps into a single super app, a significant product consolidation that affects how millions of enterprise users will interact with AI daily.",
+          "topic": "AI Product Consolidation",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-08-13T13:30:00.000Z",
+          "addedOn": "2026-08-13"
+        },
+        {
+          "id": "209484ebf2",
+          "title": "AI agents lie, cheat and steal. That is putting off users",
+          "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+          "source": "Hacker News",
+          "summary": "An Economist report finds that AI agents lying, cheating, and making errors is materially reducing enterprise and consumer adoption, a critical signal for PMs building agentic products.",
+          "topic": "AI Agent Trust and Reliability",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-13T13:28:45.000Z",
+          "addedOn": "2026-08-13"
+        },
+        {
+          "id": "0e1a976108",
+          "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+          "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon will train AI models on Twitch streamer content by default with an opt-out mechanism, a decision the Twitch CPO admitted would have zero participation if it were opt-in.",
+          "topic": "AI Training Data Policy",
+          "company": "Amazon",
+          "secondaryCompanies": [
+            "Twitch"
+          ],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-08-12T20:10:40.000Z",
+          "addedOn": "2026-08-13"
+        },
+        {
+          "id": "e176415c25",
+          "title": "DeepSeek Harness",
+          "link": "https://github.com/deepseek-ai/deepseek-harness",
+          "source": "Hacker News",
+          "summary": "DeepSeek released an open-source evaluation harness for benchmarking AI models, giving developers a standardized tool to compare model performance across tasks.",
+          "topic": "AI Benchmarking Tooling",
+          "company": "DeepSeek",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "open-source",
+            "tooling",
+            "research"
+          ],
+          "publishedAt": "2026-08-13T12:58:02.000Z",
+          "addedOn": "2026-08-13"
+        }
+      ]
+    },
     {
       "date": "2026-08-12",
       "summary": "Google's Gemini app has reached 1 billion users, a major milestone that validates its consumer AI strategy, while River AI secured a $1.1B seed round and OpenAI's COO Brad Lightcap announced his departure. Anthropic made headlines twice: an unreleased model made measurable progress on the Riemann hypothesis, and the company announced text watermarking for compliance with EU AI law. NVIDIA is mobilizing over $500 billion in third-party capital to make AI compute an investable asset class, a significant structural shift in how AI infrastructure gets financed.",
