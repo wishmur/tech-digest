@@ -1,6 +1,194 @@
 {
-  "lastUpdated": "2026-08-14T14:43:24.350Z",
+  "lastUpdated": "2026-08-15T14:11:08.092Z",
   "days": [
+    {
+      "date": "2026-08-15",
+      "summary": "Meta's open-weight AI strategy is under scrutiny as it releases Glimmer publicly while keeping its more capable Muse Spark model closed, raising questions about what 'open AI' really means. Google is advancing privacy-preserving AI through homomorphic encryption, a meaningful technical step for enterprise and regulated-industry use cases. Anthropic published practical guidance on maximizing Claude Code sessions, signaling continued investment in developer tooling as agentic coding workflows mature.",
+      "items": [
+        {
+          "id": "87274b2d7e",
+          "title": "Google is making private AI practical with homomorphic encryption",
+          "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+          "source": "Hacker News",
+          "summary": "Google published details on using homomorphic encryption to enable AI inference on encrypted data, which could unlock AI adoption in regulated industries where data privacy is a blocker.",
+          "topic": "Privacy-Preserving AI",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-08-14T15:43:10.000Z",
+          "addedOn": "2026-08-15"
+        },
+        {
+          "id": "81e5cc10e8",
+          "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+          "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+          "source": "TechCrunch AI",
+          "summary": "Meta's dual-track AI release strategy, open-weight Glimmer for the public and locked Muse Spark for higher capability, reveals that 'open AI' is a selective positioning choice with real product implications for developers choosing platforms.",
+          "topic": "AI Open Source Strategy",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "open-source",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-08-14T14:00:00.000Z",
+          "addedOn": "2026-08-15"
+        },
+        {
+          "id": "3efdd3b405",
+          "title": "Maximizing the value of your Claude Code sessions",
+          "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+          "source": "Hacker News",
+          "summary": "Anthropic's official guide on maximizing Claude Code sessions is generating significant developer discussion and signals the company is actively optimizing the agentic coding workflow experience as a product priority.",
+          "topic": "AI Coding Tooling",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "tooling",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-08-14T16:15:21.000Z",
+          "addedOn": "2026-08-15"
+        },
+        {
+          "id": "05d88b8e6f",
+          "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+          "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+          "source": "Hacker News",
+          "summary": "Netflix published a technical blog on GenRec, its LLM-native recommendation system, showing how a major consumer platform is replacing traditional ML pipelines with LLM-based approaches at production scale.",
+          "topic": "LLM Product Applications",
+          "company": "Netflix",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "research",
+            "infra"
+          ],
+          "publishedAt": "2026-08-15T12:56:56.000Z",
+          "addedOn": "2026-08-15"
+        },
+        {
+          "id": "46cf85637a",
+          "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+          "link": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA partnered with Indosat and Universitas Gadjah Mada to open Indonesia's first university AI center, continuing NVIDIA's strategy of expanding AI infrastructure and talent pipelines in emerging markets.",
+          "topic": "AI Infrastructure Expansion",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Indosat"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "infra"
+          ],
+          "publishedAt": "2026-08-14T17:13:05.000Z",
+          "addedOn": "2026-08-15"
+        },
+        {
+          "id": "0e0aa64810",
+          "title": "Google will now allow users to remove visible watermark from its AI generations",
+          "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+          "source": "TechCrunch AI",
+          "summary": "Google is letting users remove visible watermarks from AI-generated images while keeping invisible SynthID watermarks intact, a product decision that balances user flexibility with AI content provenance.",
+          "topic": "AI Content Policy",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-08-14T16:13:40.000Z",
+          "addedOn": "2026-08-15"
+        },
+        {
+          "id": "042796346f",
+          "title": "Kog is going deeper to squeeze more inference out of GPUs",
+          "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+          "source": "TechCrunch AI",
+          "summary": "French startup Kog is building GPU optimization specifically for agentic AI workloads, addressing a real infrastructure gap as multi-step agent pipelines become more common in production.",
+          "topic": "AI Inference Infrastructure",
+          "company": "Kog",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "tooling",
+            "launch"
+          ],
+          "publishedAt": "2026-08-14T14:50:11.000Z",
+          "addedOn": "2026-08-15"
+        },
+        {
+          "id": "283274f263",
+          "title": "Working with AI Feels More Like Leadership Than Coding",
+          "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+          "source": "Hacker News",
+          "summary": "A widely read essay arguing that working with AI resembles leadership more than coding is relevant for PMs thinking about how to frame AI-assisted workflows for their teams.",
+          "topic": "AI Workflow & Culture",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-08-15T10:39:41.000Z",
+          "addedOn": "2026-08-15"
+        },
+        {
+          "id": "74fd95cc80",
+          "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "link": "https://chenxiachan.github.io/thoughtdag/",
+          "source": "Hacker News",
+          "summary": "ThoughtDAG is a new open-source tool that adds an editable knowledge graph layer to LLM conversations, addressing a real pain point around context management in complex AI sessions.",
+          "topic": "AI Tooling",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "tooling",
+            "open-source",
+            "launch"
+          ],
+          "publishedAt": "2026-08-15T04:42:07.000Z",
+          "addedOn": "2026-08-15"
+        },
+        {
+          "id": "0fccedf8ea",
+          "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+          "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+          "source": "TechCrunch AI",
+          "summary": "A forecast of natural gas prices tripling in parts of the U.S. poses a significant cost risk for hyperscalers betting on gas-powered AI data centers, which could affect infrastructure spending decisions.",
+          "topic": "AI Data Center Costs",
+          "company": "",
+          "secondaryCompanies": [
+            "AWS",
+            "Google",
+            "Microsoft"
+          ],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-14T14:05:00.000Z",
+          "addedOn": "2026-08-15"
+        }
+      ]
+    },
     {
       "date": "2026-08-14",
       "summary": "Google released Gemini 3.7 Flash and OpenAI launched GPT-5.6 Sol Ultrafast (powered by Cerebras hardware) on the same day, intensifying the race for fast, affordable frontier models. Databricks closed a $5B raise at a $190B valuation, signaling continued massive capital flows into AI infrastructure. Anthropic's multi-agent safety research and Microsoft's Copilot consolidation round out a day of significant product and organizational moves across the major AI players.",
