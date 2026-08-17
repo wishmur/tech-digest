@@ -1,6 +1,190 @@
 {
-  "lastUpdated": "2026-08-15T14:11:08.092Z",
+  "lastUpdated": "2026-08-17T14:16:15.932Z",
   "days": [
+    {
+      "date": "2026-08-17",
+      "summary": "Stripe is reportedly acquiring AI gateway startup OpenRouter for over $7 billion, a major bet on model aggregation infrastructure that could reshape how AI APIs are consumed and monetized. OpenAI disbanded its preparedness safety team last month, raising governance concerns at a critical time for the industry. Anthropic is rolling out invisible watermarks for Claude-generated text to meet EU AI transparency requirements, and its CEO is publicly addressing growing public distrust of AI.",
+      "items": [
+        {
+          "id": "7430ad5663",
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "source": "TechCrunch AI",
+          "summary": "Stripe acquiring OpenRouter for $7B+ is a landmark deal that positions Stripe as the financial and routing layer for AI API traffic, with major implications for how developers and companies access and pay for AI models.",
+          "topic": "AI Infrastructure Acquisition",
+          "company": "Stripe",
+          "secondaryCompanies": [
+            "OpenRouter"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-08-16T20:57:04.000Z",
+          "addedOn": "2026-08-17"
+        },
+        {
+          "id": "eb794a2fd0",
+          "title": "OpenAI reportedly disbanded its preparedness team",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+          "source": "The Verge",
+          "summary": "OpenAI disbanding its preparedness team responsible for assessing catastrophic model risks is a significant governance regression that PMs and enterprise buyers evaluating OpenAI products should factor into trust and risk assessments.",
+          "topic": "AI Safety Governance",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "leadership",
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-08-16T21:32:56.000Z",
+          "addedOn": "2026-08-17"
+        },
+        {
+          "id": "dd02c006be",
+          "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "summary": "Anthropic is implementing invisible text watermarks in Claude outputs to comply with EU AI transparency rules, setting a precedent for how AI providers will handle provenance and regulatory compliance across jurisdictions.",
+          "topic": "AI Regulation Compliance",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-08-17T10:57:13.000Z",
+          "addedOn": "2026-08-17"
+        },
+        {
+          "id": "4a493f2763",
+          "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+          "source": "The Verge",
+          "summary": "ChatGPT's new Computer History feature on macOS captures clicks and keystrokes to learn user workflows and suggest automations, representing a significant expansion of OpenAI's agentic product surface on desktop.",
+          "topic": "AI Agent Product Launch",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-08-16T14:56:40.000Z",
+          "addedOn": "2026-08-17"
+        },
+        {
+          "id": "7367209695",
+          "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+          "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+          "source": "TechCrunch AI",
+          "summary": "Wispr raising $280M at a $2B valuation signals strong investor confidence in AI-native voice input as a platform beyond dictation, relevant for PMs tracking voice and ambient computing product trends.",
+          "topic": "AI Voice Input Funding",
+          "company": "Wispr",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-08-17T13:10:05.000Z",
+          "addedOn": "2026-08-17"
+        },
+        {
+          "id": "e05b8360d2",
+          "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "link": "https://blog.roboflow.com/openai-gpt-5-6/",
+          "source": "Hacker News",
+          "summary": "GPT-5.6 Sol is receiving strong early reviews as OpenAI's best vision model yet, with implications for computer vision and multimodal product teams evaluating model selection.",
+          "topic": "AI Model Release",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "research",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-17T12:09:42.000Z",
+          "addedOn": "2026-08-17"
+        },
+        {
+          "id": "9eeacf6b78",
+          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+          "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic CEO Dario Amodei framing AI backlash as a trust crisis is a notable strategic communication from a top lab that reflects how leading AI companies are beginning to actively manage public perception and adoption risk.",
+          "topic": "AI Public Trust",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "leadership",
+            "regulation"
+          ],
+          "publishedAt": "2026-08-16T16:53:51.000Z",
+          "addedOn": "2026-08-17"
+        },
+        {
+          "id": "8587bfcff0",
+          "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
+          "link": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
+          "source": "Lenny's Newsletter",
+          "summary": "OpenAI's head of product design making a public case for designers in the AI era is a useful signal for PMs on how OpenAI is thinking about human-AI collaboration in product workflows.",
+          "topic": "AI Product Design",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-08-16T12:31:42.000Z",
+          "addedOn": "2026-08-17"
+        },
+        {
+          "id": "7beb2b6fbd",
+          "title": "How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder",
+          "link": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
+          "source": "Lenny's Newsletter",
+          "summary": "A solo founder using OpenAI Codex and ChatGPT to launch a full fashion brand with e-commerce infrastructure illustrates the expanding scope of AI coding agents as product-building tools accessible without engineering teams.",
+          "topic": "AI Coding Agent Use Case",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling",
+            "launch"
+          ],
+          "publishedAt": "2026-08-17T12:04:02.000Z",
+          "addedOn": "2026-08-17"
+        },
+        {
+          "id": "11c9997161",
+          "title": "Securing the Infrastructure of Intelligence",
+          "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA framing AI factories as defining infrastructure of the AI economy is a strategic positioning piece relevant for PMs and product leaders evaluating compute strategy and the long-term infrastructure investment landscape.",
+          "topic": "AI Infrastructure Strategy",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-08-17T12:34:51.000Z",
+          "addedOn": "2026-08-17"
+        }
+      ]
+    },
     {
       "date": "2026-08-15",
       "summary": "Meta's open-weight AI strategy is under scrutiny as it releases Glimmer publicly while keeping its more capable Muse Spark model closed, raising questions about what 'open AI' really means. Google is advancing privacy-preserving AI through homomorphic encryption, a meaningful technical step for enterprise and regulated-industry use cases. Anthropic published practical guidance on maximizing Claude Code sessions, signaling continued investment in developer tooling as agentic coding workflows mature.",
