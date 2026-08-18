@@ -1,6 +1,203 @@
 {
-  "lastUpdated": "2026-08-17T14:16:15.932Z",
+  "lastUpdated": "2026-08-18T14:21:19.951Z",
   "days": [
+    {
+      "date": "2026-08-18",
+      "summary": "Anthropic's annualized revenue surged to $6.5B, adding $1.8B in just two months, signaling accelerating enterprise AI adoption at the frontier. Nvidia is investing $1.5B in SoftBank's data center unit to secure chip placement for an OpenAI facility, while Groq raised $350M at a $3.5B valuation as it pivots from chips to neocloud. Stripe is reportedly acquiring OpenRouter, a move that could position it as an aggregator across the growing multi-model AI market.",
+      "items": [
+        {
+          "id": "de8e9b90f0",
+          "title": "Anthropic’s annualized revenue surges to $65B",
+          "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's annualized revenue hit $6.5B after adding $1.8B in just two months, showing rare hypergrowth speed for a frontier AI company and raising the competitive stakes for OpenAI and Google.",
+          "topic": "AI Revenue Growth",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-08-17T23:56:26.000Z",
+          "addedOn": "2026-08-18"
+        },
+        {
+          "id": "40a9816ea4",
+          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+          "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia's $1.5B investment in SoftBank's data center developer locks in its chips for an OpenAI facility, deepening the Nvidia-OpenAI infrastructure relationship and signaling continued hyperscale AI capex.",
+          "topic": "AI Infrastructure Investment",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "SoftBank",
+            "OpenAI"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "infra"
+          ],
+          "publishedAt": "2026-08-17T15:16:24.000Z",
+          "addedOn": "2026-08-18"
+        },
+        {
+          "id": "8121e05106",
+          "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
+          "link": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+          "source": "Stratechery",
+          "summary": "Stripe is reportedly acquiring OpenRouter, which could let it aggregate AI model routing and billing into a unified platform, potentially reshaping how developers access and pay for AI.",
+          "topic": "AI Market Aggregation",
+          "company": "Stripe",
+          "secondaryCompanies": [
+            "OpenRouter"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-08-17T10:00:00.000Z",
+          "addedOn": "2026-08-18"
+        },
+        {
+          "id": "47e2b98455",
+          "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+          "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+          "source": "TechCrunch AI",
+          "summary": "Groq raised $350M at a $3.5B valuation and is pivoting from building AI chips to operating an Nvidia-powered neocloud, betting that inference-as-a-service is a stronger business than custom silicon.",
+          "topic": "AI Cloud Infrastructure",
+          "company": "Groq",
+          "secondaryCompanies": [
+            "NVIDIA"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-17T16:15:12.000Z",
+          "addedOn": "2026-08-18"
+        },
+        {
+          "id": "d1b640f192",
+          "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+          "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI launched a teen-specific ChatGPT tier with parental controls and safety guardrails, a product move that formalizes a large existing user segment and responds to regulatory and public pressure around minors and AI.",
+          "topic": "AI Product Safety",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-08-18T13:50:30.000Z",
+          "addedOn": "2026-08-18"
+        },
+        {
+          "id": "52b5335873",
+          "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
+          "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
+          "source": "AWS News",
+          "summary": "AWS's weekly roundup highlights OpenAI's Daybreak model arriving on Amazon Bedrock, expanding the model catalog and giving AWS customers access to another frontier model through a managed service.",
+          "topic": "AWS AI Model Availability",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-08-17T16:02:36.000Z",
+          "addedOn": "2026-08-18"
+        },
+        {
+          "id": "0da80d9d51",
+          "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+          "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+          "source": "TechCrunch AI",
+          "summary": "Warp launched Warp Factories, an infrastructure system that automates AI software development pipelines, targeting engineering teams building AI-native products.",
+          "topic": "AI Developer Tooling",
+          "company": "Warp",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "tooling"
+          ],
+          "publishedAt": "2026-08-18T14:00:00.000Z",
+          "addedOn": "2026-08-18"
+        },
+        {
+          "id": "5b8dbc23ae",
+          "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+          "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+          "source": "TechCrunch AI",
+          "summary": "AI automation startup Relay shut down and its team joined Google's Chrome team, with the founder hinting at upcoming AI-in-browser work, signaling Google is recruiting aggressively for agentic browser capabilities.",
+          "topic": "AI Browser Integration",
+          "company": "Google",
+          "secondaryCompanies": [
+            "Relay"
+          ],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive",
+            "leadership"
+          ],
+          "publishedAt": "2026-08-17T21:27:05.000Z",
+          "addedOn": "2026-08-18"
+        },
+        {
+          "id": "c99c4fc909",
+          "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+          "source": "The Verge",
+          "summary": "Firefox's Smart Window AI mode now pulls live web data and shows source links via a partnership with Exa, positioning Firefox as a competitive AI browser against Chrome and Edge.",
+          "topic": "AI Browser Features",
+          "company": "Firefox",
+          "secondaryCompanies": [
+            "Exa"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-18T13:00:00.000Z",
+          "addedOn": "2026-08-18"
+        },
+        {
+          "id": "e9529c2336",
+          "title": "Perplexity’s free AI offer left it with millions more users in India",
+          "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+          "source": "TechCrunch AI",
+          "summary": "Perplexity's India revenue grew 60% following a free-tier promotion with Airtel, demonstrating that subsidized distribution in price-sensitive markets can convert to lasting revenue even after the promotion ends.",
+          "topic": "AI Growth Strategy",
+          "company": "Perplexity",
+          "secondaryCompanies": [
+            "Airtel"
+          ],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-18T13:45:40.000Z",
+          "addedOn": "2026-08-18"
+        }
+      ]
+    },
     {
       "date": "2026-08-17",
       "summary": "Stripe is reportedly acquiring AI gateway startup OpenRouter for over $7 billion, a major bet on model aggregation infrastructure that could reshape how AI APIs are consumed and monetized. OpenAI disbanded its preparedness safety team last month, raising governance concerns at a critical time for the industry. Anthropic is rolling out invisible watermarks for Claude-generated text to meet EU AI transparency requirements, and its CEO is publicly addressing growing public distrust of AI.",
