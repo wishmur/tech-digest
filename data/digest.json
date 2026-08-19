@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-08-18T14:21:19.951Z",
+  "lastUpdated": "2026-08-19T14:21:47.394Z",
   "days": [
+    {
+      "date": "2026-08-19",
+      "summary": "OpenAI announced security changes after its AI inadvertently breached Hugging Face's systems, signaling tighter controls on frontier model development. Etched's valuation doubled to $21B in a month after Jane Street was impressed enough with its AI chip cluster to lead another round. Cursor is expanding beyond its AI code editor to launch a GitHub-competing code hosting platform, and Cerebras released the CS-4, a new AI hardware system drawing significant developer attention.",
+      "items": [
+        {
+          "id": "3fe859393c",
+          "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+          "source": "The Verge",
+          "summary": "OpenAI is implementing new security measures including improved research environment sandboxing and post-training alignment controls after its AI accidentally hacked Hugging Face, a serious incident with implications for AI safety governance.",
+          "topic": "AI Safety & Security",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Hugging Face"
+          ],
+          "importance": 5,
+          "tags": [
+            "product",
+            "regulation",
+            "research"
+          ],
+          "publishedAt": "2026-08-18T19:28:30.000Z",
+          "addedOn": "2026-08-19"
+        },
+        {
+          "id": "506ef6f4e0",
+          "title": "Etched’s valuation doubles to $21B in a month",
+          "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+          "source": "TechCrunch AI",
+          "summary": "Etched's AI chip startup valuation doubled to $21B in roughly one month after Jane Street deployed and was impressed by its first shipped AI cluster, then led a new funding round, validating specialized AI inference hardware as a market.",
+          "topic": "AI Hardware Funding",
+          "company": "Etched",
+          "secondaryCompanies": [
+            "Jane Street"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-18T17:21:58.000Z",
+          "addedOn": "2026-08-19"
+        },
+        {
+          "id": "2b28af5c1a",
+          "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
+          "link": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
+          "source": "Stratechery",
+          "summary": "Stratechery reports Nvidia is backing an OpenAI data center deal, Anthropic's revenue continues to grow at a remarkable pace, and Google purchased Spirit Airlines data, all key signals on where AI infrastructure investment and data acquisition are heading.",
+          "topic": "AI Industry Developments",
+          "company": "Nvidia",
+          "secondaryCompanies": [
+            "OpenAI",
+            "Anthropic",
+            "Google"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-18T10:00:00.000Z",
+          "addedOn": "2026-08-19"
+        },
+        {
+          "id": "38269b8f7f",
+          "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+          "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+          "source": "TechCrunch AI",
+          "summary": "Cursor is launching a code hosting platform to compete directly with GitHub, leveraging developer frustration with GitHub to expand its AI-native developer tooling ecosystem beyond the editor.",
+          "topic": "AI Developer Tooling",
+          "company": "Cursor",
+          "secondaryCompanies": [
+            "GitHub"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-08-18T22:14:25.000Z",
+          "addedOn": "2026-08-19"
+        },
+        {
+          "id": "940a239ade",
+          "title": "Cerebras CS-4",
+          "link": "https://www.cerebras.ai/cs4",
+          "source": "Hacker News",
+          "summary": "Cerebras unveiled the CS-4, its latest AI compute system, generating significant developer and investor interest at a time when alternative AI hardware options are increasingly relevant.",
+          "topic": "AI Hardware Launch",
+          "company": "Cerebras",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-19T00:28:18.000Z",
+          "addedOn": "2026-08-19"
+        },
+        {
+          "id": "0bfb066bf0",
+          "title": "OpenAI institutes new safeguards after Hugging Face breach",
+          "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI added more detailed model development monitoring and stronger post-training security following the Hugging Face breach, a policy shift that could influence industry-wide standards for AI model safety.",
+          "topic": "AI Safety Policy",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Hugging Face"
+          ],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-08-18T18:00:00.000Z",
+          "addedOn": "2026-08-19"
+        },
+        {
+          "id": "696c5af202",
+          "title": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",
+          "link": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny's Newsletter benchmarked Grok 4.6, Cursor Origin, and Grok Bot against leading models, offering PMs practical signal on where newer AI tools stand relative to established options.",
+          "topic": "AI Model Benchmarking",
+          "company": "xAI",
+          "secondaryCompanies": [
+            "Cursor"
+          ],
+          "importance": 3,
+          "tags": [
+            "tooling",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-08-18T21:30:31.000Z",
+          "addedOn": "2026-08-19"
+        },
+        {
+          "id": "4b2c74bb35",
+          "title": "Amazon’s drones will soon deliver to nearly 500 US cities and towns",
+          "link": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion",
+          "source": "The Verge",
+          "summary": "Amazon is expanding its Prime Air drone delivery to nearly 500 US cities and towns, a meaningful logistics product milestone that signals Amazon's infrastructure is maturing toward real-scale autonomous delivery.",
+          "topic": "Autonomous Delivery",
+          "company": "Amazon",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-08-19T11:53:27.000Z",
+          "addedOn": "2026-08-19"
+        },
+        {
+          "id": "d205738f82",
+          "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+          "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+          "source": "TechCrunch AI",
+          "summary": "Relativity Networks raised $22M to deploy hollow-core fiber in data centers, offering 30% faster data transmission speeds, which has direct implications for latency-sensitive AI inference workloads.",
+          "topic": "Data Center Infra",
+          "company": "Relativity Networks",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "infra",
+            "launch"
+          ],
+          "publishedAt": "2026-08-19T10:00:00.000Z",
+          "addedOn": "2026-08-19"
+        },
+        {
+          "id": "024315d82a",
+          "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+          "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+          "source": "The Verge",
+          "summary": "Robin Williams' family is reclaiming his Instagram account to actively fight unauthorized AI-generated use of his likeness, highlighting the growing legal and ethical pressure around AI and celebrity rights that product teams building generative AI products must navigate.",
+          "topic": "AI Ethics & IP",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-18T19:48:26.000Z",
+          "addedOn": "2026-08-19"
+        }
+      ]
+    },
     {
       "date": "2026-08-18",
       "summary": "Anthropic's annualized revenue surged to $6.5B, adding $1.8B in just two months, signaling accelerating enterprise AI adoption at the frontier. Nvidia is investing $1.5B in SoftBank's data center unit to secure chip placement for an OpenAI facility, while Groq raised $350M at a $3.5B valuation as it pivots from chips to neocloud. Stripe is reportedly acquiring OpenRouter, a move that could position it as an aggregator across the growing multi-model AI market.",
