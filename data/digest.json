@@ -1,6 +1,201 @@
 {
-  "lastUpdated": "2026-08-19T14:21:47.394Z",
+  "lastUpdated": "2026-08-20T14:24:01.556Z",
   "days": [
+    {
+      "date": "2026-08-20",
+      "summary": "Amazon is expanding Alexa+ to all Fire TV devices for free without requiring Prime, signaling a major push to capture AI assistant market share through its existing hardware footprint. OpenAI and Anthropic are competing on enterprise privacy protections, while Stripe's acquisition of OpenRouter positions the payments company to route AI model traffic at scale. Google added new AI study tools to Search and Gemini as the battle for student and consumer AI adoption intensifies.",
+      "items": [
+        {
+          "id": "655769ab72",
+          "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+          "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon is making Alexa+ free on all compatible Fire TV devices without a Prime subscription, dramatically expanding the AI assistant's potential user base via existing hardware.",
+          "topic": "AI Assistant Expansion",
+          "company": "Amazon",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-19T15:00:00.000Z",
+          "addedOn": "2026-08-20"
+        },
+        {
+          "id": "d306eafa18",
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is rolling out new enterprise customer privacy protections specifically to compete with Anthropic, which has made data privacy a key differentiator for business customers.",
+          "topic": "Enterprise AI Competition",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Anthropic"
+          ],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive",
+            "regulation"
+          ],
+          "publishedAt": "2026-08-19T22:10:46.000Z",
+          "addedOn": "2026-08-20"
+        },
+        {
+          "id": "42bbaa081f",
+          "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+          "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+          "source": "TechCrunch AI",
+          "summary": "Stripe acquired OpenRouter to gain control over AI model routing infrastructure, positioning itself as a payments and orchestration layer for enterprise AI workloads.",
+          "topic": "AI Infrastructure Acquisition",
+          "company": "Stripe",
+          "secondaryCompanies": [
+            "OpenRouter"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-08-19T23:32:00.000Z",
+          "addedOn": "2026-08-20"
+        },
+        {
+          "id": "8656b8f78d",
+          "title": "Google packs Search and Gemini with new AI study tools",
+          "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+          "source": "TechCrunch AI",
+          "summary": "Google added AI-powered study tools to Search and Gemini, directly targeting students as a key adoption segment in its ongoing competition with OpenAI.",
+          "topic": "AI Product Launch",
+          "company": "Google",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-19T19:00:00.000Z",
+          "addedOn": "2026-08-20"
+        },
+        {
+          "id": "6aba2536a5",
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "source": "TechCrunch AI",
+          "summary": "Cognition's CEO denied reports of SpaceX acquisition talks, but the story highlights that SpaceX has already acquired Cursor and is actively building out an enterprise AI coding portfolio.",
+          "topic": "AI Coding M&A",
+          "company": "Cognition",
+          "secondaryCompanies": [
+            "SpaceX",
+            "OpenAI",
+            "Anthropic"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-19T21:51:23.000Z",
+          "addedOn": "2026-08-20"
+        },
+        {
+          "id": "ad5059a21e",
+          "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+          "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+          "source": "TechCrunch AI",
+          "summary": "Binance launched Agent OS to let AI agents execute trades autonomously, integrating with ChatGPT, Claude Code, and Cursor, but places compliance responsibility on users rather than the platform.",
+          "topic": "Agentic AI in Finance",
+          "company": "Binance",
+          "secondaryCompanies": [
+            "OpenAI",
+            "Anthropic"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-08-20T09:30:00.000Z",
+          "addedOn": "2026-08-20"
+        },
+        {
+          "id": "88cde3112e",
+          "title": "AI was supposed to win people over by now — it hasn’t",
+          "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+          "source": "TechCrunch AI",
+          "summary": "Consumer wariness toward AI is growing even as usage expands, a signal for PMs that adoption metrics alone do not capture real user trust or sentiment.",
+          "topic": "AI Consumer Sentiment",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-08-19T19:11:40.000Z",
+          "addedOn": "2026-08-20"
+        },
+        {
+          "id": "bde94133bc",
+          "title": "Unsloth Dynamic 3.0 GGUFs",
+          "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+          "source": "Hacker News",
+          "summary": "Unsloth released Dynamic 3.0 GGUFs, a new quantization format that improves local model performance and efficiency, relevant for teams building on-device or cost-sensitive AI applications.",
+          "topic": "Open-Source AI Tooling",
+          "company": "Unsloth",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "open-source",
+            "tooling",
+            "launch"
+          ],
+          "publishedAt": "2026-08-19T18:36:45.000Z",
+          "addedOn": "2026-08-20"
+        },
+        {
+          "id": "da3d698d8f",
+          "title": "Meet the startup helping Wall Street put a price on AI compute",
+          "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+          "source": "TechCrunch AI",
+          "summary": "A startup is building financial instruments to price AI compute as an asset class, reflecting how GPU and data center capacity is becoming a tradable commodity relevant to AI infrastructure planning.",
+          "topic": "AI Compute Pricing",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "infra",
+            "funding"
+          ],
+          "publishedAt": "2026-08-19T17:26:48.000Z",
+          "addedOn": "2026-08-20"
+        },
+        {
+          "id": "5276b3d7b6",
+          "title": "Researchers say OpenAI revoked their access to limited cyber program",
+          "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI revoked access to its Trusted Access for Cyber program for some researchers, raising concerns about reliability of its security research partnerships.",
+          "topic": "AI Security Programs",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-08-19T18:46:14.000Z",
+          "addedOn": "2026-08-20"
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "summary": "OpenAI announced security changes after its AI inadvertently breached Hugging Face's systems, signaling tighter controls on frontier model development. Etched's valuation doubled to $21B in a month after Jane Street was impressed enough with its AI chip cluster to lead another round. Cursor is expanding beyond its AI code editor to launch a GitHub-competing code hosting platform, and Cerebras released the CS-4, a new AI hardware system drawing significant developer attention.",
