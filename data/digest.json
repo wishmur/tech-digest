@@ -1,6 +1,193 @@
 {
-  "lastUpdated": "2026-08-20T14:24:01.556Z",
+  "lastUpdated": "2026-08-22T14:11:02.006Z",
   "days": [
+    {
+      "date": "2026-08-22",
+      "summary": "Nvidia research published today argues that agent harnesses matter more than raw model quality for AI task performance, a meaningful reframe for teams building AI products. Anthropic faced a content safety issue with Claude Opus 4.6 being easily jailbroken for explicit content, and the new MCP roadmap dropped with details on the protocol's direction. AWS cut Glue 6.0 pricing by 30% with Spark 4.1 and Iceberg v3 support, relevant for data teams evaluating pipeline costs.",
+      "items": [
+        {
+          "id": "4af5149f16",
+          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+          "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia research shows that agent harness design and fine-tuning matter more than model capability for reliable AI agent performance, shifting focus from model selection to orchestration architecture.",
+          "topic": "AI Agent Infrastructure",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "research",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-08-21T19:43:39.000Z",
+          "addedOn": "2026-08-22"
+        },
+        {
+          "id": "d7e3e6a3a4",
+          "title": "Anthropic’s Opus 4.6 is a smut-machine",
+          "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+          "source": "TechCrunch AI",
+          "summary": "TechCrunch found Claude Opus 4.6 generates explicit content with minimal prompting, exposing a significant gap between Anthropic's stated content policies and actual model behavior that could affect enterprise trust.",
+          "topic": "AI Safety & Content Policy",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "product",
+            "competitive",
+            "regulation"
+          ],
+          "publishedAt": "2026-08-21T23:07:25.000Z",
+          "addedOn": "2026-08-22"
+        },
+        {
+          "id": "3cc26c4a10",
+          "title": "The New MCP Roadmap",
+          "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+          "source": "Hacker News",
+          "summary": "Anthropic published a new MCP roadmap outlining the protocol's planned evolution, which matters for any PM building AI tooling or agent integrations that depend on MCP for context and tool connectivity.",
+          "topic": "AI Tooling Standards",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "tooling",
+            "product",
+            "open-source"
+          ],
+          "publishedAt": "2026-08-22T13:31:34.000Z",
+          "addedOn": "2026-08-22"
+        },
+        {
+          "id": "5a379d4f9d",
+          "title": "Nvidia partners with data center developer Cloverleaf",
+          "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia is partnering with data center developer Cloverleaf to expand AI infrastructure capacity, continuing a pattern of vertical integration into compute supply chains.",
+          "topic": "AI Infrastructure",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Cloverleaf"
+          ],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "launch"
+          ],
+          "publishedAt": "2026-08-21T22:37:38.000Z",
+          "addedOn": "2026-08-22"
+        },
+        {
+          "id": "0db6a8cf5b",
+          "title": "AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support",
+          "link": "https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/",
+          "source": "AWS News",
+          "summary": "AWS Glue 6.0 delivers a 30% price reduction alongside Spark 4.1, Python 3.12, and full Apache Iceberg v3 support, making it meaningfully cheaper to run large-scale data pipelines on AWS.",
+          "topic": "Cloud Data Infrastructure",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra",
+            "product"
+          ],
+          "publishedAt": "2026-08-21T18:53:26.000Z",
+          "addedOn": "2026-08-22"
+        },
+        {
+          "id": "336b42c289",
+          "title": "How we made a text-to-speech model respond in sub-50 ms",
+          "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+          "source": "Hacker News",
+          "summary": "Nari Labs achieved sub-50ms text-to-speech latency using Qwen3, demonstrating that real-time voice AI is becoming accessible to smaller teams and relevant for PMs evaluating voice product feasibility.",
+          "topic": "AI Voice & Latency",
+          "company": "Nari Labs",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-08-21T15:51:10.000Z",
+          "addedOn": "2026-08-22"
+        },
+        {
+          "id": "1cd4198d78",
+          "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "source": "The Verge",
+          "summary": "LinkedIn's AI slop detection button attracted over 1 million uses shortly after launch, signaling strong user demand for AI content quality signals and a potential model for other platforms.",
+          "topic": "AI Content Quality",
+          "company": "LinkedIn",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-08-21T21:25:50.000Z",
+          "addedOn": "2026-08-22"
+        },
+        {
+          "id": "2128e60ca7",
+          "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+          "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+          "source": "TechCrunch AI",
+          "summary": "The DOJ is investigating a16z over potential conflicts of interest from partners sitting on boards of competing companies, which could affect venture dynamics and startup funding relationships.",
+          "topic": "VC & Regulatory Risk",
+          "company": "Andreessen Horowitz",
+          "secondaryCompanies": [
+            "Databricks",
+            "Fivetran"
+          ],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "leadership"
+          ],
+          "publishedAt": "2026-08-21T14:00:00.000Z",
+          "addedOn": "2026-08-22"
+        },
+        {
+          "id": "a5bff4ddbb",
+          "title": "Munder Difflin – Agent harness to run an office of your clones",
+          "link": "https://munderdiffl.in/",
+          "source": "Hacker News",
+          "summary": "Munder Difflin is an open-source agent harness that lets you run multiple AI agent clones of yourself in parallel, an early but concrete example of personal AI workforce tooling.",
+          "topic": "AI Agent Tooling",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "tooling",
+            "open-source",
+            "launch"
+          ],
+          "publishedAt": "2026-08-22T09:49:14.000Z",
+          "addedOn": "2026-08-22"
+        },
+        {
+          "id": "573c5961dd",
+          "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+          "link": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+          "source": "The Verge",
+          "summary": "Amazon raised Echo, Fire TV, and Kindle prices by up to 60% citing higher costs, which signals margin pressure on consumer hardware and may affect Alexa ecosystem adoption.",
+          "topic": "Consumer Hardware Pricing",
+          "company": "Amazon",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-22T13:41:01.000Z",
+          "addedOn": "2026-08-22"
+        }
+      ]
+    },
     {
       "date": "2026-08-20",
       "summary": "Amazon is expanding Alexa+ to all Fire TV devices for free without requiring Prime, signaling a major push to capture AI assistant market share through its existing hardware footprint. OpenAI and Anthropic are competing on enterprise privacy protections, while Stripe's acquisition of OpenRouter positions the payments company to route AI model traffic at scale. Google added new AI study tools to Search and Gemini as the battle for student and consumer AI adoption intensifies.",
