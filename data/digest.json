@@ -1,6 +1,191 @@
 {
-  "lastUpdated": "2026-08-22T14:11:02.006Z",
+  "lastUpdated": "2026-08-23T14:12:27.427Z",
   "days": [
+    {
+      "date": "2026-08-23",
+      "summary": "Inherent, a DeepMind alumni startup, claims its Faraday AI agent outperforms Anthropic and OpenAI on scientific research replication, signaling a new wave of specialized research AI competition. OpenAI reversed course on California's SB 53 AI safety bill, now supporting stronger regulation it previously opposed. A new study also found that frontier AI labs lack documented plans for containing rogue models, adding urgency to safety governance conversations.",
+      "items": [
+        {
+          "id": "f264c05767",
+          "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+          "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+          "source": "TechCrunch AI",
+          "summary": "Inherent's Faraday agent, built by DeepMind alumni, claims to outperform Anthropic and OpenAI on replicating scientific research, positioning it as a credible new entrant in the AI agent space.",
+          "topic": "AI Agent Research Benchmark",
+          "company": "Inherent",
+          "secondaryCompanies": [
+            "DeepMind",
+            "Anthropic",
+            "OpenAI"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "competitive",
+            "research"
+          ],
+          "publishedAt": "2026-08-22T19:00:00.000Z",
+          "addedOn": "2026-08-23"
+        },
+        {
+          "id": "39119bad22",
+          "title": "OpenAI says California should strengthen its AI safety bill",
+          "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI reversed its stance on California's SB 53 AI safety bill and is now calling for it to be strengthened, a notable policy shift that could influence how labs are regulated.",
+          "topic": "AI Regulation",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-22T16:30:34.000Z",
+          "addedOn": "2026-08-23"
+        },
+        {
+          "id": "796f7a9c48",
+          "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+          "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+          "source": "TechCrunch AI",
+          "summary": "A new study finds that leading AI labs have few publicly documented plans for containing rogue models, raising preparedness concerns as AI systems grow more capable.",
+          "topic": "AI Safety Governance",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Anthropic",
+            "Google DeepMind"
+          ],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "research"
+          ],
+          "publishedAt": "2026-08-22T16:00:00.000Z",
+          "addedOn": "2026-08-23"
+        },
+        {
+          "id": "0c17f8df02",
+          "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+          "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+          "source": "Hacker News",
+          "summary": "Qwen 3.8 27B completed a real-world reverse-engineering task in 30 minutes, demonstrating that open-weight models are approaching frontier-level performance on practical engineering tasks.",
+          "topic": "Open-Source LLM Capability",
+          "company": "Alibaba",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "open-source",
+            "research",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-23T10:02:51.000Z",
+          "addedOn": "2026-08-23"
+        },
+        {
+          "id": "54728fe029",
+          "title": "Why your local LLM feels dumber than it is",
+          "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News",
+          "summary": "A widely read explainer on why local LLMs underperform their potential highlights configuration and inference issues PMs and developers should understand when evaluating on-device AI deployments.",
+          "topic": "Local LLM Optimization",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-08-22T18:14:16.000Z",
+          "addedOn": "2026-08-23"
+        },
+        {
+          "id": "ddfc099d82",
+          "title": "NanoGPT Speedrun Frontier",
+          "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+          "source": "Hacker News",
+          "summary": "PrimeIntellect published a NanoGPT speedrun frontier benchmark, offering a concrete, reproducible measure of training efficiency improvements that AI infra teams can track.",
+          "topic": "AI Training Benchmarks",
+          "company": "PrimeIntellect",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "infra"
+          ],
+          "publishedAt": "2026-08-22T22:14:27.000Z",
+          "addedOn": "2026-08-23"
+        },
+        {
+          "id": "4d36c9ba20",
+          "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
+          "link": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny's Newsletter publishes a detailed step-by-step guide to closing $100K+ enterprise deals, directly relevant for PMs involved in go-to-market or moving products upmarket.",
+          "topic": "Enterprise Sales for Product Teams",
+          "company": "Lenny's Newsletter",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product"
+          ],
+          "publishedAt": "2026-08-23T12:31:43.000Z",
+          "addedOn": "2026-08-23"
+        },
+        {
+          "id": "3ba2b6f252",
+          "title": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny's community surfaces practical PM insights on AI's impact on hiring and how to prioritize when joining a new company, useful signals for product leaders navigating current market shifts.",
+          "topic": "Product Management Trends",
+          "company": "Lenny's Newsletter",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-08-22T19:23:07.000Z",
+          "addedOn": "2026-08-23"
+        },
+        {
+          "id": "7576b863e8",
+          "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+          "link": "https://marcua.net/minitools/figmimic/",
+          "source": "Hacker News",
+          "summary": "Figmimic is a new bookmarklet that copies any webpage into Figma as editable layers, giving designers and PMs a fast way to pull live UI into their design workflow.",
+          "topic": "Design Tooling",
+          "company": "",
+          "secondaryCompanies": [
+            "Figma"
+          ],
+          "importance": 2,
+          "tags": [
+            "tooling",
+            "launch"
+          ],
+          "publishedAt": "2026-08-22T18:11:40.000Z",
+          "addedOn": "2026-08-23"
+        },
+        {
+          "id": "cb94026247",
+          "title": "Iranian hackers shut down UK power plant for 4 days",
+          "link": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+          "source": "Hacker News",
+          "summary": "Iranian hackers reportedly shut down a UK power plant for four days, underscoring escalating nation-state cyber threats to critical infrastructure that product and security teams in regulated sectors must track.",
+          "topic": "Critical Infrastructure Cybersecurity",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation"
+          ],
+          "publishedAt": "2026-08-23T10:03:01.000Z",
+          "addedOn": "2026-08-23"
+        }
+      ]
+    },
     {
       "date": "2026-08-22",
       "summary": "Nvidia research published today argues that agent harnesses matter more than raw model quality for AI task performance, a meaningful reframe for teams building AI products. Anthropic faced a content safety issue with Claude Opus 4.6 being easily jailbroken for explicit content, and the new MCP roadmap dropped with details on the protocol's direction. AWS cut Glue 6.0 pricing by 30% with Spark 4.1 and Iceberg v3 support, relevant for data teams evaluating pipeline costs.",
