@@ -1,6 +1,194 @@
 {
-  "lastUpdated": "2026-08-24T14:30:18.106Z",
+  "lastUpdated": "2026-08-26T14:33:17.235Z",
   "days": [
+    {
+      "date": "2026-08-26",
+      "summary": "AWS acquired DuckDB via its parent DuckLabs, making a significant move to embed the fast analytics engine into its cloud data stack. OpenAI's custom Jalapeño inference chip outperforms current state-of-the-art on throughput and tokens-per-user benchmarks, signaling a serious shift away from NVIDIA dependency. Anthropic shipped persistent memory across Claude and Cowork, a practical product improvement that reduces friction for regular users, while Z.ai confirmed it built the mystery benchmark-topping Ox Alpha model and will open-source its weights.",
+      "items": [
+        {
+          "id": "e8e6c47e03",
+          "title": "AWS Acquires DuckDB",
+          "link": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+          "source": "Hacker News",
+          "summary": "AWS acquiring DuckDB's parent DuckLabs embeds a widely used fast analytical query engine directly into the AWS ecosystem, which will reshape how data teams build on AWS and could pressure competing cloud data warehouses.",
+          "topic": "AWS Acquires DuckDB",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "DuckDB",
+            "DuckLabs"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-26T12:59:26.000Z",
+          "addedOn": "2026-08-26"
+        },
+        {
+          "id": "6017c27dc6",
+          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+          "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's Jalapeño custom inference chip shows better tokens-per-user and throughput-per-kilowatt than current best-in-class hardware, indicating OpenAI is building serious silicon independence from NVIDIA.",
+          "topic": "OpenAI Custom Inference Chip",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "NVIDIA",
+            "SemiAnalysis"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-25T14:22:04.000Z",
+          "addedOn": "2026-08-26"
+        },
+        {
+          "id": "c315b9a7b9",
+          "title": "Claude Cowork finally remembers what you told the app in chat",
+          "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic added shared persistent memory between Claude chat and Cowork, removing a major usability friction point and making Claude more competitive with memory-enabled rivals for repeat users.",
+          "topic": "Claude Persistent Memory",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-08-25T17:50:33.000Z",
+          "addedOn": "2026-08-26"
+        },
+        {
+          "id": "f3d6254f85",
+          "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+          "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+          "source": "TechCrunch AI",
+          "summary": "Z.ai confirmed it built Ox Alpha, which has been topping public AI benchmarks, and plans to release model weights openly, adding a new competitive Chinese open-source model to the frontier landscape.",
+          "topic": "Z.ai Ox Alpha Open-Source Model",
+          "company": "Z.ai",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "open-source",
+            "competitive",
+            "launch"
+          ],
+          "publishedAt": "2026-08-26T14:19:29.000Z",
+          "addedOn": "2026-08-26"
+        },
+        {
+          "id": "1a30f91284",
+          "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "link": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Hacker News",
+          "summary": "Alibaba's Qwen team released a new architecture for Qwen3.8-Flash-Next targeting maximum cost-efficiency, which PMs should track as low-cost capable models continue to compress inference margins across the industry.",
+          "topic": "Qwen3.8-Flash-Next Architecture",
+          "company": "Alibaba",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "open-source",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-26T12:52:12.000Z",
+          "addedOn": "2026-08-26"
+        },
+        {
+          "id": "93a87e369c",
+          "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+          "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's head of product discusses the company's agent UX strategy and organizational structure under Greg Brockman, giving PMs a window into how OpenAI is thinking about product direction for agentic experiences.",
+          "topic": "OpenAI Product Strategy and Agents",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-08-25T12:00:00.000Z",
+          "addedOn": "2026-08-26"
+        },
+        {
+          "id": "8c02d9ad51",
+          "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+          "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's data center lead departed amid an infrastructure reorg, continuing a pattern of high-profile exits that could slow its ability to scale compute at the pace its roadmap requires.",
+          "topic": "OpenAI Leadership Departure",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "leadership"
+          ],
+          "publishedAt": "2026-08-26T00:06:20.000Z",
+          "addedOn": "2026-08-26"
+        },
+        {
+          "id": "dc94e6cb2a",
+          "title": "Happy 20th Birthday, Amazon EC2",
+          "link": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/",
+          "source": "AWS News",
+          "summary": "AWS is marking EC2's 20th anniversary, a useful reference point for PMs to understand the scope of AWS's custom silicon and cloud compute evolution that underpins modern AI infrastructure.",
+          "topic": "Amazon EC2 20th Anniversary",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra"
+          ],
+          "publishedAt": "2026-08-25T16:11:02.000Z",
+          "addedOn": "2026-08-26"
+        },
+        {
+          "id": "5d321e71ab",
+          "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+          "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+          "source": "TechCrunch AI",
+          "summary": "Stability AI raised $76 million, bringing its total to $232 million, suggesting renewed investor confidence in the open-source image generation space despite the company's past financial difficulties.",
+          "topic": "Stability AI Funding",
+          "company": "Stability AI",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "open-source"
+          ],
+          "publishedAt": "2026-08-25T19:03:47.000Z",
+          "addedOn": "2026-08-26"
+        },
+        {
+          "id": "26bfb8eb61",
+          "title": "Arga Labs is building a better way to train enterprise AI agents",
+          "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Arga Labs raised $10 million from General Catalyst and others to improve enterprise AI agent training workflows, targeting a known pain point PMs face when deploying and iterating on production agents.",
+          "topic": "Enterprise AI Agent Training Tooling",
+          "company": "Arga Labs",
+          "secondaryCompanies": [
+            "General Catalyst",
+            "Emergence"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-08-26T12:55:28.000Z",
+          "addedOn": "2026-08-26"
+        }
+      ]
+    },
     {
       "date": "2026-08-24",
       "summary": "Hugging Face is reportedly fielding acquisition offers at a $13B valuation, which would be a landmark deal for the open-source AI ecosystem and signal continued consolidation pressure in the space. A solo founder's account of spending $20,000 on Devin AI agents in a month offers a rare, concrete look at the real-world economics and workflows of agentic AI coding tools. Copyright liability for training AI on books remains legally unresolved, a risk that continues to hang over every major AI lab.",
