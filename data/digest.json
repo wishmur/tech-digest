@@ -1,6 +1,193 @@
 {
-  "lastUpdated": "2026-08-26T14:33:17.235Z",
+  "lastUpdated": "2026-08-27T23:18:32.646Z",
   "days": [
+    {
+      "date": "2026-08-27",
+      "summary": "Nvidia is reportedly acquiring Hugging Face for $12.9 billion, a deal that would reshape the open-source AI ecosystem and extend Nvidia's reach beyond chips into cloud and developer platforms. Amazon tripled its Nvidia GPU order to 2 million chips over two years, signaling sustained infrastructure demand. Google launched Gemini Omni 1.1 Flash and Gemini 3.5 Transcribe as new model releases, while OpenAI began testing ads in ChatGPT's free and lower-cost tiers in India, pointing to a new monetization path for the company.",
+      "items": [
+        {
+          "id": "7a131e1055",
+          "title": "Nvidia closes in on Hugging Face acquisition",
+          "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia has reportedly agreed to acquire Hugging Face for $12.9 billion, which would give Nvidia control of the dominant open-source AI model hub and a re-entry into cloud services, significantly shifting the AI infrastructure landscape.",
+          "topic": "Acquisition",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Hugging Face"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "competitive",
+            "infra"
+          ],
+          "publishedAt": "2026-08-27T06:32:51.000Z",
+          "addedOn": "2026-08-27"
+        },
+        {
+          "id": "18acc42de8",
+          "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+          "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon tripled its Nvidia GPU order to 2 million chips for delivery over two years, reflecting surging enterprise and cloud demand and deepening the AWS-Nvidia partnership beyond chip procurement.",
+          "topic": "AI Infrastructure",
+          "company": "Amazon",
+          "secondaryCompanies": [
+            "NVIDIA"
+          ],
+          "importance": 5,
+          "tags": [
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-26T23:47:18.000Z",
+          "addedOn": "2026-08-27"
+        },
+        {
+          "id": "0a654e06b3",
+          "title": "Gemini Omni 1.1 Flash",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+          "source": "Hacker News",
+          "summary": "Google launched Gemini Omni 1.1 Flash, a new multimodal model update that is drawing significant developer attention and strengthens Google's competitive position in the fast and affordable model tier.",
+          "topic": "AI Model Launch",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-08-27T17:06:32.000Z",
+          "addedOn": "2026-08-27"
+        },
+        {
+          "id": "23fd80ee52",
+          "title": "Gemini-3.5-Transcribe",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+          "source": "Hacker News",
+          "summary": "Google released Gemini 3.5 Transcribe, a dedicated speech-to-text model, expanding its Gemini model family and entering more direct competition with OpenAI Whisper and specialized transcription services.",
+          "topic": "AI Model Launch",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-27T18:03:42.000Z",
+          "addedOn": "2026-08-27"
+        },
+        {
+          "id": "e8aad19178",
+          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+          "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic signed a $45 billion compute deal with Nscale, continuing a pattern of massive infrastructure commitments that signal how aggressively Anthropic is scaling model training capacity.",
+          "topic": "AI Infrastructure",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Nscale"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "infra"
+          ],
+          "publishedAt": "2026-08-26T21:37:39.000Z",
+          "addedOn": "2026-08-27"
+        },
+        {
+          "id": "9f21c491f2",
+          "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+          "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is introducing ads on ChatGPT's free and Go tiers in India, where it has over 100 million weekly users, marking a significant shift in its monetization strategy for high-volume, lower-paying markets.",
+          "topic": "Product Monetization",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-08-27T11:35:59.000Z",
+          "addedOn": "2026-08-27"
+        },
+        {
+          "id": "2c87232a51",
+          "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+          "link": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+          "source": "NVIDIA Blog",
+          "summary": "Nvidia's Vera CPU, its first processor designed specifically for agentic AI workloads, has begun shipping at scale, giving the company a new hardware product beyond GPUs targeting the agent infrastructure market.",
+          "topic": "AI Hardware",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra"
+          ],
+          "publishedAt": "2026-08-27T13:00:17.000Z",
+          "addedOn": "2026-08-27"
+        },
+        {
+          "id": "a88aee5f66",
+          "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+          "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+          "source": "TechCrunch AI",
+          "summary": "Google's AI Mode now supports flight price tracking and hotel booking, moving it from a search assistant toward an active travel agent, which signals Google's intent to own transactional AI use cases.",
+          "topic": "AI Product",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-08-27T16:00:00.000Z",
+          "addedOn": "2026-08-27"
+        },
+        {
+          "id": "dff9dc0737",
+          "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+          "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "Instinct, a one-year-old AI startup, raised $350 million at a $2.5 billion valuation despite active privacy concerns, reflecting continued investor appetite for consumer AI products with viral growth.",
+          "topic": "AI Funding",
+          "company": "Instinct",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "product"
+          ],
+          "publishedAt": "2026-08-27T00:24:57.000Z",
+          "addedOn": "2026-08-27"
+        },
+        {
+          "id": "360e66b5f8",
+          "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+          "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+          "source": "TechCrunch AI",
+          "summary": "Barret Zoph, co-founder and CTO of Mira Murati's Thinking Machines Lab and a brief OpenAI executive, has joined Google, continuing a pattern of high-profile AI talent movement between frontier labs.",
+          "topic": "Leadership",
+          "company": "Google",
+          "secondaryCompanies": [
+            "OpenAI",
+            "Thinking Machines Lab"
+          ],
+          "importance": 3,
+          "tags": [
+            "leadership",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-27T19:52:52.000Z",
+          "addedOn": "2026-08-27"
+        }
+      ]
+    },
     {
       "date": "2026-08-26",
       "summary": "AWS acquired DuckDB via its parent DuckLabs, making a significant move to embed the fast analytics engine into its cloud data stack. OpenAI's custom Jalapeño inference chip outperforms current state-of-the-art on throughput and tokens-per-user benchmarks, signaling a serious shift away from NVIDIA dependency. Anthropic shipped persistent memory across Claude and Cowork, a practical product improvement that reduces friction for regular users, while Z.ai confirmed it built the mystery benchmark-topping Ox Alpha model and will open-source its weights.",
