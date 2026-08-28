@@ -1,6 +1,193 @@
 {
-  "lastUpdated": "2026-08-27T23:18:32.646Z",
+  "lastUpdated": "2026-08-28T23:15:34.131Z",
   "days": [
+    {
+      "date": "2026-08-28",
+      "summary": "Lambda secured $1B in debt financing to purchase Nvidia chips for lease to Microsoft, highlighting the ongoing capital intensity of AI infrastructure. Anthropic scored a court win against the Pentagon's supply-chain blacklisting, while an Anthropic researcher demonstrated a self-improving AI system that improved alignment benchmarks without degrading overall performance. GLM-5.3 going open-weight adds to competitive pressure in the open-weight model space, which is increasingly attracting acquisition interest from major players.",
+      "items": [
+        {
+          "id": "f88a0fcca7",
+          "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+          "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+          "source": "TechCrunch AI",
+          "summary": "Lambda raised $1B in debt to buy Nvidia chips and lease them to Microsoft, showing the enormous capital requirements for AI infrastructure buildout.",
+          "topic": "AI Infrastructure Financing",
+          "company": "Lambda",
+          "secondaryCompanies": [
+            "NVIDIA",
+            "Microsoft"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "infra"
+          ],
+          "publishedAt": "2026-08-28T20:24:11.000Z",
+          "addedOn": "2026-08-28"
+        },
+        {
+          "id": "24c26e96ef",
+          "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+          "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+          "source": "TechCrunch AI",
+          "summary": "An Anthropic researcher showed an automated self-improving AI system that improved alignment on 10 misalignment benchmarks simultaneously without hurting overall model performance, a meaningful step toward autonomous AI improvement.",
+          "topic": "Self-Improving AI Research",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-08-28T19:30:38.000Z",
+          "addedOn": "2026-08-28"
+        },
+        {
+          "id": "f019f50bce",
+          "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+          "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+          "source": "TechCrunch AI",
+          "summary": "Open-weight AI companies are becoming prime acquisition targets as large amounts of capital flow into the open-source model ecosystem, signaling a strategic shift in how incumbents plan to compete.",
+          "topic": "Open-Weight AI M&A Trends",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "open-source",
+            "funding"
+          ],
+          "publishedAt": "2026-08-28T18:19:40.000Z",
+          "addedOn": "2026-08-28"
+        },
+        {
+          "id": "0a012eb512",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+          "source": "TechCrunch AI",
+          "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, reducing regulatory overhang for the company as it continues a second related lawsuit.",
+          "topic": "AI Regulation and Legal",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-28T12:46:12.000Z",
+          "addedOn": "2026-08-28"
+        },
+        {
+          "id": "354d791d28",
+          "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+          "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+          "source": "TechCrunch AI",
+          "summary": "A senior Meta executive is joining OpenAI to lead operations across Southeast Asia and Australia, pointing to OpenAI's continued geographic and talent expansion.",
+          "topic": "Executive Talent Movement",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Meta"
+          ],
+          "importance": 3,
+          "tags": [
+            "leadership",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-28T12:21:06.000Z",
+          "addedOn": "2026-08-28"
+        },
+        {
+          "id": "be41cf18f6",
+          "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+          "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI, Anthropic, Google, and over 100 companies jointly called for coordinated action against AI-enabled cybersecurity threats, signaling industry-wide concern about rogue AI attacks and a push for shared defensive standards.",
+          "topic": "AI Security Coalition",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Anthropic",
+            "Google"
+          ],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-27T17:43:24.000Z",
+          "addedOn": "2026-08-28"
+        },
+        {
+          "id": "7f31a50ace",
+          "title": "Google further buries search results under AI mode",
+          "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+          "source": "The Verge",
+          "summary": "Google is automatically expanding AI search summaries for more queries, further pushing traditional organic results down the page and intensifying pressure on publishers and SEO-dependent product discovery.",
+          "topic": "Google AI Search Product Change",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-28T22:48:11.000Z",
+          "addedOn": "2026-08-28"
+        },
+        {
+          "id": "666e9301b7",
+          "title": "GLM-5.3 is now open-weight",
+          "link": "https://huggingface.co/zai-org/GLM-5.3",
+          "source": "Hacker News",
+          "summary": "GLM-5.3 from Zhipu AI (z.ai) is now available as an open-weight model, adding another capable open-weight option to a market already driving acquisition interest and competitive pressure on proprietary model providers.",
+          "topic": "Open-Weight Model Launch",
+          "company": "Zhipu AI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "open-source",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-28T15:20:13.000Z",
+          "addedOn": "2026-08-28"
+        },
+        {
+          "id": "6df4843f35",
+          "title": "AI’s memory crunch is coming for Android apps",
+          "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+          "source": "TechCrunch AI",
+          "summary": "Google is tightening Android app memory limits partly due to AI data center-driven hardware shortages, which could constrain on-device AI features on lower-cost Android devices and affect product decisions for Android developers.",
+          "topic": "Android Memory Constraints from AI",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-08-27T14:27:04.000Z",
+          "addedOn": "2026-08-28"
+        },
+        {
+          "id": "5039ffbfd0",
+          "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+          "link": "https://arxiv.org/abs/2608.23691",
+          "source": "Hacker News",
+          "summary": "A new paper demonstrates autonomous mathematical discovery using a multi-agent AI system in an open-world environment, representing a credible advance in AI-driven research automation relevant to understanding frontier AI capabilities.",
+          "topic": "Multi-Agent AI Research",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-08-28T17:01:12.000Z",
+          "addedOn": "2026-08-28"
+        }
+      ]
+    },
     {
       "date": "2026-08-27",
       "summary": "Nvidia is reportedly acquiring Hugging Face for $12.9 billion, a deal that would reshape the open-source AI ecosystem and extend Nvidia's reach beyond chips into cloud and developer platforms. Amazon tripled its Nvidia GPU order to 2 million chips over two years, signaling sustained infrastructure demand. Google launched Gemini Omni 1.1 Flash and Gemini 3.5 Transcribe as new model releases, while OpenAI began testing ads in ChatGPT's free and lower-cost tiers in India, pointing to a new monetization path for the company.",
