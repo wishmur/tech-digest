@@ -1,6 +1,193 @@
 {
-  "lastUpdated": "2026-08-28T23:15:34.131Z",
+  "lastUpdated": "2026-08-29T17:26:30.437Z",
   "days": [
+    {
+      "date": "2026-08-29",
+      "summary": "OpenAI has issued a statement on Cursor following its acquisition by SpaceX, signaling a major shift in the AI developer tooling landscape that PMs should watch closely. Nvidia continues to extend its AI infrastructure advantage beyond GPUs into smarter data center networking and traffic control. Debian's vote to allow responsible generative AI use marks a meaningful policy shift in the open-source community.",
+      "items": [
+        {
+          "id": "4ca22bea27",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+          "source": "Hacker News",
+          "summary": "OpenAI published a response to Cursor's acquisition by SpaceX, which will shape how one of the most widely used AI coding tools evolves and whether it remains OpenAI-model-dependent going forward.",
+          "topic": "AI Tooling Acquisition",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "SpaceX",
+            "Anysphere"
+          ],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-08-29T01:47:53.000Z",
+          "addedOn": "2026-08-29"
+        },
+        {
+          "id": "e277e4a461",
+          "title": "Nvidia’s AI advantage is moving beyond the GPU",
+          "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia is expanding its AI infrastructure moat by improving data center efficiency through smarter interconnect and traffic control systems, not just selling more GPUs, making it harder for competitors to close the gap.",
+          "topic": "AI Infrastructure",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-08-29T13:00:00.000Z",
+          "addedOn": "2026-08-29"
+        },
+        {
+          "id": "9b3181b6e6",
+          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "link": "https://lwn.net/Articles/1091231/",
+          "source": "Hacker News",
+          "summary": "Debian, one of the most influential Linux distributions, voted to formally allow responsible use of generative AI in its project, setting a precedent for open-source communities navigating AI policy.",
+          "topic": "Open Source AI Policy",
+          "company": "Debian",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "open-source",
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-08-29T14:02:10.000Z",
+          "addedOn": "2026-08-29"
+        },
+        {
+          "id": "6710ea6e51",
+          "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+          "link": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+          "source": "The Verge",
+          "summary": "Nvidia's DLSS 5 has leaked and modders are already applying its AI upscaling to games not officially supported, demonstrating both the demand for and portability of Nvidia's AI rendering technology.",
+          "topic": "AI-Powered Graphics",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-28T16:22:16.000Z",
+          "addedOn": "2026-08-29"
+        },
+        {
+          "id": "9776ad678f",
+          "title": "Samsung's Processing-in-Memory (PIM)",
+          "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+          "source": "Hacker News",
+          "summary": "Samsung's Processing-in-Memory architecture, presented at Hot Chips 2026, is a credible long-term challenge to the GPU-dominated AI compute stack and relevant to anyone tracking AI hardware alternatives.",
+          "topic": "AI Hardware",
+          "company": "Samsung",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "research",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-29T06:06:51.000Z",
+          "addedOn": "2026-08-29"
+        },
+        {
+          "id": "2180dceb28",
+          "title": "Trump’s EPA wants to let data centers hide their air pollution",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+          "source": "The Verge",
+          "summary": "The EPA is moving to reduce public comment requirements for data center air pollution permits, which will affect how quickly hyperscalers can build out AI infrastructure and how much community opposition they face.",
+          "topic": "AI Infrastructure Regulation",
+          "company": "EPA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "infra"
+          ],
+          "publishedAt": "2026-08-28T16:28:40.000Z",
+          "addedOn": "2026-08-29"
+        },
+        {
+          "id": "c4beb1b3e3",
+          "title": "I accidentally turned LLM memory into program analysis",
+          "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
+          "source": "Hacker News",
+          "summary": "A developer discovered that LLM memory mechanisms can be repurposed for program analysis, a novel finding with implications for AI-assisted security tooling and code intelligence products.",
+          "topic": "AI Research Application",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "research",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-08-28T23:27:45.000Z",
+          "addedOn": "2026-08-29"
+        },
+        {
+          "id": "e5deaa55f6",
+          "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+          "link": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+          "source": "The Verge",
+          "summary": "Xbox CEO Asha Sharma clarified that Project Helix is a family of devices rather than a single next-gen console, signaling Microsoft is pursuing a broader hardware platform strategy with potential AI integration implications.",
+          "topic": "Product Strategy",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-08-28T22:03:13.000Z",
+          "addedOn": "2026-08-29"
+        },
+        {
+          "id": "248d385950",
+          "title": "Musicians-turned-detectives are hunting for AI grifters",
+          "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+          "source": "The Verge",
+          "summary": "Musicians are actively organizing to identify and expose AI-generated music flooding streaming platforms, creating reputational and moderation challenges for audio AI product teams.",
+          "topic": "AI Content Integrity",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "product",
+            "competitive",
+            "regulation"
+          ],
+          "publishedAt": "2026-08-29T12:00:00.000Z",
+          "addedOn": "2026-08-29"
+        },
+        {
+          "id": "3b2887a66a",
+          "title": "StemDeck, a free, open-source and local AI stem separator",
+          "link": "https://github.com/stemdeckapp/stemdeck",
+          "source": "Hacker News",
+          "summary": "StemDeck is a free, open-source, locally-run AI audio stem separator, raising the bar for what users expect from commercial audio AI tools in terms of privacy and cost.",
+          "topic": "Open Source AI Tooling",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "open-source",
+            "tooling",
+            "launch"
+          ],
+          "publishedAt": "2026-08-29T01:24:13.000Z",
+          "addedOn": "2026-08-29"
+        }
+      ]
+    },
     {
       "date": "2026-08-28",
       "summary": "Lambda secured $1B in debt financing to purchase Nvidia chips for lease to Microsoft, highlighting the ongoing capital intensity of AI infrastructure. Anthropic scored a court win against the Pentagon's supply-chain blacklisting, while an Anthropic researcher demonstrated a self-improving AI system that improved alignment benchmarks without degrading overall performance. GLM-5.3 going open-weight adds to competitive pressure in the open-weight model space, which is increasingly attracting acquisition interest from major players.",
