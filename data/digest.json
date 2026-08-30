@@ -1,6 +1,185 @@
 {
-  "lastUpdated": "2026-08-29T17:26:30.437Z",
+  "lastUpdated": "2026-08-30T17:49:16.444Z",
   "days": [
+    {
+      "date": "2026-08-30",
+      "summary": "Sony Music and Warner Chappell have filed a broad copyright lawsuit against Anthropic alleging mass unlicensed use of song lyrics, adding significant legal pressure to the AI company's training data practices. OpenAI's product lead for Codex and ChatGPT Work outlines a strategic vision for persistent AI coworkers, offering direct signal on where OpenAI is taking its product roadmap. A privacy and trust issue emerged around Claude Code appending session URLs to commit messages by default, which warrants attention for teams using AI coding tools.",
+      "items": [
+        {
+          "id": "0d18d5472b",
+          "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+          "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+          "source": "TechCrunch AI",
+          "summary": "Sony Music Publishing and Warner Chappell sued Anthropic for alleged large-scale copyright infringement of song lyrics, broadening the legal risk profile for AI training data practices across the industry.",
+          "topic": "AI Copyright Litigation",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Sony Music",
+            "Warner Chappell"
+          ],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-29T18:41:59.000Z",
+          "addedOn": "2026-08-30"
+        },
+        {
+          "id": "40640a05d5",
+          "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
+          "link": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+          "source": "Lenny's Newsletter",
+          "summary": "OpenAI's product lead for Codex and ChatGPT Work shares the internal framing that persistent AI coworkers are the next product era, giving PMs a direct window into OpenAI's roadmap priorities and hiring signals.",
+          "topic": "AI Product Strategy",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-08-30T12:31:30.000Z",
+          "addedOn": "2026-08-30"
+        },
+        {
+          "id": "c3ea29b4e6",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "link": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "Hacker News",
+          "summary": "Claude Code was discovered to be appending Anthropic session URLs to git commit messages and PR descriptions by default, raising data privacy and professional trust concerns for enterprise users of the coding tool.",
+          "topic": "AI Tooling Bug / Privacy",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-08-30T12:50:54.000Z",
+          "addedOn": "2026-08-30"
+        },
+        {
+          "id": "b621bcbbd9",
+          "title": "China’s robots race ahead",
+          "link": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+          "source": "The Verge",
+          "summary": "China's humanoid robot industry is advancing rapidly with public competitions and increasing investment, signaling a competitive frontier that will affect hardware and AI infrastructure players globally.",
+          "topic": "Humanoid Robotics",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "research"
+          ],
+          "publishedAt": "2026-08-30T12:00:00.000Z",
+          "addedOn": "2026-08-30"
+        },
+        {
+          "id": "c30b088086",
+          "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+          "link": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+          "source": "Hacker News",
+          "summary": "The European Commission's ProtectEU strategy is reviving proposals for encryption backdoors, which would materially affect how AI products handle data security and compliance in European markets.",
+          "topic": "Encryption Regulation",
+          "company": "European Commission",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation"
+          ],
+          "publishedAt": "2026-08-30T15:12:40.000Z",
+          "addedOn": "2026-08-30"
+        },
+        {
+          "id": "619cf37e65",
+          "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+          "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+          "source": "TechCrunch AI",
+          "summary": "Former a16z biotech lead Vijay Pande is running a smaller, AI-native fund focused on biology, indicating where experienced investors see the most durable AI application value and signaling funding trends for AI bio startups.",
+          "topic": "AI Venture Funding",
+          "company": "VZVC",
+          "secondaryCompanies": [
+            "a16z"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding"
+          ],
+          "publishedAt": "2026-08-29T17:36:47.000Z",
+          "addedOn": "2026-08-30"
+        },
+        {
+          "id": "e4de3653e6",
+          "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+          "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+          "source": "TechCrunch AI",
+          "summary": "Caterpillar is applying its decades of autonomous machine deployment in mining to accelerate enterprise AI rollout, offering a practical case study on scaling AI in operational environments.",
+          "topic": "Enterprise AI Deployment",
+          "company": "Caterpillar",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-08-30T15:00:00.000Z",
+          "addedOn": "2026-08-30"
+        },
+        {
+          "id": "45cb6f1654",
+          "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+          "source": "The Verge",
+          "summary": "Texas Governor Abbott froze state spending on Flock's AI surveillance cameras amid growing backlash, a concrete example of government pushback on AI-powered public surveillance that PMs in this space must track.",
+          "topic": "AI Surveillance Regulation",
+          "company": "Flock Safety",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation"
+          ],
+          "publishedAt": "2026-08-30T15:35:10.000Z",
+          "addedOn": "2026-08-30"
+        },
+        {
+          "id": "4c227db63c",
+          "title": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B2B SaaS, a year of job hunting, and more",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-building-without",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny's community surfaces recurring PM challenges including building without clear requirements and pricing fast-moving B2B SaaS, offering practical peer benchmarks relevant to product teams today.",
+          "topic": "Product Management Practice",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 2,
+          "tags": [
+            "product"
+          ],
+          "publishedAt": "2026-08-29T18:59:48.000Z",
+          "addedOn": "2026-08-30"
+        },
+        {
+          "id": "3f6bab34d6",
+          "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+          "source": "The Verge",
+          "summary": "A duplicate of headline 1 covering the same Sony and Warner lawsuit against Anthropic, confirming broad media coverage of the copyright claims and their significance to the AI industry.",
+          "topic": "AI Copyright Litigation",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Sony Music",
+            "Warner Chappell"
+          ],
+          "importance": 2,
+          "tags": [
+            "regulation"
+          ],
+          "publishedAt": "2026-08-29T18:19:53.000Z",
+          "addedOn": "2026-08-30"
+        }
+      ]
+    },
     {
       "date": "2026-08-29",
       "summary": "OpenAI has issued a statement on Cursor following its acquisition by SpaceX, signaling a major shift in the AI developer tooling landscape that PMs should watch closely. Nvidia continues to extend its AI infrastructure advantage beyond GPUs into smarter data center networking and traffic control. Debian's vote to allow responsible generative AI use marks a meaningful policy shift in the open-source community.",
