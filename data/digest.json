@@ -1,6 +1,192 @@
 {
-  "lastUpdated": "2026-08-30T17:49:16.444Z",
+  "lastUpdated": "2026-08-31T19:44:03.436Z",
   "days": [
+    {
+      "date": "2026-08-31",
+      "summary": "AWS is acquiring DuckLabs, the company behind the popular open-source analytical database DuckDB, marking a significant infrastructure move for AWS. Nvidia is deepening its chip strategy with a $3.5B investment in MediaTek to maintain relevance as Big Tech builds proprietary AI chips. OpenAI faces tightened EU regulation on ChatGPT covering minors, mental health, and illegal content, while a PM-focused podcast details how Claude is handling 70-80% of daily PM workload, reflecting a shift in how product teams are adopting AI tools.",
+      "items": [
+        {
+          "id": "ad299a613e",
+          "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
+          "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/",
+          "source": "AWS News",
+          "summary": "AWS acquiring DuckLabs brings the team behind DuckDB in-house, signaling a major bet on in-process analytical query infrastructure that could shape AWS data services.",
+          "topic": "AWS Acquisition of DuckLabs",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "DuckLabs"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "infra"
+          ],
+          "publishedAt": "2026-08-31T14:45:25.000Z",
+          "addedOn": "2026-08-31"
+        },
+        {
+          "id": "70a6777661",
+          "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+          "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia's $3.5B stake in MediaTek is a strategic move to stay embedded in AI chip supply chains as hyperscalers like Google, Amazon, and Meta develop their own silicon.",
+          "topic": "Nvidia Investment in MediaTek",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "MediaTek"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "competitive",
+            "infra"
+          ],
+          "publishedAt": "2026-08-31T15:15:25.000Z",
+          "addedOn": "2026-08-31"
+        },
+        {
+          "id": "8178888de7",
+          "title": "ChatGPT to face tougher regulation in the EU",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+          "source": "The Verge",
+          "summary": "ChatGPT is now classified under the EU AI Act's high-risk or GPAI category, requiring OpenAI to actively mitigate risks to minors, mental health, and illegal content spread across the EU.",
+          "topic": "EU Regulation of ChatGPT",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-08-31T13:27:36.000Z",
+          "addedOn": "2026-08-31"
+        },
+        {
+          "id": "e67735379c",
+          "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
+          "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+          "source": "Lenny's Newsletter",
+          "summary": "A PM shares that Claude handles 70-80% of his workday through a structured Notion, Slack, and email integration, offering a practical benchmark for AI-augmented product management workflows.",
+          "topic": "AI-Augmented PM Workflow with Claude",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-08-31T15:01:58.000Z",
+          "addedOn": "2026-08-31"
+        },
+        {
+          "id": "b352e3009c",
+          "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
+          "link": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+          "source": "Lenny's Newsletter",
+          "summary": "A detailed breakdown of how one PM built a self-improving Claude assistant that manages tasks across tools and iterates its own prompts, providing a replicable template for AI-assisted product work.",
+          "topic": "Self-Improving Claude PM Assistant",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Melio"
+          ],
+          "importance": 4,
+          "tags": [
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-08-31T12:04:18.000Z",
+          "addedOn": "2026-08-31"
+        },
+        {
+          "id": "72b2e2fa10",
+          "title": "Instagram puts new limits on undisclosed AI profiles",
+          "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+          "source": "TechCrunch AI",
+          "summary": "Instagram is restricting reach of AI-generated profiles that do not disclose their non-human nature, responding to growing user backlash and setting a precedent for AI identity transparency on social platforms.",
+          "topic": "Instagram AI Profile Limits",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-08-31T19:16:59.000Z",
+          "addedOn": "2026-08-31"
+        },
+        {
+          "id": "c53175c7d6",
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+          "source": "Hacker News",
+          "summary": "Unexpectedly high demand for Mac Mini and Mac Studio driven by AI workloads caught Apple off guard, indicating that local AI compute demand is accelerating faster than supply chains anticipated.",
+          "topic": "Apple AI Hardware Demand Surge",
+          "company": "Apple",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-08-31T12:41:22.000Z",
+          "addedOn": "2026-08-31"
+        },
+        {
+          "id": "6eb0d063d6",
+          "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+          "source": "The Verge",
+          "summary": "Debian voted to allow AI-assisted code contributions to its Linux distribution, a meaningful signal that major open-source communities are formalizing rather than restricting AI tooling in development.",
+          "topic": "Debian Allows AI Code Contributions",
+          "company": "Debian",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "open-source",
+            "tooling"
+          ],
+          "publishedAt": "2026-08-31T15:34:58.000Z",
+          "addedOn": "2026-08-31"
+        },
+        {
+          "id": "773b325bd3",
+          "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+          "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "Clipto reached $15M ARR and profitability before raising a $15M round at a $250M valuation, demonstrating viable unit economics in AI-powered enterprise video search.",
+          "topic": "Clipto AI Video Search Funding",
+          "company": "Clipto",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "product"
+          ],
+          "publishedAt": "2026-08-31T16:00:00.000Z",
+          "addedOn": "2026-08-31"
+        },
+        {
+          "id": "9f2cf70104",
+          "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+          "link": "https://github.com/Hebbian-Robotics/hflow",
+          "source": "Hacker News",
+          "summary": "Hebbian Robotics is launching an open-source SDK for building scalable robotics data pipelines from multimodal recordings, targeting a core bottleneck in robot learning infrastructure.",
+          "topic": "Hebbian Robotics YC Launch",
+          "company": "Hebbian Robotics",
+          "secondaryCompanies": [
+            "Y Combinator"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "open-source",
+            "infra"
+          ],
+          "publishedAt": "2026-08-31T15:02:41.000Z",
+          "addedOn": "2026-08-31"
+        }
+      ]
+    },
     {
       "date": "2026-08-30",
       "summary": "Sony Music and Warner Chappell have filed a broad copyright lawsuit against Anthropic alleging mass unlicensed use of song lyrics, adding significant legal pressure to the AI company's training data practices. OpenAI's product lead for Codex and ChatGPT Work outlines a strategic vision for persistent AI coworkers, offering direct signal on where OpenAI is taking its product roadmap. A privacy and trust issue emerged around Claude Code appending session URLs to commit messages by default, which warrants attention for teams using AI coding tools.",
