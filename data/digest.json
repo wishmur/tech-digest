@@ -1,6 +1,200 @@
 {
-  "lastUpdated": "2026-08-31T19:44:03.436Z",
+  "lastUpdated": "2026-09-01T17:29:13.157Z",
   "days": [
+    {
+      "date": "2026-09-01",
+      "summary": "NVIDIA earnings dominated strategic analysis today, with Stratechery framing the results as the company deliberately avoiding a consolidated AI world. AWS launched Graviton5-powered EC2 R9g instances for memory-intensive workloads, and OpenAI expanded ChatGPT Health with Epic EHR integration for clinicians. The Pentagon also added ChatGPT and Grok to its central AI portal, signaling accelerating government adoption of commercial AI tools.",
+      "items": [
+        {
+          "id": "7219773a20",
+          "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
+          "link": "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/",
+          "source": "Stratechery",
+          "summary": "Stratechery's analysis of NVIDIA earnings frames the company's strategy around avoiding AI market consolidation, a key lens for PMs thinking about the AI infrastructure landscape.",
+          "topic": "NVIDIA Earnings & Strategy",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Hugging Face"
+          ],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "research",
+            "infra"
+          ],
+          "publishedAt": "2026-09-01T10:00:00.000Z",
+          "addedOn": "2026-09-01"
+        },
+        {
+          "id": "289ac3138f",
+          "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
+          "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+          "source": "AWS News",
+          "summary": "AWS Graviton5-powered R9g and R9gd instances are now generally available with up to 25% better compute performance than the previous generation, relevant for teams running databases and in-memory workloads on AWS.",
+          "topic": "AWS Graviton5 Launch",
+          "company": "AWS",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "infra"
+          ],
+          "publishedAt": "2026-08-31T19:53:34.000Z",
+          "addedOn": "2026-09-01"
+        },
+        {
+          "id": "18f7db1b68",
+          "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+          "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's ChatGPT Health now integrates with Epic to give clinicians read-only access to patient records, marking a concrete step toward AI adoption in regulated healthcare workflows.",
+          "topic": "ChatGPT Health x Epic Integration",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Epic"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-09-01T17:00:00.000Z",
+          "addedOn": "2026-09-01"
+        },
+        {
+          "id": "77b770af97",
+          "title": "The Pentagon now has its own version of ChatGPT and Grok",
+          "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+          "source": "TechCrunch AI",
+          "summary": "The Pentagon is adding ChatGPT and Grok to its central AI portal alongside Google Gemini, representing significant government validation of commercial AI products and a growing competitive defense market.",
+          "topic": "Pentagon AI Adoption",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "xAI",
+            "Google"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-08-31T20:13:45.000Z",
+          "addedOn": "2026-09-01"
+        },
+        {
+          "id": "fd6ea7e03b",
+          "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+          "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+          "source": "TechCrunch AI",
+          "summary": "AIR raised $50M to provide governance and vetting for AI agents running inside enterprises, addressing a real and growing security gap as agentic AI deployments accelerate.",
+          "topic": "AI Agent Governance Funding",
+          "company": "AIR",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-09-01T15:45:51.000Z",
+          "addedOn": "2026-09-01"
+        },
+        {
+          "id": "9995525a45",
+          "title": "Google Pics is like Canva, but with even more AI",
+          "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+          "source": "The Verge",
+          "summary": "Google launched Pics, an AI-powered design and image editing suite for Workspace users, putting it in direct competition with Canva for business creative workflows.",
+          "topic": "Google Pics Launch",
+          "company": "Google",
+          "secondaryCompanies": [
+            "Canva"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-01T16:00:00.000Z",
+          "addedOn": "2026-09-01"
+        },
+        {
+          "id": "91bace9854",
+          "title": "John Deere launched an AI chatbot for farmers",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+          "source": "The Verge",
+          "summary": "John Deere launched an AI chatbot for farmers that draws on their own operational data, a notable example of vertical AI assistants moving into agriculture and heavy industry.",
+          "topic": "John Deere AI Assistant",
+          "company": "John Deere",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-09-01T16:00:52.000Z",
+          "addedOn": "2026-09-01"
+        },
+        {
+          "id": "f9f3593ed2",
+          "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+          "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+          "source": "TechCrunch AI",
+          "summary": "Sequoia-incubated Empirik raised $21M to use AI for predicting IT infrastructure outages, positioning itself as an AI-native observability player in a market dominated by incumbents like Datadog.",
+          "topic": "AI IT Observability Funding",
+          "company": "Empirik",
+          "secondaryCompanies": [
+            "Sequoia"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "launch",
+            "infra"
+          ],
+          "publishedAt": "2026-09-01T16:31:04.000Z",
+          "addedOn": "2026-09-01"
+        },
+        {
+          "id": "4782a64faa",
+          "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+          "link": "https://github.com/carloslfu/slotstream",
+          "source": "Hacker News",
+          "summary": "A developer built a method to run a 125B parameter model on a 48GB Mac via expert-offloading and SSD streaming, relevant for PMs evaluating on-device or low-cost local AI deployment options.",
+          "topic": "Local LLM Efficiency",
+          "company": "Qwen",
+          "secondaryCompanies": [
+            "Apple"
+          ],
+          "importance": 3,
+          "tags": [
+            "open-source",
+            "infra",
+            "tooling"
+          ],
+          "publishedAt": "2026-09-01T16:42:46.000Z",
+          "addedOn": "2026-09-01"
+        },
+        {
+          "id": "9c44d6cfdf",
+          "title": "How to turn your AI into a world-class designer",
+          "link": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+          "source": "Lenny's Newsletter",
+          "summary": "Lenny's Newsletter published a practical end-to-end process for using AI as a design collaborator, directly useful for PMs who need design output without a dedicated designer.",
+          "topic": "AI for Product Design",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "tooling"
+          ],
+          "publishedAt": "2026-09-01T12:45:59.000Z",
+          "addedOn": "2026-09-01"
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "summary": "AWS is acquiring DuckLabs, the company behind the popular open-source analytical database DuckDB, marking a significant infrastructure move for AWS. Nvidia is deepening its chip strategy with a $3.5B investment in MediaTek to maintain relevance as Big Tech builds proprietary AI chips. OpenAI faces tightened EU regulation on ChatGPT covering minors, mental health, and illegal content, while a PM-focused podcast details how Claude is handling 70-80% of daily PM workload, reflecting a shift in how product teams are adopting AI tools.",
