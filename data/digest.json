@@ -1,6 +1,193 @@
 {
-  "lastUpdated": "2026-09-01T17:29:13.157Z",
+  "lastUpdated": "2026-09-03T17:21:45.487Z",
   "days": [
+    {
+      "date": "2026-09-03",
+      "summary": "NVIDIA is acquiring Hugging Face for $12.9 billion, giving it direct ownership of the largest open-source AI model hub used by 18 million developers. Google released Gemini 3.8 Flash alongside a new AI weather model, while OpenAI's new Astra reasoning model is drawing safety concerns over its unconventional 'recurrent depth' technique. Multiple major AI services including OpenAI, Claude, and Grok experienced simultaneous outages today, a reliability signal PMs should note.",
+      "items": [
+        {
+          "id": "8c1744a63c",
+          "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+          "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+          "source": "TechCrunch AI",
+          "summary": "NVIDIA acquiring Hugging Face for $12.9 billion reshapes the AI tooling landscape by giving the chip giant direct control over the dominant open-source model distribution platform used by 18 million developers.",
+          "topic": "NVIDIA acquires Hugging Face",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "Hugging Face"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "competitive",
+            "launch"
+          ],
+          "publishedAt": "2026-09-03T12:42:45.000Z",
+          "addedOn": "2026-09-03"
+        },
+        {
+          "id": "8830159e65",
+          "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+          "source": "Hacker News",
+          "summary": "Google DeepMind released Gemini 3.8 Flash and a Cyber variant, continuing rapid iteration on its Flash model line which is widely used by developers for speed-cost tradeoffs in production.",
+          "topic": "Gemini 3.8 Flash launch",
+          "company": "Google DeepMind",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-09-02T15:12:40.000Z",
+          "addedOn": "2026-09-03"
+        },
+        {
+          "id": "373be54006",
+          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+          "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's Astra model uses 'recurrent depth' reasoning outside standard sequential token generation, which AI safety researchers say introduces new alignment risks that are harder to monitor or constrain.",
+          "topic": "OpenAI Astra model safety concerns",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "research",
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-09-02T20:19:14.000Z",
+          "addedOn": "2026-09-03"
+        },
+        {
+          "id": "122c318801",
+          "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+          "link": "https://news.ycombinator.com/item?id=49551096",
+          "source": "Hacker News",
+          "summary": "OpenAI, Anthropic's Claude, and xAI's Grok went down simultaneously, raising questions about shared infrastructure dependencies or correlated failure modes across frontier AI providers.",
+          "topic": "Simultaneous AI service outages",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Anthropic",
+            "xAI"
+          ],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-03T15:07:01.000Z",
+          "addedOn": "2026-09-03"
+        },
+        {
+          "id": "5bd83278d9",
+          "title": "Claude for Commerce Agents",
+          "link": "https://claude.com/blog/claude-for-commerce-agents",
+          "source": "Hacker News",
+          "summary": "Anthropic launched Claude for Commerce Agents, a purpose-built offering for AI agents operating in e-commerce workflows, signaling a push into vertical agent deployment.",
+          "topic": "Claude for Commerce Agents launch",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-09-03T09:37:55.000Z",
+          "addedOn": "2026-09-03"
+        },
+        {
+          "id": "bb7ed2dfba",
+          "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+          "source": "The Verge",
+          "summary": "NVIDIA released Personal AI Router (PAIR), a free tool that federates idle home computers into a local AI inference cluster, lowering the barrier for running models like those on Ollama and LM Studio without cloud costs.",
+          "topic": "NVIDIA Personal AI Router",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "tooling",
+            "infra"
+          ],
+          "publishedAt": "2026-09-03T16:00:00.000Z",
+          "addedOn": "2026-09-03"
+        },
+        {
+          "id": "241155a602",
+          "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+          "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+          "source": "TechCrunch AI",
+          "summary": "The US government filed a position supporting OpenAI's right to train on copyrighted material, framing AI competitiveness as a national interest, which could shape pending copyright litigation affecting the entire industry.",
+          "topic": "US government supports LLM copyright training",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-02T17:09:06.000Z",
+          "addedOn": "2026-09-03"
+        },
+        {
+          "id": "9148fb3881",
+          "title": "Muse Spark 1.3",
+          "link": "https://developer.meta.com/ai/models/muse-spark/",
+          "source": "Hacker News",
+          "summary": "Meta released Muse Spark 1.3, its creative AI model update that earned significant community traction on Hacker News, indicating growing developer interest in Meta's open creative AI tooling.",
+          "topic": "Meta Muse Spark 1.3",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "open-source",
+            "product"
+          ],
+          "publishedAt": "2026-09-02T19:35:04.000Z",
+          "addedOn": "2026-09-03"
+        },
+        {
+          "id": "9ebf8f5d0c",
+          "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+          "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+          "source": "TechCrunch AI",
+          "summary": "Google's WeatherNext 3 AI weather model will feed directly into Search and Maps results, making it a product-layer integration of deep learning that sets a template for how AI models get embedded into consumer surfaces.",
+          "topic": "Google AI weather model integration",
+          "company": "Google",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-09-03T15:00:00.000Z",
+          "addedOn": "2026-09-03"
+        },
+        {
+          "id": "b655f59646",
+          "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+          "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+          "source": "TechCrunch AI",
+          "summary": "HiddenLayer raised $100 million to secure AI deployments including agent monitoring, reflecting enterprise demand for AI-specific security tooling as agentic systems move into production.",
+          "topic": "HiddenLayer $100M AI security funding",
+          "company": "HiddenLayer",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-09-02T15:01:23.000Z",
+          "addedOn": "2026-09-03"
+        }
+      ]
+    },
     {
       "date": "2026-09-01",
       "summary": "NVIDIA earnings dominated strategic analysis today, with Stratechery framing the results as the company deliberately avoiding a consolidated AI world. AWS launched Graviton5-powered EC2 R9g instances for memory-intensive workloads, and OpenAI expanded ChatGPT Health with Epic EHR integration for clinicians. The Pentagon also added ChatGPT and Grok to its central AI portal, signaling accelerating government adoption of commercial AI tools.",
