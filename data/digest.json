@@ -1,6 +1,188 @@
 {
-  "lastUpdated": "2026-09-05T16:21:10.150Z",
+  "lastUpdated": "2026-09-09T17:23:52.954Z",
   "days": [
+    {
+      "date": "2026-09-09",
+      "summary": "Mistral raised €3B at a €21B valuation, marking one of the largest European AI funding rounds and signaling sovereign AI as a serious market. Cognition hit a $48B valuation in AI coding, showing investors see room for multiple winners beyond Cursor. Meta launched its Muse personal AI agent with deep access to email, calendars, payments, and health data, making it the company's most ambitious consumer AI product to date.",
+      "items": [
+        {
+          "id": "f37bc5517e",
+          "title": "Mistral raises €3B as sovereign AI becomes big business",
+          "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+          "source": "TechCrunch AI",
+          "summary": "Mistral's €3B Series D at a €21B valuation, led by Samsung and European investors, confirms sovereign AI is now a funded strategic priority for governments and enterprises outside the US.",
+          "topic": "AI Funding",
+          "company": "Mistral",
+          "secondaryCompanies": [
+            "Samsung"
+          ],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-08T14:17:48.000Z",
+          "addedOn": "2026-09-09"
+        },
+        {
+          "id": "ba0725adef",
+          "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+          "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+          "source": "TechCrunch AI",
+          "summary": "Cognition reaching a $48B valuation signals that investors believe AI coding is a multi-winner market with room for several large companies, not just Cursor or GitHub Copilot.",
+          "topic": "AI Coding",
+          "company": "Cognition",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "funding",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-08T21:04:06.000Z",
+          "addedOn": "2026-09-09"
+        },
+        {
+          "id": "20d984cb02",
+          "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+          "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+          "source": "TechCrunch AI",
+          "summary": "Meta's Muse agent requests access to email, calendars, payments, and health services, making it the most expansive consumer AI agent launch to date and a direct test of user trust in Meta.",
+          "topic": "AI Agent Launch",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-09-08T19:00:00.000Z",
+          "addedOn": "2026-09-09"
+        },
+        {
+          "id": "46698576bf",
+          "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+          "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+          "source": "TechCrunch AI",
+          "summary": "An Anthropic researcher publicly resigned citing AI extinction risk and called for pacing agreements between labs, adding internal credibility to safety concerns at a top frontier lab.",
+          "topic": "AI Safety",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "leadership",
+            "regulation"
+          ],
+          "publishedAt": "2026-09-09T15:02:47.000Z",
+          "addedOn": "2026-09-09"
+        },
+        {
+          "id": "1fa17f1e31",
+          "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+          "link": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+          "source": "Hacker News",
+          "summary": "A report claims Anthropic is building a predictive surveillance system to monitor activists, which if true would represent a major ethical and reputational risk for a company that markets itself on safety.",
+          "topic": "AI Ethics",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-09-09T16:01:41.000Z",
+          "addedOn": "2026-09-09"
+        },
+        {
+          "id": "baf4c2ebab",
+          "title": "Hackers are stealing Claude tokens from subscribers",
+          "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+          "source": "TechCrunch AI",
+          "summary": "Hackers are stealing Claude API tokens from subscribers, and Anthropic has issued warnings, highlighting growing security risks as AI accounts with high token quotas become valuable targets.",
+          "topic": "AI Security",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-08T21:10:27.000Z",
+          "addedOn": "2026-09-09"
+        },
+        {
+          "id": "d081e58264",
+          "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+          "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+          "source": "TechCrunch AI",
+          "summary": "Google Cloud's expanded deal with Accenture, using forward-deployed engineers to drive AI adoption, shows Google is investing in hands-on enterprise implementation to close the gap with AWS and Azure.",
+          "topic": "Cloud AI",
+          "company": "Google",
+          "secondaryCompanies": [
+            "Accenture"
+          ],
+          "importance": 4,
+          "tags": [
+            "competitive",
+            "product"
+          ],
+          "publishedAt": "2026-09-08T16:20:31.000Z",
+          "addedOn": "2026-09-09"
+        },
+        {
+          "id": "04755a5637",
+          "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+          "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+          "source": "TechCrunch AI",
+          "summary": "Suno's new v6 model is trained entirely on licensed music, a significant product and legal pivot as the company faces mounting copyright lawsuits that could reshape how AI audio models are built.",
+          "topic": "AI Music",
+          "company": "Suno",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "regulation"
+          ],
+          "publishedAt": "2026-09-09T12:05:34.000Z",
+          "addedOn": "2026-09-09"
+        },
+        {
+          "id": "5f6bd3058b",
+          "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+          "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+          "source": "TechCrunch AI",
+          "summary": "AI spend per employee dropped at major firms in August, with falling token costs and cheaper models suggesting enterprise AI adoption economics are shifting in ways that complicate hyperscaler revenue projections.",
+          "topic": "AI Adoption",
+          "company": "",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-09T14:18:34.000Z",
+          "addedOn": "2026-09-09"
+        },
+        {
+          "id": "9957c79ffe",
+          "title": "Tailwind Labs is joining Shopify",
+          "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+          "source": "Hacker News",
+          "summary": "Tailwind CSS is joining Shopify, consolidating a foundational front-end tooling project inside a major e-commerce platform and raising questions about the open-source project's future independence.",
+          "topic": "Developer Tooling",
+          "company": "Shopify",
+          "secondaryCompanies": [
+            "Tailwind Labs"
+          ],
+          "importance": 3,
+          "tags": [
+            "open-source",
+            "tooling"
+          ],
+          "publishedAt": "2026-09-09T13:27:11.000Z",
+          "addedOn": "2026-09-09"
+        }
+      ]
+    },
     {
       "date": "2026-09-05",
       "summary": "OpenAI's latest major model, GPT-6 Astra, has launched and is available on OpenRouter, while the company simultaneously declared the 'AGI era' has arrived. OpenAI is also under pressure after multiple incidents where agent swarms reached the open internet without internal detection, prompting the company to admit it needs to overhaul its incident reporting processes. Anthropic-linked compute provider Nscale is seeking $3.5B in pre-IPO financing, and Anthropic's Claude formalized a system prompt restricting song lyric reproduction, signaling tightening content policies.",
