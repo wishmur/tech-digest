@@ -1,6 +1,191 @@
 {
-  "lastUpdated": "2026-09-10T17:22:17.526Z",
+  "lastUpdated": "2026-09-11T17:23:24.261Z",
   "days": [
+    {
+      "date": "2026-09-11",
+      "summary": "Anthropic disclosed persistent model distillation attacks by Chinese AI companies including DeepSeek, Alibaba, and Moonshot AI, raising serious IP and security concerns for the industry. NVIDIA's Jensen Huang outlined why the company expects roughly 70% growth next year, pointing to continued infrastructure demand across every layer of AI. OpenAI paused new Pro subscriptions due to capacity strain from Astra demand, and separately the OpenAI Agents API gained significant developer traction on Hacker News.",
+      "items": [
+        {
+          "id": "999f113dc0",
+          "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+          "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic published a report alleging that Alibaba, Moonshot AI, and DeepSeek have been systematically extracting knowledge from its models through distillation attacks, which has major implications for AI IP protection and how frontier labs govern API access.",
+          "topic": "AI Model Security",
+          "company": "Anthropic",
+          "secondaryCompanies": [
+            "Alibaba",
+            "Moonshot AI",
+            "DeepSeek"
+          ],
+          "importance": 5,
+          "tags": [
+            "competitive",
+            "research",
+            "product"
+          ],
+          "publishedAt": "2026-09-10T20:57:30.000Z",
+          "addedOn": "2026-09-11"
+        },
+        {
+          "id": "3f1b7e6d6a",
+          "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+          "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+          "source": "TechCrunch AI",
+          "summary": "Jensen Huang laid out NVIDIA's case for ~70% revenue growth next year, citing demand across every layer of the AI stack and rebutting concerns that its deals are circular or artificially inflated.",
+          "topic": "NVIDIA Growth Outlook",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-10T21:51:59.000Z",
+          "addedOn": "2026-09-11"
+        },
+        {
+          "id": "0f4979d248",
+          "title": "OpenAI Agents API",
+          "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+          "source": "Hacker News",
+          "summary": "OpenAI's Agents API documentation surfaced on Hacker News with strong engagement, signaling active developer adoption of the agentic programming model that PMs building on top of OpenAI need to understand.",
+          "topic": "AI Developer Platform",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "tooling",
+            "product"
+          ],
+          "publishedAt": "2026-09-10T19:43:22.000Z",
+          "addedOn": "2026-09-11"
+        },
+        {
+          "id": "5a7a028d73",
+          "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+          "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is pausing new Pro subscriber sign-ups because Astra-tier users consume disproportionate compute, revealing real capacity constraints that affect product availability and growth strategy.",
+          "topic": "OpenAI Product Capacity",
+          "company": "OpenAI",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-09-10T20:59:51.000Z",
+          "addedOn": "2026-09-11"
+        },
+        {
+          "id": "8842256906",
+          "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+          "link": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA detailed how the top global robotaxi companies are building on its Physical AI stack, positioning NVIDIA as the foundational infrastructure layer for a projected $400B robotaxi market by 2035.",
+          "topic": "Physical AI / Robotaxi",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "infra",
+            "launch",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-10T16:00:04.000Z",
+          "addedOn": "2026-09-11"
+        },
+        {
+          "id": "3eb10fd44c",
+          "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+          "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "Nscale added Fidji Simo, former OpenAI No. 2 and Instacart IPO leader, to its board as the AI cloud provider signals a potential public offering, making it a company to watch in the GPU cloud space.",
+          "topic": "AI Infra / IPO Signal",
+          "company": "Nscale",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 3,
+          "tags": [
+            "leadership",
+            "funding"
+          ],
+          "publishedAt": "2026-09-11T16:46:25.000Z",
+          "addedOn": "2026-09-11"
+        },
+        {
+          "id": "cb1f3ebf6d",
+          "title": "Claude is only available to people over 18 years",
+          "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "Hacker News",
+          "summary": "Anthropic quietly implemented an 18+ age requirement for Claude, a significant product and compliance decision that affects developer integrations and raises questions about how other frontier models will follow.",
+          "topic": "AI Product Policy",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-09-11T10:48:00.000Z",
+          "addedOn": "2026-09-11"
+        },
+        {
+          "id": "e32e3658be",
+          "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "source": "The Verge",
+          "summary": "Meta is revising its AI chatbot's suggested prompts after the system was caught asking invasive personal questions about children, a product trust incident that underscores the risks of agentic conversation design.",
+          "topic": "AI Product Safety",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-09-11T14:25:21.000Z",
+          "addedOn": "2026-09-11"
+        },
+        {
+          "id": "755f7769e7",
+          "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+          "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+          "source": "TechCrunch AI",
+          "summary": "Pocket FM doubled its revenue run rate to $500M by using AI to generate 99% of new audio content, cutting production costs by 80x, a concrete case study of AI-driven content economics at scale.",
+          "topic": "AI Content Economics",
+          "company": "Pocket FM",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-09-10T17:45:00.000Z",
+          "addedOn": "2026-09-11"
+        },
+        {
+          "id": "d40cabdd4c",
+          "title": "Maven Robotics wants to steal your robot deployment deal",
+          "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+          "source": "TechCrunch AI",
+          "summary": "Maven Robotics launched from stealth with a $100M Series A and live deployments, entering the competitive robot-as-a-service deployment market with significant early capital.",
+          "topic": "Robotics Funding",
+          "company": "Maven Robotics",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "launch"
+          ],
+          "publishedAt": "2026-09-10T14:17:37.000Z",
+          "addedOn": "2026-09-11"
+        }
+      ]
+    },
     {
       "date": "2026-09-10",
       "summary": "OpenAI added prominent AI safety researcher Paul Christiano to its board, signaling a renewed alignment focus amid growing scrutiny of AI risk. Apple's fall event introduced the iPhone Duo foldable and several AI-powered features including an always-listening Apple Watch and AI-enhanced Health app, making it a significant product week. Cognition launched SWE-2, a new software engineering model competing with top coding AI benchmarks, adding pressure to the agentic coding space.",
