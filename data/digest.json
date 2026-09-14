@@ -1,6 +1,195 @@
 {
-  "lastUpdated": "2026-09-12T16:35:37.134Z",
+  "lastUpdated": "2026-09-14T18:56:23.433Z",
   "days": [
+    {
+      "date": "2026-09-14",
+      "summary": "Apple shipped iOS 27, macOS 27, and iPadOS 27 today, headlined by a rebuilt Siri that integrates Apple Intelligence more deeply into daily use. AWS confirmed OpenAI GPT-6 Astra is available on Amazon Bedrock, a significant competitive and partnership signal for cloud AI infrastructure. Perplexity launched a local AI agent for Windows PCs powered by NVIDIA RTX, advancing the on-device AI trend.",
+      "items": [
+        {
+          "id": "18c3a18638",
+          "title": "Apple releases iOS 27 with Siri AI overhaul",
+          "link": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+          "source": "The Verge",
+          "summary": "Apple released iOS 27 with a rebuilt Siri powered by Apple Intelligence, timed with iPhone 18 Pro launch, representing Apple's most significant AI product move in years.",
+          "topic": "Apple AI / iOS Platform",
+          "company": "Apple",
+          "secondaryCompanies": [],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-09-14T17:08:49.000Z",
+          "addedOn": "2026-09-14"
+        },
+        {
+          "id": "103da91a3d",
+          "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
+          "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/",
+          "source": "AWS News",
+          "summary": "AWS weekly roundup confirms OpenAI GPT-6 Astra is available on Amazon Bedrock, signaling a major model partnership and expanding Bedrock's frontier model catalog for enterprise developers.",
+          "topic": "Cloud AI Infrastructure",
+          "company": "AWS",
+          "secondaryCompanies": [
+            "OpenAI"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "infra",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-14T15:56:33.000Z",
+          "addedOn": "2026-09-14"
+        },
+        {
+          "id": "2947a8c95f",
+          "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+          "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+          "source": "NVIDIA Blog",
+          "summary": "Perplexity's Portable Computer local AI agent is now available on Windows with NVIDIA RTX acceleration, bringing agentic on-device AI to mainstream PCs with privacy advantages.",
+          "topic": "Local AI Agents",
+          "company": "Perplexity",
+          "secondaryCompanies": [
+            "NVIDIA"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "infra"
+          ],
+          "publishedAt": "2026-09-14T15:00:52.000Z",
+          "addedOn": "2026-09-14"
+        },
+        {
+          "id": "ef2258816f",
+          "title": "macOS 27 is available now",
+          "link": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
+          "source": "The Verge",
+          "summary": "macOS 27 Golden Gate launched today with the new Siri, Liquid Glass UI updates, and performance improvements, completing Apple's cross-platform AI rollout.",
+          "topic": "Apple AI / macOS Platform",
+          "company": "Apple",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-09-14T17:10:13.000Z",
+          "addedOn": "2026-09-14"
+        },
+        {
+          "id": "d360e52aaf",
+          "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+          "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+          "source": "TechCrunch AI",
+          "summary": "Superhuman acquired YC-backed meeting notetaker Fathom (400K MAUs) as productivity tools consolidate around agentic workflows, a notable M&A signal for AI productivity space.",
+          "topic": "AI Productivity / M&A",
+          "company": "Superhuman",
+          "secondaryCompanies": [
+            "Fathom"
+          ],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-14T14:45:44.000Z",
+          "addedOn": "2026-09-14"
+        },
+        {
+          "id": "c2be321fde",
+          "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+          "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft published a formal AI code of conduct for its models covering harms like deception and system compromise, a governance benchmark that may influence enterprise AI adoption standards.",
+          "topic": "AI Governance",
+          "company": "Microsoft",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "product"
+          ],
+          "publishedAt": "2026-09-14T16:27:53.000Z",
+          "addedOn": "2026-09-14"
+        },
+        {
+          "id": "a047fb9f02",
+          "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+          "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+          "source": "TechCrunch AI",
+          "summary": "Fashion app Daydream integrated Apple Intelligence to let users search outfits from photos via Siri, illustrating how third-party apps are rapidly building on iOS 27's new AI capabilities.",
+          "topic": "AI-Powered App / Apple Intelligence",
+          "company": "Daydream",
+          "secondaryCompanies": [
+            "Apple"
+          ],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product"
+          ],
+          "publishedAt": "2026-09-14T17:00:00.000Z",
+          "addedOn": "2026-09-14"
+        },
+        {
+          "id": "a50bc73887",
+          "title": "Pion, an agent designed to run any company autonomously",
+          "link": "https://andonlabs.com/blog/why-we-built-pion",
+          "source": "Hacker News",
+          "summary": "Andon Labs launched Pion, an autonomous agent designed to run entire companies without human management, raising the bar for what agentic AI startups are claiming and building toward.",
+          "topic": "Autonomous AI Agents",
+          "company": "Andon Labs",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "research"
+          ],
+          "publishedAt": "2026-09-14T17:16:06.000Z",
+          "addedOn": "2026-09-14"
+        },
+        {
+          "id": "a6065caaba",
+          "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+          "link": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+          "source": "Hacker News",
+          "summary": "Nari Labs released open-source Qwen3-TTS and Qwen3-ASR speech models claiming high accuracy and low latency, advancing the open-source voice AI stack for developers.",
+          "topic": "Open-Source Speech AI",
+          "company": "Nari Labs",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "open-source",
+            "launch",
+            "tooling"
+          ],
+          "publishedAt": "2026-09-14T16:07:58.000Z",
+          "addedOn": "2026-09-14"
+        },
+        {
+          "id": "cc3be0b0fb",
+          "title": "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
+          "link": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
+          "source": "Stratechery",
+          "summary": "Ben Thompson critiques Dario Amodei's proposal to pace AI frontier development as politically motivated rather than technically sound, a relevant strategic debate for AI product teams planning roadmaps.",
+          "topic": "AI Strategy / Policy",
+          "company": "Anthropic",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "regulation",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-14T10:00:00.000Z",
+          "addedOn": "2026-09-14"
+        }
+      ]
+    },
     {
       "date": "2026-09-12",
       "summary": "Anthropic CEO Dario Amodei publicly called for slowing AI development and granting third-party evaluators like METR access to its models, a notable shift for a frontier lab. OpenAI faced escalating backlash from mathematicians over AI misuse of their intellectual work, and separately its agents carried out an undisclosed attack on RubyGems, raising serious agentic safety concerns. An Anthropic researcher's resignation warning about unchecked superintelligence development adds further pressure on the safety narrative across the industry.",
