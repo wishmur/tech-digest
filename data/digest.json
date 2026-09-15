@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-09-14T18:56:23.433Z",
+  "lastUpdated": "2026-09-15T17:48:34.205Z",
   "days": [
+    {
+      "date": "2026-09-15",
+      "summary": "OpenAI acquired smartphone camera maker Glass Imaging for $300 million, signaling a push into hardware for its AI products. Meta launched subscription bundles pairing social media and AI tools, while Salesforce and Nvidia released Koa, a sales-focused reasoning model built on Nvidia's open-weight Nemotron. OpenAI, Anthropic, and Google DeepMind have been in active safety talks for weeks, even as Jensen Huang publicly pushed back against calls to slow AI development.",
+      "items": [
+        {
+          "id": "4dd932ed2d",
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+          "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's $300M acquisition of Glass Imaging, founded by former Apple Portrait Mode engineers, points to a serious hardware strategy for AI-powered cameras and devices.",
+          "topic": "OpenAI Hardware Acquisition",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Glass Imaging",
+            "Apple"
+          ],
+          "importance": 5,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-14T20:44:14.000Z",
+          "addedOn": "2026-09-15"
+        },
+        {
+          "id": "7ca41db25b",
+          "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+          "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI, Anthropic, and Google DeepMind have been coordinating on AI safety for weeks, a rare cross-competitor alignment happening against a backdrop of U.S. political pressure to prioritize speed over safety.",
+          "topic": "AI Safety Industry Coordination",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Anthropic",
+            "Google DeepMind"
+          ],
+          "importance": 5,
+          "tags": [
+            "regulation",
+            "competitive",
+            "research"
+          ],
+          "publishedAt": "2026-09-15T15:47:03.000Z",
+          "addedOn": "2026-09-15"
+        },
+        {
+          "id": "221b10e962",
+          "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+          "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+          "source": "TechCrunch AI",
+          "summary": "Salesforce Koa, built on Nvidia's open-weight Nemotron model, is a domain-specific reasoning model for sales and support tasks that demonstrates how enterprises can build competitive AI products without training from scratch.",
+          "topic": "Enterprise AI Model Launch",
+          "company": "Salesforce",
+          "secondaryCompanies": [
+            "NVIDIA"
+          ],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "open-source",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-15T12:00:00.000Z",
+          "addedOn": "2026-09-15"
+        },
+        {
+          "id": "71b2c4f295",
+          "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+          "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia CEO Jensen Huang told the Trump administration that AI development will not slow down, directly countering calls from Sam Altman, Elon Musk, and Dario Amodei, reinforcing Nvidia's infrastructure-first stance.",
+          "topic": "NVIDIA AI Policy Stance",
+          "company": "NVIDIA",
+          "secondaryCompanies": [
+            "OpenAI",
+            "Anthropic"
+          ],
+          "importance": 4,
+          "tags": [
+            "regulation",
+            "competitive",
+            "leadership"
+          ],
+          "publishedAt": "2026-09-14T21:51:02.000Z",
+          "addedOn": "2026-09-15"
+        },
+        {
+          "id": "5e497c447d",
+          "title": "Meta expands subscription push with new AI-focused plans",
+          "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+          "source": "TechCrunch AI",
+          "summary": "Meta's new Meta One subscription bundles AI features across Facebook, Instagram, and WhatsApp, marking a meaningful shift toward monetizing AI directly through consumer subscriptions.",
+          "topic": "Meta AI Subscription Launch",
+          "company": "Meta",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-15T17:05:24.000Z",
+          "addedOn": "2026-09-15"
+        },
+        {
+          "id": "a99284cc09",
+          "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+          "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+          "source": "TechCrunch AI",
+          "summary": "AEO startup Profound raised a $180M Series D at a $1.8B valuation just seven months after its Series C, reflecting strong investor conviction in the market for AI answer engine optimization tools.",
+          "topic": "AEO Startup Funding",
+          "company": "Profound",
+          "secondaryCompanies": [],
+          "importance": 4,
+          "tags": [
+            "funding",
+            "product",
+            "launch"
+          ],
+          "publishedAt": "2026-09-15T15:22:48.000Z",
+          "addedOn": "2026-09-15"
+        },
+        {
+          "id": "2825d2f7a8",
+          "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+          "link": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+          "source": "NVIDIA Blog",
+          "summary": "Nvidia used the AI Infra Summit to showcase Vera Rubin platform advances focused on tokens-per-watt efficiency, a metric that will matter more as AI factory operating costs scale.",
+          "topic": "NVIDIA AI Infrastructure Efficiency",
+          "company": "NVIDIA",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "infra",
+            "launch",
+            "research"
+          ],
+          "publishedAt": "2026-09-15T16:55:40.000Z",
+          "addedOn": "2026-09-15"
+        },
+        {
+          "id": "06261c41c4",
+          "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+          "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Startup AIUC, founded by an early Anthropic hire and former METR COO, raised a $40M Series A to provide insurance and risk mechanisms for autonomous AI agents, a new category as agentic deployments scale.",
+          "topic": "AI Agent Risk Startup Funding",
+          "company": "AIUC",
+          "secondaryCompanies": [
+            "Anthropic",
+            "Ribbit Capital"
+          ],
+          "importance": 3,
+          "tags": [
+            "funding",
+            "product",
+            "regulation"
+          ],
+          "publishedAt": "2026-09-15T13:00:00.000Z",
+          "addedOn": "2026-09-15"
+        },
+        {
+          "id": "6b89f6f497",
+          "title": "With iOS 27, I’m actually using Siri again",
+          "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+          "source": "TechCrunch AI",
+          "summary": "Apple's iOS 27 Siri overhaul delivers a meaningfully improved assistant experience, which matters for PMs building apps that rely on or compete with on-device AI.",
+          "topic": "Apple Siri Overhaul",
+          "company": "Apple",
+          "secondaryCompanies": [],
+          "importance": 3,
+          "tags": [
+            "launch",
+            "product",
+            "competitive"
+          ],
+          "publishedAt": "2026-09-14T17:10:30.000Z",
+          "addedOn": "2026-09-15"
+        },
+        {
+          "id": "7cd996853f",
+          "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+          "link": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+          "source": "Stratechery",
+          "summary": "Stratechery reports ChatGPT ads are gaining traction and solve a core problem Amazon has with chatbot commerce, with Walmart also adopting Apple Pay, illustrating how AI surfaces are reshaping retail and advertising distribution.",
+          "topic": "ChatGPT Advertising and Commerce",
+          "company": "OpenAI",
+          "secondaryCompanies": [
+            "Amazon",
+            "Walmart",
+            "Apple"
+          ],
+          "importance": 3,
+          "tags": [
+            "product",
+            "competitive",
+            "launch"
+          ],
+          "publishedAt": "2026-09-15T10:00:00.000Z",
+          "addedOn": "2026-09-15"
+        }
+      ]
+    },
     {
       "date": "2026-09-14",
       "summary": "Apple shipped iOS 27, macOS 27, and iPadOS 27 today, headlined by a rebuilt Siri that integrates Apple Intelligence more deeply into daily use. AWS confirmed OpenAI GPT-6 Astra is available on Amazon Bedrock, a significant competitive and partnership signal for cloud AI infrastructure. Perplexity launched a local AI agent for Windows PCs powered by NVIDIA RTX, advancing the on-device AI trend.",
